@@ -80,7 +80,7 @@
     let DB = [];
 
     // 샘플 데이터 로드
-    fetch('./data/sample.json')
+    fetch('./data/companies.json')
       .then(r => r.json())
       .then(data => { DB = data; })
       .catch(() => {
