@@ -176,20 +176,32 @@
 
     function renderCard(company, highlightTool) {
       const sourceLabel = { vendor_case_study: '공식 사례', media_article: '미디어 기사', job_posting: '채용공고' };
+    // 루트/비검증 URL 패턴 (링크 숨김 처리)
+    const ROOT_PATTERNS = [/\/customers\/?$/, /\/customer-stories\/?$/, /\/customers\/search/];
+    function isVerified(url) { return url && !ROOT_PATTERNS.some(p => p.test(url)); }
+
       const tools = company.tools
         .filter(t => !highlightTool || t.name.toLowerCase().includes(highlightTool))
         .map(t => {
           const color = TOOL_COLORS[t.name] || TOOL_COLORS['default'];
+          const verified = isVerified(t.source_url);
+          const wrapper_open = verified
+            ? `<a href="${t.source_url}" target="_blank" rel="noopener" class="tool-badge block p-4 rounded-xl border border-gray-100 bg-white hover:border-blue-200 transition-all">`
+            : `<div class="tool-badge block p-4 rounded-xl border border-gray-100 bg-white">`;
+          const wrapper_close = verified ? `</a>` : `</div>`;
+          const urlLine = verified
+            ? `<p class="text-xs text-blue-400 mt-1 truncate">${t.source_url}</p>`
+            : `<p class="text-xs text-gray-300 mt-1">출처 미확인 (데이터 검증 중)</p>`;
           return `
-            <a href="${t.source_url}" target="_blank" rel="noopener" class="tool-badge block p-4 rounded-xl border border-gray-100 bg-white hover:border-blue-200 transition-all">
+            ${wrapper_open}
               <div class="flex items-center gap-3 mb-2">
                 <span class="text-2xl">${color.icon}</span>
                 <span class="font-semibold text-gray-800">${t.name}</span>
-                <span class="ml-auto text-xs px-2 py-0.5 rounded-full ${color.bg} ${color.text}">${sourceLabel[t.source_type] || t.source_type}</span>
+                <span class="ml-auto text-xs px-2 py-0.5 rounded-full ${color.bg} ${color.text}">${verified ? (sourceLabel[t.source_type] || t.source_type) : '검증 중'}</span>
               </div>
               <p class="text-sm text-gray-500">${t.use_case}</p>
-              <p class="text-xs text-blue-400 mt-1 truncate">${t.source_url}</p>
-            </a>`;
+              ${urlLine}
+            ${wrapper_close}`;
         }).join('');
 
       return `
