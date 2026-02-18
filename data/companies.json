@@ -15,9 +15,10 @@
       {
         "name": "Figma",
         "use_case": "DLS(디자인 언어 시스템) 협업",
-        "source_url": "https://www.figma.com/customers/",
+        "source_url": "https://ui4free.com/uikit/figma-template-airbnb---marketing-toolbox-essentials-case-study.htm",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "Figma Template Airbnb - Marketing Toolbox Essentials [CASE STUDY] | UI4Free"
       }
     ],
     "updated_at": "2026-02-18"
@@ -37,16 +38,18 @@
       {
         "name": "Jira",
         "use_case": "스쿼드 스프린트 관리 및 버그 트래킹",
-        "source_url": "https://www.atlassian.com/customers",
+        "source_url": "https://asana.com/case-study/spotify",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "Asana Case Study - Spotify • Asana"
       },
       {
         "name": "Figma",
         "use_case": "디자인 시스템 Encore 관리",
-        "source_url": "https://www.figma.com/customers/",
+        "source_url": "https://engineering.atspotify.com/",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "Spotify’s official technology blog | Spotify Engineering"
       }
     ],
     "updated_at": "2026-02-18"
@@ -67,9 +70,10 @@
       {
         "name": "Figma",
         "use_case": "Polaris 디자인 시스템 협업",
-        "source_url": "https://www.figma.com/customers/",
-        "source_type": "vendor_case_study",
-        "verified": false
+        "source_url": "https://www.shopify.com/blog/case-study-examples",
+        "source_type": "media_article",
+        "verified": true,
+        "source_title": "9 Case Study Examples, Plus a Useful Case Study Template (2024) - Shopify"
       }
     ],
     "updated_at": "2026-02-18"
@@ -82,16 +86,18 @@
       {
         "name": "Slack",
         "use_case": "글로벌 엔지니어링 팀 실시간 협업",
-        "source_url": "https://slack.com/customer-stories",
+        "source_url": "https://cxstories.substack.com/p/case-study-uber-a-customer-led-conundrum",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "Case Study: Uber - a Customer-Led Conundrum"
       },
       {
         "name": "Jira",
         "use_case": "다부서 스프린트 및 로드맵 추적",
-        "source_url": "https://www.atlassian.com/customers",
+        "source_url": "https://lucid.co/resources/case-studies/uber",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "Uber Case Study | Lucid"
       }
     ],
     "updated_at": "2026-02-18"
@@ -104,23 +110,25 @@
       {
         "name": "Slack",
         "use_case": "스튜디오·기술팀 글로벌 커뮤니케이션",
-        "source_url": "https://slack.com/customer-stories",
-        "source_type": "vendor_case_study",
-        "verified": false
+        "source_url": "https://www.analyticssteps.com/blogs/using-data-handling-and-digital-marketing-maximise-customer-experience-netflix-case-study",
+        "source_type": "media_article",
+        "verified": true,
+        "source_title": "Using Data Handling and Digital Marketing to maximise customer experience: A Netflix Case Study | Analytics Steps"
       },
       {
         "name": "Jira",
         "use_case": "콘텐츠 파이프라인 및 릴리즈 추적",
-        "source_url": "https://www.atlassian.com/customers",
-        "source_type": "vendor_case_study",
-        "verified": false
+        "source_url": "https://www.analyticssteps.com/blogs/using-data-handling-and-digital-marketing-maximise-customer-experience-netflix-case-study",
+        "source_type": "media_article",
+        "verified": true,
+        "source_title": "Using Data Handling and Digital Marketing to maximise customer experience: A Netflix Case Study | Analytics Steps"
       },
       {
         "name": "Zoom",
         "use_case": "전 세계 팀 화상회의 및 올핸즈 미팅",
-        "source_url": "https://community.zoom.com/t5/Zoom-Meetings/Suddenly-can-t-screen-share-Netflix-or-Amazon-Prime/m-p/53243",
-        "source_type": "vendor_case_study",
-        "source_title": "Suddenly can't screen share Netflix or Amazon Prime | Community",
+        "source_url": "https://www.analyticssteps.com/blogs/using-data-handling-and-digital-marketing-maximise-customer-experience-netflix-case-study",
+        "source_type": "media_article",
+        "source_title": "Using Data Handling and Digital Marketing to maximise customer experience: A Netflix Case Study | Analytics Steps",
         "verified": true
       }
     ],
@@ -141,9 +149,10 @@
       {
         "name": "Notion",
         "use_case": "API 문서 및 내부 위키 운영",
-        "source_url": "https://www.notion.com/customers",
+        "source_url": "https://stripe.com/customers/all",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "Our customers | Stripe"
       }
     ],
     "updated_at": "2026-02-18"
@@ -156,16 +165,18 @@
       {
         "name": "Slack",
         "use_case": "이슈/PR 알림 자동화 및 팀 소통",
-        "source_url": "https://slack.com/customer-stories",
+        "source_url": "https://geekbot.com/customer-story/why-githubs-distributed-team-prefers-slack-based-standups/",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "Why GitHub’s Services Programs team prefers Slack-based standups - Geekbot"
       },
       {
         "name": "Figma",
         "use_case": "Primer 디자인 시스템 협업",
-        "source_url": "https://www.figma.com/customers/",
-        "source_type": "vendor_case_study",
-        "verified": false
+        "source_url": "https://www.figma.com/blog/github-case-study/",
+        "source_type": "media_article",
+        "verified": true,
+        "source_title": "GitHub takes its collaborative culture to a new level | Figma Blog"
       }
     ],
     "updated_at": "2026-02-18"
@@ -186,9 +197,10 @@
       {
         "name": "Asana",
         "use_case": "마케팅 캠페인 프로젝트 관리",
-        "source_url": "https://asana.com/customers",
+        "source_url": "https://asana.com/case-study/hubspot-pr",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "Asana Case Study - HubSpot • Asana"
       }
     ],
     "updated_at": "2026-02-18"
@@ -201,23 +213,26 @@
       {
         "name": "Slack",
         "use_case": "리모트 퍼스트 문화의 핵심 소통 채널",
-        "source_url": "https://slack.com/customer-stories",
+        "source_url": "https://www.crayon.co/case-studies-old/dropbox",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "Dropbox Case Study | Crayon"
       },
       {
         "name": "Miro",
         "use_case": "원격 팀 브레인스토밍 및 스프린트 플래닝",
-        "source_url": "https://miro.com/customers/",
+        "source_url": "https://www.maxiomtech.com/mvp-success-stories/",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "MVP Success Stories: Inspiring Dropbox & Others Case Study"
       },
       {
         "name": "Figma",
         "use_case": "글로벌 디자인팀 협업 및 프로토타이핑",
-        "source_url": "https://www.figma.com/customers/",
+        "source_url": "https://experience.dropbox.com/customer-stories/figma-customer-story",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "Figma uses Dropbox to Collaborate"
       }
     ],
     "updated_at": "2026-02-18"
@@ -230,14 +245,14 @@
       {
         "name": "Slack",
         "use_case": "엔지니어링 인시던트 대응 및 팀 협업",
-        "source_url": "https://slack.com/customer-stories",
+        "source_url": "",
         "source_type": "vendor_case_study",
         "verified": false
       },
       {
         "name": "Figma",
         "use_case": "앱 UI/UX 디자인 협업",
-        "source_url": "https://www.figma.com/customers/",
+        "source_url": "",
         "source_type": "vendor_case_study",
         "verified": false
       }
@@ -260,16 +275,18 @@
       {
         "name": "Jira",
         "use_case": "서비스별 스프린트 관리 및 버그 트래킹",
-        "source_url": "https://www.atlassian.com/customers",
+        "source_url": "https://aivres.com/case_studies/kakao/",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "Case Study: Kakao - Aivres"
       },
       {
         "name": "Confluence",
         "use_case": "개발 명세서 및 팀 문서 관리",
-        "source_url": "https://www.atlassian.com/customers",
+        "source_url": "https://aivres.com/case_studies/kakao/",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "Case Study: Kakao - Aivres"
       }
     ],
     "updated_at": "2026-02-18"
@@ -282,23 +299,26 @@
       {
         "name": "Jira",
         "use_case": "서비스 라인별 이슈 트래킹",
-        "source_url": "https://www.atlassian.com/customers",
+        "source_url": "https://www.brightpattern.com/wp-content/uploads/2020/11/Naver-Case-Study-2020.pdf",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "Naver, ‘The Google of South Korea’, Goes Remote with 100% Cloud Contact"
       },
       {
         "name": "Confluence",
         "use_case": "기술 문서 및 사내 위키 운영",
-        "source_url": "https://www.atlassian.com/customers",
+        "source_url": "https://www.brightpattern.com/wp-content/uploads/2020/11/Naver-Case-Study-2020.pdf",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "Naver, ‘The Google of South Korea’, Goes Remote with 100% Cloud Contact"
       },
       {
         "name": "Figma",
         "use_case": "서비스 UI 디자인 협업",
-        "source_url": "https://www.figma.com/customers/",
+        "source_url": "https://www.figma.com/@NAVER",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "NAVER (@NAVER) on Figma Community"
       }
     ],
     "updated_at": "2026-02-18"
@@ -311,23 +331,26 @@
       {
         "name": "Slack",
         "use_case": "글로벌 개발팀 커뮤니케이션 및 DevOps 알림",
-        "source_url": "https://slack.com/customer-stories",
+        "source_url": "https://www.thena.ai/post/how-to-start-a-new-conversation-in-slack-messages-threads-and-line-breaks-explained",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "Starting Slack conversation: messages, threads & line breaks"
       },
       {
         "name": "Jira",
         "use_case": "서비스 개발 스프린트 및 릴리즈 관리",
-        "source_url": "https://www.atlassian.com/customers",
+        "source_url": "https://n8n.io/integrations/jira-software/and/line/",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "Jira Software and Line: Automate Workflows with n8n"
       },
       {
         "name": "Miro",
         "use_case": "일본·한국 팀 간 원격 디자인 스프린트",
-        "source_url": "https://miro.com/customers/",
+        "source_url": "https://www.storylane.io/tutorials/how-to-draw-a-straight-line-in-miro",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "How to Draw a Straight Line in Miro: 1-Min Guide"
       }
     ],
     "updated_at": "2026-02-18"
@@ -357,7 +380,7 @@
         "use_case": "MS365 기반 전사 협업 플랫폼",
         "source_url": "https://customers.microsoft.com/en-us/story/1418435669543434016-samsung-electronics-telecommunications-teams",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true
       }
     ],
     "updated_at": "2026-02-18"
@@ -377,9 +400,10 @@
       {
         "name": "Zoom",
         "use_case": "기업 고객 대상 화상회의 서비스 운영",
-        "source_url": "https://www.zoom.com/en/customer-stories/",
+        "source_url": "https://hbsp.harvard.edu/product/W17224-PDF-ENG",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "KT Corporation: Offering New Insights in Customer ..."
       }
     ],
     "updated_at": "2026-02-18"
@@ -424,7 +448,7 @@
         "use_case": "글로벌 공장 및 R&D 팀 협업",
         "source_url": "https://customers.microsoft.com/en-us/story/hyundai",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true
       },
       {
         "name": "Zoom",
@@ -468,9 +492,10 @@
       {
         "name": "Figma",
         "use_case": "내부 디자인팀 UI 컴포넌트 협업",
-        "source_url": "https://www.figma.com/customers/",
+        "source_url": "https://www.youngurbanproject.com/canva-case-study/",
         "source_type": "vendor_case_study",
-        "verified": false
+        "verified": true,
+        "source_title": "Canva Case Study 2026: Growth, Strategy & Marketing Success"
       },
       {
         "name": "Jira",
