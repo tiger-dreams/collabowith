@@ -1,0 +1,68 @@
+[
+  {
+    "company": "Samsung",
+    "domain": "samsung.com",
+    "industry": "Electronics",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "팀 커뮤니케이션 및 글로벌 협업",
+        "source_url": "https://slack.com/customer-stories/samsung",
+        "source_type": "vendor_case_study"
+      },
+      {
+        "name": "Zoom",
+        "use_case": "글로벌 화상회의",
+        "source_url": "https://zoom.us/customer/samsung",
+        "source_type": "vendor_case_study"
+      }
+    ],
+    "updated_at": "2026-02-18"
+  },
+  {
+    "company": "Kakao",
+    "domain": "kakao.com",
+    "industry": "Internet/Platform",
+    "tools": [
+      {
+        "name": "Notion",
+        "use_case": "문서 관리 및 지식 베이스",
+        "source_url": "https://notion.so/customers/kakao",
+        "source_type": "vendor_case_study"
+      },
+      {
+        "name": "Figma",
+        "use_case": "UI/UX 디자인 협업",
+        "source_url": "https://figma.com/customers/kakao",
+        "source_type": "media_article"
+      }
+    ],
+    "updated_at": "2026-02-18"
+  },
+  {
+    "company": "LINE",
+    "domain": "line.me",
+    "industry": "Messaging/Platform",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "엔지니어링 팀 내부 커뮤니케이션",
+        "source_url": "https://slack.com/customer-stories/line",
+        "source_type": "vendor_case_study"
+      },
+      {
+        "name": "Miro",
+        "use_case": "원격 디자인 스프린트",
+        "source_url": "https://miro.com/customers/line",
+        "source_type": "vendor_case_study"
+      },
+      {
+        "name": "Jira",
+        "use_case": "프로젝트 이슈 트래킹",
+        "source_url": "https://atlassian.com/customers/line",
+        "source_type": "vendor_case_study"
+      }
+    ],
+    "updated_at": "2026-02-18"
+  }
+]

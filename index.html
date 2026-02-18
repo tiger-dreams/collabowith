@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Collabo Stack — 기업 협업 도구 탐색기</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+  <style>
+    body { font-family: 'Inter', -apple-system, sans-serif; }
+    .gradient-bg { background: linear-gradient(135deg, #0A7CFF 0%, #0055CC 100%); }
+    .tool-badge { transition: all 0.2s ease; }
+    .tool-badge:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.15); }
+    .search-box { box-shadow: 0 4px 20px rgba(10,124,255,0.15); }
+  </style>
+</head>
+<body class="bg-gray-50 min-h-screen">
+
+  <!-- Hero -->
+  <div class="gradient-bg text-white py-16 px-4">
+    <div class="max-w-3xl mx-auto text-center">
+      <div class="flex items-center justify-center gap-2 mb-4">
+        <i data-lucide="layers" class="w-8 h-8"></i>
+        <h1 class="text-3xl font-bold">Collabo Stack</h1>
+      </div>
+      <p class="text-blue-100 text-lg mb-8">기업이 어떤 협업 도구를 사용하는지 알아보세요</p>
+
+      <!-- 검색창 -->
+      <div class="relative max-w-xl mx-auto search-box rounded-2xl bg-white overflow-hidden flex items-center">
+        <i data-lucide="search" class="w-5 h-5 text-gray-400 ml-4 flex-shrink-0"></i>
+        <input
+          id="searchInput"
+          type="text"
+          placeholder="기업명 또는 도메인 입력 (예: samsung, kakao.com)"
+          class="w-full px-4 py-4 text-gray-800 outline-none bg-transparent"
+          oninput="search(this.value)"
+        />
+        <button onclick="search(document.getElementById('searchInput').value)"
+          class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-4 font-medium transition-colors flex-shrink-0">
+          검색
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 결과 영역 -->
+  <div class="max-w-3xl mx-auto px-4 py-10">
+    <!-- 초기 상태 -->
+    <div id="emptyState" class="text-center py-16 text-gray-400">
+      <i data-lucide="building-2" class="w-16 h-16 mx-auto mb-4 text-gray-300"></i>
+      <p class="text-lg">기업명을 입력하면 사용 중인 협업 도구를 보여드립니다</p>
+      <p class="text-sm mt-2">Slack, Notion, Zoom, Miro, Figma, Jira 등</p>
+    </div>
+
+    <!-- 검색 결과 -->
+    <div id="results" class="hidden space-y-6"></div>
+
+    <!-- 결과 없음 -->
+    <div id="noResults" class="hidden text-center py-16 text-gray-400">
+      <i data-lucide="search-x" class="w-16 h-16 mx-auto mb-4 text-gray-300"></i>
+      <p class="text-lg">검색 결과가 없습니다</p>
+      <p class="text-sm mt-2">다른 기업명이나 도메인으로 검색해보세요</p>
+    </div>
+  </div>
+
+  <!-- 도구별 색상 맵 -->
+  <script>
+    const TOOL_COLORS = {
+      'Slack':      { bg: 'bg-purple-100', text: 'text-purple-700', icon: '💬' },
+      'Notion':     { bg: 'bg-gray-100',   text: 'text-gray-700',   icon: '📝' },
+      'Zoom':       { bg: 'bg-blue-100',   text: 'text-blue-700',   icon: '📹' },
+      'Miro':       { bg: 'bg-yellow-100', text: 'text-yellow-700', icon: '🖊️' },
+      'Figma':      { bg: 'bg-pink-100',   text: 'text-pink-700',   icon: '🎨' },
+      'Jira':       { bg: 'bg-indigo-100', text: 'text-indigo-700', icon: '📋' },
+      'Atlassian':  { bg: 'bg-indigo-100', text: 'text-indigo-700', icon: '📋' },
+      'Teams':      { bg: 'bg-blue-100',   text: 'text-blue-700',   icon: '💼' },
+      'default':    { bg: 'bg-green-100',  text: 'text-green-700',  icon: '🔧' },
+    };
+
+    let DB = [];
+
+    // 샘플 데이터 로드
+    fetch('./data/sample.json')
+      .then(r => r.json())
+      .then(data => { DB = data; })
+      .catch(() => {
+        // fetch 실패 시 인라인 데이터 사용
+        DB = [
+          { company: "Samsung", domain: "samsung.com", industry: "Electronics",
+            tools: [
+              { name: "Slack", use_case: "팀 커뮤니케이션 및 글로벌 협업", source_url: "https://slack.com/customer-stories/samsung", source_type: "vendor_case_study" },
+              { name: "Zoom",  use_case: "글로벌 화상회의", source_url: "https://zoom.us/customer/samsung", source_type: "vendor_case_study" }
+            ], updated_at: "2026-02-18" },
+          { company: "Kakao", domain: "kakao.com", industry: "Internet/Platform",
+            tools: [
+              { name: "Notion", use_case: "문서 관리 및 지식 베이스", source_url: "https://notion.so/customers", source_type: "vendor_case_study" },
+              { name: "Figma",  use_case: "UI/UX 디자인 협업", source_url: "https://figma.com/customers", source_type: "media_article" }
+            ], updated_at: "2026-02-18" },
+          { company: "LINE", domain: "line.me", industry: "Messaging/Platform",
+            tools: [
+              { name: "Slack", use_case: "엔지니어링 팀 내부 커뮤니케이션", source_url: "https://slack.com/customer-stories/line", source_type: "vendor_case_study" },
+              { name: "Miro",  use_case: "원격 디자인 스프린트", source_url: "https://miro.com/customers", source_type: "vendor_case_study" },
+              { name: "Jira",  use_case: "프로젝트 이슈 트래킹", source_url: "https://atlassian.com/customers", source_type: "vendor_case_study" }
+            ], updated_at: "2026-02-18" }
+        ];
+      });
+
+    function search(query) {
+      query = query.trim().toLowerCase();
+      const emptyState = document.getElementById('emptyState');
+      const results    = document.getElementById('results');
+      const noResults  = document.getElementById('noResults');
+
+      if (!query) {
+        emptyState.classList.remove('hidden');
+        results.classList.add('hidden');
+        noResults.classList.add('hidden');
+        return;
+      }
+
+      const matched = DB.filter(c =>
+        c.company.toLowerCase().includes(query) ||
+        c.domain.toLowerCase().includes(query)
+      );
+
+      emptyState.classList.add('hidden');
+
+      if (matched.length === 0) {
+        results.classList.add('hidden');
+        noResults.classList.remove('hidden');
+        return;
+      }
+
+      noResults.classList.add('hidden');
+      results.classList.remove('hidden');
+      results.innerHTML = matched.map(renderCard).join('');
+      lucide.createIcons();
+    }
+
+    function renderCard(company) {
+      const sourceLabel = { vendor_case_study: '공식 사례', media_article: '미디어 기사', job_posting: '채용공고' };
+      const tools = company.tools.map(t => {
+        const color = TOOL_COLORS[t.name] || TOOL_COLORS['default'];
+        return `
+          <a href="${t.source_url}" target="_blank" class="tool-badge block p-4 rounded-xl border border-gray-100 bg-white hover:border-blue-200 transition-all">
+            <div class="flex items-center gap-3 mb-2">
+              <span class="text-2xl">${color.icon}</span>
+              <span class="font-semibold text-gray-800">${t.name}</span>
+              <span class="ml-auto text-xs px-2 py-0.5 rounded-full ${color.bg} ${color.text}">${sourceLabel[t.source_type] || t.source_type}</span>
+            </div>
+            <p class="text-sm text-gray-500">${t.use_case}</p>
+          </a>`;
+      }).join('');
+
+      return `
+        <div class="bg-white rounded-2xl border border-gray-100 p-6 shadow-sm">
+          <div class="flex items-start justify-between mb-4">
+            <div>
+              <h2 class="text-xl font-bold text-gray-900">${company.company}</h2>
+              <p class="text-sm text-gray-400 mt-0.5">${company.domain} · ${company.industry}</p>
+            </div>
+            <span class="text-xs text-gray-300">업데이트: ${company.updated_at}</span>
+          </div>
+          <div class="grid grid-cols-1 gap-3">
+            ${tools}
+          </div>
+        </div>`;
+    }
+
+    // 엔터키 검색
+    document.addEventListener('DOMContentLoaded', () => {
+      lucide.createIcons();
+      document.getElementById('searchInput').addEventListener('keydown', e => {
+        if (e.key === 'Enter') search(e.target.value);
+      });
+    });
+  </script>
+</body>
+</html>
