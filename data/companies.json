@@ -4,9 +4,8 @@
     "domain": "airbnb.com",
     "industry": "Travel/Platform",
     "tools": [
-      { "name": "Slack", "use_case": "전사 커뮤니케이션 허브, 인시던트 대응", "source_url": "https://slack.com/customer-stories/airbnb", "source_type": "vendor_case_study" },
-      { "name": "Notion", "use_case": "디자인 시스템 문서화 및 팀 위키", "source_url": "https://www.notion.com/customers", "source_type": "vendor_case_study" },
-      { "name": "Figma", "use_case": "프로덕트 디자인 협업", "source_url": "https://www.figma.com/customers/airbnb", "source_type": "vendor_case_study" }
+      { "name": "Slack", "use_case": "전사 커뮤니케이션 허브 및 인시던트 대응", "source_url": "https://slack.com/customer-stories", "source_type": "vendor_case_study" },
+      { "name": "Figma", "use_case": "DLS(디자인 언어 시스템) 협업", "source_url": "https://www.figma.com/customers/", "source_type": "vendor_case_study" }
     ],
     "updated_at": "2026-02-18"
   },
@@ -15,9 +14,9 @@
     "domain": "spotify.com",
     "industry": "Music/Entertainment",
     "tools": [
-      { "name": "Slack", "use_case": "스쿼드 간 협업 및 릴리즈 알림 자동화", "source_url": "https://slack.com/customer-stories/spotify", "source_type": "vendor_case_study" },
-      { "name": "Jira", "use_case": "스프린트 계획 및 버그 트래킹", "source_url": "https://www.atlassian.com/customers/spotify", "source_type": "vendor_case_study" },
-      { "name": "Figma", "use_case": "디자인 시스템 'Encore' 관리", "source_url": "https://www.figma.com/customers/spotify", "source_type": "vendor_case_study" }
+      { "name": "Slack", "use_case": "외부 파트너와의 Slack Connect 협업 및 광고 영업 운영 효율화", "source_url": "https://slack.com/customer-stories/spotify-harmonizes-collaboration-slack-connect", "source_type": "vendor_case_study" },
+      { "name": "Jira", "use_case": "스쿼드 스프린트 관리 및 버그 트래킹", "source_url": "https://www.atlassian.com/customers", "source_type": "vendor_case_study" },
+      { "name": "Figma", "use_case": "디자인 시스템 Encore 관리", "source_url": "https://www.figma.com/customers/", "source_type": "vendor_case_study" }
     ],
     "updated_at": "2026-02-18"
   },
@@ -26,9 +25,8 @@
     "domain": "shopify.com",
     "industry": "E-commerce/Platform",
     "tools": [
-      { "name": "Slack", "use_case": "리모트 팀 전사 소통 및 온콜 대응", "source_url": "https://slack.com/customer-stories/shopify", "source_type": "vendor_case_study" },
-      { "name": "Notion", "use_case": "엔지니어링 RFC 및 프로젝트 문서화", "source_url": "https://www.notion.com/customers", "source_type": "vendor_case_study" },
-      { "name": "Figma", "use_case": "Polaris 디자인 시스템 협업", "source_url": "https://www.figma.com/customers/shopify", "source_type": "vendor_case_study" }
+      { "name": "Slack", "use_case": "리모트 퍼스트 조직의 전사 소통 허브", "source_url": "https://slack.com/customer-stories", "source_type": "vendor_case_study" },
+      { "name": "Figma", "use_case": "Polaris 디자인 시스템 협업", "source_url": "https://www.figma.com/customers/", "source_type": "vendor_case_study" }
     ],
     "updated_at": "2026-02-18"
   },
@@ -37,8 +35,8 @@
     "domain": "uber.com",
     "industry": "Mobility/Platform",
     "tools": [
-      { "name": "Slack", "use_case": "글로벌 엔지니어링 팀 실시간 협업", "source_url": "https://slack.com/customer-stories/uber", "source_type": "vendor_case_study" },
-      { "name": "Jira", "use_case": "다부서 스프린트 관리 및 로드맵 추적", "source_url": "https://www.atlassian.com/customers/uber", "source_type": "vendor_case_study" }
+      { "name": "Slack", "use_case": "글로벌 엔지니어링 팀 실시간 협업", "source_url": "https://slack.com/customer-stories", "source_type": "vendor_case_study" },
+      { "name": "Jira", "use_case": "다부서 스프린트 및 로드맵 추적", "source_url": "https://www.atlassian.com/customers", "source_type": "vendor_case_study" }
     ],
     "updated_at": "2026-02-18"
   },
@@ -47,9 +45,9 @@
     "domain": "netflix.com",
     "industry": "Streaming/Entertainment",
     "tools": [
-      { "name": "Slack", "use_case": "스튜디오 및 기술팀 글로벌 커뮤니케이션", "source_url": "https://slack.com/customer-stories/netflix", "source_type": "vendor_case_study" },
+      { "name": "Slack", "use_case": "스튜디오·기술팀 글로벌 커뮤니케이션", "source_url": "https://slack.com/customer-stories", "source_type": "vendor_case_study" },
       { "name": "Jira", "use_case": "콘텐츠 파이프라인 및 릴리즈 추적", "source_url": "https://www.atlassian.com/customers", "source_type": "vendor_case_study" },
-      { "name": "Zoom", "use_case": "전 세계 팀 화상회의 및 올핸즈 미팅", "source_url": "https://zoom.us/customer-stories/netflix", "source_type": "vendor_case_study" }
+      { "name": "Zoom", "use_case": "전 세계 팀 화상회의 및 올핸즈 미팅", "source_url": "https://www.zoom.com/en/customer-stories/", "source_type": "vendor_case_study" }
     ],
     "updated_at": "2026-02-18"
   },
@@ -58,7 +56,7 @@
     "domain": "stripe.com",
     "industry": "Fintech/Payments",
     "tools": [
-      { "name": "Slack", "use_case": "개발팀 코드 리뷰 알림 및 인시던트 대응", "source_url": "https://slack.com/customer-stories/stripe", "source_type": "vendor_case_study" },
+      { "name": "Slack", "use_case": "Slack Connect으로 고객사와 직접 채널 연결, 영업 속도 향상", "source_url": "https://slack.com/customer-stories/stripe-client-relationships-slack-connect", "source_type": "vendor_case_study" },
       { "name": "Notion", "use_case": "API 문서 및 내부 위키 운영", "source_url": "https://www.notion.com/customers", "source_type": "vendor_case_study" }
     ],
     "updated_at": "2026-02-18"
@@ -68,9 +66,8 @@
     "domain": "github.com",
     "industry": "Developer Tools",
     "tools": [
-      { "name": "Slack", "use_case": "이슈/PR 알림 자동화 및 팀 소통", "source_url": "https://slack.com/customer-stories/github", "source_type": "vendor_case_study" },
-      { "name": "Figma", "use_case": "Primer 디자인 시스템 협업", "source_url": "https://www.figma.com/customers/github", "source_type": "vendor_case_study" },
-      { "name": "Zoom", "use_case": "리모트 올핸즈 및 팀 싱크", "source_url": "https://zoom.us/customer-stories", "source_type": "vendor_case_study" }
+      { "name": "Slack", "use_case": "이슈/PR 알림 자동화 및 팀 소통", "source_url": "https://slack.com/customer-stories", "source_type": "vendor_case_study" },
+      { "name": "Figma", "use_case": "Primer 디자인 시스템 협업", "source_url": "https://www.figma.com/customers/", "source_type": "vendor_case_study" }
     ],
     "updated_at": "2026-02-18"
   },
@@ -79,9 +76,8 @@
     "domain": "hubspot.com",
     "industry": "CRM/Marketing SaaS",
     "tools": [
-      { "name": "Slack", "use_case": "세일즈 파이프라인 알림 및 팀 협업", "source_url": "https://slack.com/customer-stories/hubspot", "source_type": "vendor_case_study" },
-      { "name": "Asana", "use_case": "마케팅 캠페인 프로젝트 관리", "source_url": "https://asana.com/customers/hubspot", "source_type": "vendor_case_study" },
-      { "name": "Zoom", "use_case": "고객 온보딩 및 파트너 미팅", "source_url": "https://zoom.us/customer-stories", "source_type": "vendor_case_study" }
+      { "name": "Slack", "use_case": "세일즈 파이프라인 알림 및 팀 협업", "source_url": "https://slack.com/customer-stories", "source_type": "vendor_case_study" },
+      { "name": "Asana", "use_case": "마케팅 캠페인 프로젝트 관리", "source_url": "https://asana.com/customers", "source_type": "vendor_case_study" }
     ],
     "updated_at": "2026-02-18"
   },
@@ -90,9 +86,9 @@
     "domain": "dropbox.com",
     "industry": "Cloud Storage/SaaS",
     "tools": [
-      { "name": "Slack", "use_case": "리모트 퍼스트 문화의 핵심 소통 채널", "source_url": "https://slack.com/customer-stories/dropbox", "source_type": "vendor_case_study" },
-      { "name": "Miro", "use_case": "원격 팀 브레인스토밍 및 스프린트 플래닝", "source_url": "https://miro.com/customers/dropbox", "source_type": "vendor_case_study" },
-      { "name": "Figma", "use_case": "글로벌 디자인팀 협업 및 프로토타이핑", "source_url": "https://www.figma.com/customers/dropbox", "source_type": "vendor_case_study" }
+      { "name": "Slack", "use_case": "리모트 퍼스트 문화의 핵심 소통 채널", "source_url": "https://slack.com/customer-stories", "source_type": "vendor_case_study" },
+      { "name": "Miro", "use_case": "원격 팀 브레인스토밍 및 스프린트 플래닝", "source_url": "https://miro.com/customers/", "source_type": "vendor_case_study" },
+      { "name": "Figma", "use_case": "글로벌 디자인팀 협업 및 프로토타이핑", "source_url": "https://www.figma.com/customers/", "source_type": "vendor_case_study" }
     ],
     "updated_at": "2026-02-18"
   },
@@ -102,7 +98,7 @@
     "industry": "Social Media",
     "tools": [
       { "name": "Slack", "use_case": "엔지니어링 인시던트 대응 및 팀 협업", "source_url": "https://slack.com/customer-stories", "source_type": "vendor_case_study" },
-      { "name": "Figma", "use_case": "앱 UI/UX 디자인 협업", "source_url": "https://www.figma.com/customers", "source_type": "vendor_case_study" }
+      { "name": "Figma", "use_case": "앱 UI/UX 디자인 협업", "source_url": "https://www.figma.com/customers/", "source_type": "vendor_case_study" }
     ],
     "updated_at": "2026-02-18"
   },
@@ -111,7 +107,7 @@
     "domain": "kakao.com",
     "industry": "Internet/Platform",
     "tools": [
-      { "name": "Figma", "use_case": "카카오 디자인 시스템(KARDS) 협업", "source_url": "https://www.figma.com/customers", "source_type": "vendor_case_study" },
+      { "name": "Figma", "use_case": "카카오 디자인 시스템(KARDS) 협업", "source_url": "https://www.figma.com/customers/", "source_type": "vendor_case_study" },
       { "name": "Jira", "use_case": "서비스별 스프린트 관리 및 버그 트래킹", "source_url": "https://www.atlassian.com/customers", "source_type": "vendor_case_study" },
       { "name": "Confluence", "use_case": "개발 명세서 및 팀 문서 관리", "source_url": "https://www.atlassian.com/customers", "source_type": "vendor_case_study" }
     ],
@@ -122,9 +118,9 @@
     "domain": "naver.com",
     "industry": "Internet/Search",
     "tools": [
-      { "name": "Jira", "use_case": "라인 오브 서비스별 이슈 트래킹", "source_url": "https://www.atlassian.com/customers", "source_type": "vendor_case_study" },
+      { "name": "Jira", "use_case": "서비스 라인별 이슈 트래킹", "source_url": "https://www.atlassian.com/customers", "source_type": "vendor_case_study" },
       { "name": "Confluence", "use_case": "기술 문서 및 사내 위키 운영", "source_url": "https://www.atlassian.com/customers", "source_type": "vendor_case_study" },
-      { "name": "Figma", "use_case": "서비스 UI 디자인 협업", "source_url": "https://www.figma.com/customers", "source_type": "vendor_case_study" }
+      { "name": "Figma", "use_case": "서비스 UI 디자인 협업", "source_url": "https://www.figma.com/customers/", "source_type": "vendor_case_study" }
     ],
     "updated_at": "2026-02-18"
   },
@@ -133,9 +129,9 @@
     "domain": "line.me",
     "industry": "Messaging/Platform",
     "tools": [
-      { "name": "Slack", "use_case": "글로벌 개발팀 커뮤니케이션 및 DevOps 알림", "source_url": "https://slack.com/customer-stories/line", "source_type": "vendor_case_study" },
+      { "name": "Slack", "use_case": "글로벌 개발팀 커뮤니케이션 및 DevOps 알림", "source_url": "https://slack.com/customer-stories", "source_type": "vendor_case_study" },
       { "name": "Jira", "use_case": "서비스 개발 스프린트 및 릴리즈 관리", "source_url": "https://www.atlassian.com/customers", "source_type": "vendor_case_study" },
-      { "name": "Miro", "use_case": "일본·한국 팀 간 원격 디자인 스프린트", "source_url": "https://miro.com/customers", "source_type": "vendor_case_study" }
+      { "name": "Miro", "use_case": "일본·한국 팀 간 원격 디자인 스프린트", "source_url": "https://miro.com/customers/", "source_type": "vendor_case_study" }
     ],
     "updated_at": "2026-02-18"
   },
@@ -144,9 +140,28 @@
     "domain": "samsung.com",
     "industry": "Electronics/Manufacturing",
     "tools": [
-      { "name": "Slack", "use_case": "글로벌 엔지니어링 팀 커뮤니케이션", "source_url": "https://slack.com/customer-stories/samsung", "source_type": "vendor_case_study" },
-      { "name": "Zoom", "use_case": "글로벌 임원 회의 및 올핸즈 미팅", "source_url": "https://zoom.us/customer-stories/samsung", "source_type": "vendor_case_study" },
-      { "name": "Teams", "use_case": "MS365 기반 사내 협업 플랫폼", "source_url": "https://customers.microsoft.com/en-us/story/samsung", "source_type": "vendor_case_study" }
+      { "name": "Slack", "use_case": "Happy Framework 구축 — 생산성·조직문화 개선으로 삼성 최우수 조직문화상 수상", "source_url": "https://slack.com/customer-stories/samsung-builds-framework", "source_type": "vendor_case_study" },
+      { "name": "Zoom", "use_case": "글로벌 임원 회의 및 올핸즈 미팅", "source_url": "https://www.zoom.com/en/customer-stories/", "source_type": "vendor_case_study" },
+      { "name": "Teams", "use_case": "MS365 기반 전사 협업 플랫폼", "source_url": "https://customers.microsoft.com/en-us/story/1418435669543434016-samsung-electronics-telecommunications-teams", "source_type": "vendor_case_study" }
+    ],
+    "updated_at": "2026-02-18"
+  },
+  {
+    "company": "KT",
+    "domain": "kt.com",
+    "industry": "Telecom",
+    "tools": [
+      { "name": "Slack", "use_case": "개발 환경 허브 구축 — 협업 속도 향상 및 열린 조직문화 실현", "source_url": "https://slack.com/intl/ko-kr/customer-stories/kt", "source_type": "vendor_case_study" },
+      { "name": "Zoom", "use_case": "기업 고객 대상 화상회의 서비스 운영", "source_url": "https://www.zoom.com/en/customer-stories/", "source_type": "vendor_case_study" }
+    ],
+    "updated_at": "2026-02-18"
+  },
+  {
+    "company": "리디 (Ridi)",
+    "domain": "ridi.com",
+    "industry": "E-book/Platform",
+    "tools": [
+      { "name": "Slack", "use_case": "일하는 속도를 재정의 — 팀 간 실시간 소통 및 업무 프로세스 개선", "source_url": "https://slack.com/intl/ko-kr/customer-stories/ridi", "source_type": "vendor_case_study" }
     ],
     "updated_at": "2026-02-18"
   },
@@ -156,7 +171,7 @@
     "industry": "Electronics/Manufacturing",
     "tools": [
       { "name": "Teams", "use_case": "전사 화상회의 및 협업 플랫폼", "source_url": "https://customers.microsoft.com/en-us/story/lg", "source_type": "vendor_case_study" },
-      { "name": "Zoom", "use_case": "해외 법인 원격 회의", "source_url": "https://zoom.us/customer-stories", "source_type": "vendor_case_study" }
+      { "name": "Zoom", "use_case": "해외 법인 원격 회의", "source_url": "https://www.zoom.com/en/customer-stories/", "source_type": "vendor_case_study" }
     ],
     "updated_at": "2026-02-18"
   },
@@ -166,38 +181,16 @@
     "industry": "Automotive",
     "tools": [
       { "name": "Teams", "use_case": "글로벌 공장 및 R&D 팀 협업", "source_url": "https://customers.microsoft.com/en-us/story/hyundai", "source_type": "vendor_case_study" },
-      { "name": "Zoom", "use_case": "딜러 및 해외 파트너 화상회의", "source_url": "https://zoom.us/customer-stories", "source_type": "vendor_case_study" }
+      { "name": "Zoom", "use_case": "딜러 및 해외 파트너 화상회의", "source_url": "https://www.zoom.com/en/customer-stories/", "source_type": "vendor_case_study" }
     ],
     "updated_at": "2026-02-18"
   },
   {
-    "company": "SK Telecom",
-    "domain": "sktelecom.com",
-    "industry": "Telecom",
+    "company": "Lockheed Martin",
+    "domain": "lockheedmartin.com",
+    "industry": "Defense/Aerospace",
     "tools": [
-      { "name": "Slack", "use_case": "AI 기술팀 및 클라우드 사업부 협업", "source_url": "https://slack.com/customer-stories", "source_type": "vendor_case_study" },
-      { "name": "Jira", "use_case": "5G/AI 서비스 개발 스프린트 관리", "source_url": "https://www.atlassian.com/customers", "source_type": "vendor_case_study" }
-    ],
-    "updated_at": "2026-02-18"
-  },
-  {
-    "company": "KT",
-    "domain": "kt.com",
-    "industry": "Telecom",
-    "tools": [
-      { "name": "Slack", "use_case": "개발 환경 허브, 더 빨라진 협업 및 열린 조직문화", "source_url": "https://slack.com/customer-stories/kt", "source_type": "vendor_case_study" },
-      { "name": "Zoom", "use_case": "기업 고객 대상 화상회의 서비스 운영", "source_url": "https://zoom.us/customer-stories", "source_type": "vendor_case_study" }
-    ],
-    "updated_at": "2026-02-18"
-  },
-  {
-    "company": "Figma",
-    "domain": "figma.com",
-    "industry": "Design SaaS",
-    "tools": [
-      { "name": "Slack", "use_case": "디자인 피드백 및 릴리즈 알림 자동화", "source_url": "https://slack.com/customer-stories/figma", "source_type": "vendor_case_study" },
-      { "name": "Notion", "use_case": "제품 로드맵 및 팀 문서 관리", "source_url": "https://www.notion.com/customers", "source_type": "vendor_case_study" },
-      { "name": "Asana", "use_case": "크로스팀 프로젝트 관리", "source_url": "https://asana.com/customers", "source_type": "vendor_case_study" }
+      { "name": "Slack", "use_case": "글로벌 협업 강화 및 리더십 AMA 세션 운영", "source_url": "https://slack.com/customer-stories/lockheed-martin-fortifies-collaboration-with-slack", "source_type": "vendor_case_study" }
     ],
     "updated_at": "2026-02-18"
   },
@@ -206,9 +199,9 @@
     "domain": "canva.com",
     "industry": "Design SaaS",
     "tools": [
-      { "name": "Slack", "use_case": "하이퍼그로스 스타트업 전사 소통", "source_url": "https://slack.com/customer-stories/canva", "source_type": "vendor_case_study" },
-      { "name": "Figma", "use_case": "내부 디자인팀 UI 컴포넌트 협업", "source_url": "https://www.figma.com/customers", "source_type": "vendor_case_study" },
-      { "name": "Jira", "use_case": "글로벌 제품팀 스프린트 관리", "source_url": "https://www.atlassian.com/customers/canva", "source_type": "vendor_case_study" }
+      { "name": "Slack", "use_case": "하이퍼그로스 스타트업 전사 소통", "source_url": "https://slack.com/customer-stories", "source_type": "vendor_case_study" },
+      { "name": "Figma", "use_case": "내부 디자인팀 UI 컴포넌트 협업", "source_url": "https://www.figma.com/customers/", "source_type": "vendor_case_study" },
+      { "name": "Jira", "use_case": "글로벌 제품팀 스프린트 관리", "source_url": "https://www.atlassian.com/customers", "source_type": "vendor_case_study" }
     ],
     "updated_at": "2026-02-18"
   }

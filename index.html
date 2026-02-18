@@ -55,6 +55,9 @@
     <!-- 검색 결과 -->
     <div id="results" class="hidden space-y-6"></div>
 
+    <!-- 검색 모드 라벨 -->
+    <div id="modeLabel" class="hidden text-sm text-gray-500 mb-4 flex items-center gap-1"></div>
+
     <!-- 결과 없음 -->
     <div id="noResults" class="hidden text-center py-16 text-gray-400">
       <i data-lucide="search-x" class="w-16 h-16 mx-auto mb-4 text-gray-300"></i>
@@ -105,52 +108,89 @@
         ];
       });
 
+    // 도구명 목록 (검색 시 도구명 인식용)
+    const KNOWN_TOOLS = ['slack','notion','zoom','miro','figma','jira','confluence',
+      'teams','asana','monday','trello','clickup','airtable','linear','loom',
+      'discord','webex','github','gitlab','basecamp'];
+
+    function isToolQuery(query) {
+      return KNOWN_TOOLS.some(t => t.includes(query) || query.includes(t));
+    }
+
     function search(query) {
       query = query.trim().toLowerCase();
       const emptyState = document.getElementById('emptyState');
       const results    = document.getElementById('results');
       const noResults  = document.getElementById('noResults');
+      const modeLabel  = document.getElementById('modeLabel');
 
       if (!query) {
         emptyState.classList.remove('hidden');
         results.classList.add('hidden');
         noResults.classList.add('hidden');
+        modeLabel.classList.add('hidden');
         return;
       }
 
-      const matched = DB.filter(c =>
-        c.company.toLowerCase().includes(query) ||
-        c.domain.toLowerCase().includes(query)
-      );
+      let matched = [];
+      let mode = 'company';
+
+      // 도구명 검색 모드
+      if (isToolQuery(query)) {
+        mode = 'tool';
+        matched = DB.filter(c =>
+          c.tools.some(t => t.name.toLowerCase().includes(query))
+        );
+      } else {
+        // 회사명 검색 모드
+        matched = DB.filter(c =>
+          c.company.toLowerCase().includes(query) ||
+          c.domain.toLowerCase().includes(query)
+        );
+      }
 
       emptyState.classList.add('hidden');
 
       if (matched.length === 0) {
         results.classList.add('hidden');
         noResults.classList.remove('hidden');
+        modeLabel.classList.add('hidden');
         return;
       }
 
       noResults.classList.add('hidden');
       results.classList.remove('hidden');
-      results.innerHTML = matched.map(renderCard).join('');
+
+      // 검색 모드 표시
+      modeLabel.classList.remove('hidden');
+      if (mode === 'tool') {
+        const toolName = query.charAt(0).toUpperCase() + query.slice(1);
+        modeLabel.innerHTML = `<i data-lucide="layers" class="w-4 h-4 inline mr-1"></i><strong>${toolName}</strong>을(를) 사용하는 기업 <strong>${matched.length}개</strong>`;
+        results.innerHTML = matched.map(c => renderCard(c, query)).join('');
+      } else {
+        modeLabel.innerHTML = `<i data-lucide="building-2" class="w-4 h-4 inline mr-1"></i>검색 결과 <strong>${matched.length}개</strong>`;
+        results.innerHTML = matched.map(c => renderCard(c, null)).join('');
+      }
       lucide.createIcons();
     }
 
-    function renderCard(company) {
+    function renderCard(company, highlightTool) {
       const sourceLabel = { vendor_case_study: '공식 사례', media_article: '미디어 기사', job_posting: '채용공고' };
-      const tools = company.tools.map(t => {
-        const color = TOOL_COLORS[t.name] || TOOL_COLORS['default'];
-        return `
-          <a href="${t.source_url}" target="_blank" class="tool-badge block p-4 rounded-xl border border-gray-100 bg-white hover:border-blue-200 transition-all">
-            <div class="flex items-center gap-3 mb-2">
-              <span class="text-2xl">${color.icon}</span>
-              <span class="font-semibold text-gray-800">${t.name}</span>
-              <span class="ml-auto text-xs px-2 py-0.5 rounded-full ${color.bg} ${color.text}">${sourceLabel[t.source_type] || t.source_type}</span>
-            </div>
-            <p class="text-sm text-gray-500">${t.use_case}</p>
-          </a>`;
-      }).join('');
+      const tools = company.tools
+        .filter(t => !highlightTool || t.name.toLowerCase().includes(highlightTool))
+        .map(t => {
+          const color = TOOL_COLORS[t.name] || TOOL_COLORS['default'];
+          return `
+            <a href="${t.source_url}" target="_blank" rel="noopener" class="tool-badge block p-4 rounded-xl border border-gray-100 bg-white hover:border-blue-200 transition-all">
+              <div class="flex items-center gap-3 mb-2">
+                <span class="text-2xl">${color.icon}</span>
+                <span class="font-semibold text-gray-800">${t.name}</span>
+                <span class="ml-auto text-xs px-2 py-0.5 rounded-full ${color.bg} ${color.text}">${sourceLabel[t.source_type] || t.source_type}</span>
+              </div>
+              <p class="text-sm text-gray-500">${t.use_case}</p>
+              <p class="text-xs text-blue-400 mt-1 truncate">${t.source_url}</p>
+            </a>`;
+        }).join('');
 
       return `
         <div class="bg-white rounded-2xl border border-gray-100 p-6 shadow-sm">
