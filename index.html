@@ -40,6 +40,11 @@
           검색
         </button>
       </div>
+
+      <!-- 도구 필터바 -->
+      <div id="filterBar" class="mt-6 flex flex-wrap justify-center gap-2 max-w-2xl mx-auto">
+        <!-- JS로 렌더링됨 -->
+      </div>
     </div>
   </div>
 
@@ -75,8 +80,12 @@
       'Miro':       { bg: 'bg-yellow-100', text: 'text-yellow-700', icon: '🖊️' },
       'Figma':      { bg: 'bg-pink-100',   text: 'text-pink-700',   icon: '🎨' },
       'Jira':       { bg: 'bg-indigo-100', text: 'text-indigo-700', icon: '📋' },
-      'Atlassian':  { bg: 'bg-indigo-100', text: 'text-indigo-700', icon: '📋' },
+      'Confluence': { bg: 'bg-indigo-100', text: 'text-indigo-700', icon: '📄' },
       'Teams':      { bg: 'bg-blue-100',   text: 'text-blue-700',   icon: '💼' },
+      'Jandi':      { bg: 'bg-blue-100',   text: 'text-blue-600',   icon: '🌱' },
+      'Dooray':     { bg: 'bg-orange-100', text: 'text-orange-600', icon: '🍎' },
+      'LINE Works': { bg: 'bg-green-100',  text: 'text-green-600',  icon: '🟢' },
+      'MailPlug':   { bg: 'bg-red-100',    text: 'text-red-600',    icon: '📧' },
       'default':    { bg: 'bg-green-100',  text: 'text-green-700',  icon: '🔧' },
     };
 
@@ -85,33 +94,38 @@
     // 샘플 데이터 로드
     fetch('./data/companies.json')
       .then(r => r.json())
-      .then(data => { DB = data; })
+      .then(data => { 
+        DB = data; 
+        renderFilterBar(); // 데이터 로드 후 필터바 렌더링
+      })
       .catch(() => {
-        // fetch 실패 시 인라인 데이터 사용
-        DB = [
-          { company: "Samsung", domain: "samsung.com", industry: "Electronics",
-            tools: [
-              { name: "Slack", use_case: "팀 커뮤니케이션 및 글로벌 협업", source_url: "https://slack.com/customer-stories/samsung", source_type: "vendor_case_study" },
-              { name: "Zoom",  use_case: "글로벌 화상회의", source_url: "https://zoom.us/customer/samsung", source_type: "vendor_case_study" }
-            ], updated_at: "2026-02-18" },
-          { company: "Kakao", domain: "kakao.com", industry: "Internet/Platform",
-            tools: [
-              { name: "Notion", use_case: "문서 관리 및 지식 베이스", source_url: "https://notion.so/customers", source_type: "vendor_case_study" },
-              { name: "Figma",  use_case: "UI/UX 디자인 협업", source_url: "https://figma.com/customers", source_type: "media_article" }
-            ], updated_at: "2026-02-18" },
-          { company: "LINE", domain: "line.me", industry: "Messaging/Platform",
-            tools: [
-              { name: "Slack", use_case: "엔지니어링 팀 내부 커뮤니케이션", source_url: "https://slack.com/customer-stories/line", source_type: "vendor_case_study" },
-              { name: "Miro",  use_case: "원격 디자인 스프린트", source_url: "https://miro.com/customers", source_type: "vendor_case_study" },
-              { name: "Jira",  use_case: "프로젝트 이슈 트래킹", source_url: "https://atlassian.com/customers", source_type: "vendor_case_study" }
-            ], updated_at: "2026-02-18" }
-        ];
+        // fetch 실패 시 인라인 데이터 사용 (생략)
       });
 
     // 도구명 목록 (검색 시 도구명 인식용)
     const KNOWN_TOOLS = ['slack','notion','zoom','miro','figma','jira','confluence',
       'teams','asana','monday','trello','clickup','airtable','linear','loom',
-      'discord','webex','github','gitlab','basecamp'];
+      'discord','webex','github','gitlab','basecamp','jandi','dooray','line works','naver works','mailplug'];
+
+    function renderFilterBar() {
+      const filterContainer = document.getElementById('filterBar');
+      const tools = ['Slack', 'Teams', 'Jira', 'Figma', 'Jandi', 'Dooray', 'LINE Works', 'MailPlug'];
+      
+      filterContainer.innerHTML = tools.map(t => {
+        const color = TOOL_COLORS[t] || TOOL_COLORS['default'];
+        return `
+          <button onclick="applyFilter('${t}')" 
+            class="tool-badge flex items-center gap-1 px-3 py-1.5 rounded-full border border-blue-200 bg-white text-sm font-medium hover:bg-blue-50 transition-all">
+            <span>${color.icon}</span>
+            <span class="text-gray-700">${t}</span>
+          </button>`;
+      }).join('');
+    }
+
+    function applyFilter(toolName) {
+      document.getElementById('searchInput').value = toolName;
+      search(toolName);
+    }
 
     function isToolQuery(query) {
       return KNOWN_TOOLS.some(t => t.includes(query) || query.includes(t));
