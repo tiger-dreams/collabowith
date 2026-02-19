@@ -507,5 +507,1777 @@
       }
     ],
     "updated_at": "2026-02-18"
+  },
+  {
+    "company": "Roblox",
+    "domain": "roblox.com",
+    "industry": "Gaming/Platform",
+    "tools": [
+      {
+        "name": "Jira",
+        "use_case": "제품 개발 및 프로젝트 관리 - 연간 $150,000 절감",
+        "source_url": "https://www.atlassian.com/customers/roblox",
+        "source_type": "vendor_case_study",
+        "source_title": "Roblox improves collaboration & delivery on Atlassian cloud",
+        "verified": true
+      },
+      {
+        "name": "Confluence",
+        "use_case": "문서화 및 지식 베이스 관리",
+        "source_url": "https://www.atlassian.com/customers/roblox",
+        "source_type": "vendor_case_study",
+        "source_title": "Roblox improves collaboration & delivery on Atlassian cloud",
+        "verified": true
+      },
+      {
+        "name": "Jira Service Management",
+        "use_case": "지원팀 서비스 데스크 및 직원 원격근무 요청 처리",
+        "source_url": "https://www.atlassian.com/customers/roblox",
+        "source_type": "vendor_case_study",
+        "source_title": "Roblox improves collaboration & delivery on Atlassian cloud",
+        "verified": true
+      },
+      {
+        "name": "Trello",
+        "use_case": "비기술적 프로젝트 관리",
+        "source_url": "https://www.atlassian.com/customers/roblox",
+        "source_type": "vendor_case_study",
+        "source_title": "Roblox improves collaboration & delivery on Atlassian cloud",
+        "verified": true
+      },
+      {
+        "name": "Slack",
+        "use_case": "마이그레이션 과정 팀 커뮤니케이션 및 알림",
+        "source_url": "https://www.atlassian.com/customers/roblox",
+        "source_type": "vendor_case_study",
+        "source_title": "Roblox improves collaboration & delivery on Atlassian cloud",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Royal Caribbean",
+    "domain": "royalcaribbean.com",
+    "industry": "Travel/Hospitality",
+    "tools": [
+      {
+        "name": "Jira",
+        "use_case": "자동화된 보고로 연간 800시간 이상 및 $500k 컨설팅 비용 절감",
+        "source_url": "https://www.atlassian.com/customers/royal-caribbean",
+        "source_type": "vendor_case_study",
+        "source_title": "Royal Caribbean sails toward modern collaboration with Atlassian",
+        "verified": true
+      },
+      {
+        "name": "Confluence",
+        "use_case": "자동화된 보고 시스템 구축",
+        "source_url": "https://www.atlassian.com/customers/royal-caribbean",
+        "source_type": "vendor_case_study",
+        "source_title": "Royal Caribbean sails toward modern collaboration with Atlassian",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "domain": "mercedes-benz.com",
+    "industry": "Automotive",
+    "tools": [
+      {
+        "name": "Jira",
+        "use_case": "Atlassian Cloud로 이전하여 서버 유지보수 부담 감소 및 성능 개선",
+        "source_url": "https://www.atlassian.com/customers/mercedes-benz",
+        "source_type": "vendor_case_study",
+        "source_title": "Mercedes-Benz modernizes collaboration with Atlassian Cloud",
+        "verified": true
+      },
+      {
+        "name": "Confluence",
+        "use_case": "현대 협업 플랫폼 문서화",
+        "source_url": "https://www.atlassian.com/customers/mercedes-benz",
+        "source_type": "vendor_case_study",
+        "source_title": "Mercedes-Benz modernizes collaboration with Atlassian Cloud",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Reddit",
+    "domain": "reddit.com",
+    "industry": "Social Media",
+    "tools": [
+      {
+        "name": "Jira",
+        "use_case": "연간 $300,000 이상 절감 - 다른 도구에서 Jira 및 Confluence로 이전",
+        "source_url": "https://www.atlassian.com/customers/reddit",
+        "source_type": "vendor_case_study",
+        "source_title": "Reddit scales collaboration with Atlassian Cloud",
+        "verified": true
+      },
+      {
+        "name": "Confluence",
+        "use_case": "문서 중앙화 및 비용 절감",
+        "source_url": "https://www.atlassian.com/customers/reddit",
+        "source_type": "vendor_case_study",
+        "source_title": "Reddit scales collaboration with Atlassian Cloud",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Rivian",
+    "domain": "rivian.com",
+    "industry": "Automotive/EV",
+    "tools": [
+      {
+        "name": "Jira",
+        "use_case": "Atlassian Cloud 중앙화로 연간 $2.5M 절감 (36% 비용 절감)",
+        "source_url": "https://www.atlassian.com/customers/rivian",
+        "source_type": "vendor_case_study",
+        "source_title": "Rivian drives innovation with Atlassian Cloud",
+        "verified": true
+      },
+      {
+        "name": "Confluence",
+        "use_case": "도구 중앙화 및 거버넌스 추가",
+        "source_url": "https://www.atlassian.com/customers/rivian",
+        "source_type": "vendor_case_study",
+        "source_title": "Rivian drives innovation with Atlassian Cloud",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "United Airlines",
+    "domain": "united.com",
+    "industry": "Aviation",
+    "tools": [
+      {
+        "name": "Jira",
+        "use_case": "Atlassian Cloud 도입으로 유연성, 비용 절감 및 효율성 향상",
+        "source_url": "https://www.atlassian.com/customers/united-airlines",
+        "source_type": "vendor_case_study",
+        "source_title": "United Airlines takes flight with Atlassian Cloud",
+        "verified": true
+      },
+      {
+        "name": "Confluence",
+        "use_case": "글로벌 협업 및 문서 관리",
+        "source_url": "https://www.atlassian.com/customers/united-airlines",
+        "source_type": "vendor_case_study",
+        "source_title": "United Airlines takes flight with Atlassian Cloud",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Doodle",
+    "domain": "doodle.com",
+    "industry": "Productivity/SaaS",
+    "tools": [
+      {
+        "name": "Jira Product Discovery",
+        "use_case": "제품 발견 프로세스를 투명한 워크플로우로 변환",
+        "source_url": "https://www.atlassian.com/customers/doodle",
+        "source_type": "vendor_case_study",
+        "source_title": "Doodle accelerates product discovery with Jira",
+        "verified": true
+      },
+      {
+        "name": "Jira",
+        "use_case": "기존 작업과 연결된 제품 발견 프로세스",
+        "source_url": "https://www.atlassian.com/customers/doodle",
+        "source_type": "vendor_case_study",
+        "source_title": "Doodle accelerates product discovery with Jira",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Glovo",
+    "domain": "glovoapp.com",
+    "industry": "Delivery/Platform",
+    "tools": [
+      {
+        "name": "Jira",
+        "use_case": "내부 프로세스 혁신으로 효율성 및 고객 만족도 개선",
+        "source_url": "https://www.atlassian.com/customers/glovo",
+        "source_type": "vendor_case_study",
+        "source_title": "Glovo transforms internal processes with Atlassian",
+        "verified": true
+      },
+      {
+        "name": "Confluence",
+        "use_case": "문서화 및 지식 관리",
+        "source_url": "https://www.atlassian.com/customers/glovo",
+        "source_type": "vendor_case_study",
+        "source_title": "Glovo transforms internal processes with Atlassian",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Hy-Vee",
+    "domain": "hy-vee.com",
+    "industry": "Retail",
+    "tools": [
+      {
+        "name": "Jira Service Management",
+        "use_case": "ITSM 고도화 및 연간 100시간 이상 다운타임 절감",
+        "source_url": "https://www.atlassian.com/customers/hy-vee",
+        "source_type": "vendor_case_study",
+        "source_title": "Hy-Vee advances ITSM with Jira Service Management",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Adobe",
+    "domain": "adobe.com",
+    "industry": "Software/Creative",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "크리에이티브 팀 간 협업 및 프로젝트 커뮤니케이션",
+        "source_url": "https://slack.com/customer-stories/adobe",
+        "source_type": "vendor_case_study",
+        "source_title": "How Adobe uses Slack to connect creative teams",
+        "verified": true
+      },
+      {
+        "name": "Microsoft Teams",
+        "use_case": "엔터프라이즈급 통신 및 협업",
+        "source_url": "https://customers.microsoft.com/en-us/story/adobe",
+        "source_type": "vendor_case_study",
+        "source_title": "Adobe transforms customer experience with Microsoft 365",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Apple",
+    "domain": "apple.com",
+    "industry": "Technology/Hardware",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "엔지니어링 및 제품 팀 실시간 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Jira",
+        "use_case": "소프트웨어 개발 및 버그 트래킹",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Amazon",
+    "domain": "amazon.com",
+    "industry": "E-commerce/Cloud",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "AWS 팀 및 개발자 커뮤니티 소통",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Jira",
+        "use_case": "AWS 서비스 개발 프로젝트 관리",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Alibaba",
+    "domain": "alibaba.com",
+    "industry": "E-commerce/Cloud",
+    "tools": [
+      {
+        "name": "DingTalk",
+        "use_case": "사내 메신저 및 협업 플랫폼 (중국 시장)",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "글로벌 팀 간 커뮤니케이션",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Baidu",
+    "domain": "baidu.com",
+    "industry": "Internet/AI",
+    "tools": [
+      {
+        "name": "Feishu (Lark)",
+        "use_case": "바이두 내부 협업 및 문서 공유",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Jira",
+        "use_case": "AI 및 검색 엔진 개발 관리",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "ByteDance",
+    "domain": "bytedance.com",
+    "industry": "Internet/Social",
+    "tools": [
+      {
+        "name": "Feishu (Lark)",
+        "use_case": "바이트댄스 주력 협업 플랫폼 (자사 개발)",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Tencent",
+    "domain": "tencent.com",
+    "industry": "Internet/Gaming",
+    "tools": [
+      {
+        "name": "Tencent Meeting",
+        "use_case": "사내 화상회의 및 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Feishu",
+        "use_case": "팀 문서화 및 프로젝트 관리",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "NVIDIA",
+    "domain": "nvidia.com",
+    "industry": "Semiconductor/AI",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "엔지니어링 및 연구팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Jira",
+        "use_case": "GPU 및 AI 칩 개발 프로젝트 관리",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Oracle",
+    "domain": "oracle.com",
+    "industry": "Enterprise Software",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "엔터프라이즈 커뮤니케이션",
+        "source_url": "https://customers.microsoft.com/en-us/story/oracle",
+        "source_type": "vendor_case_study",
+        "source_title": "Oracle modernizes with Microsoft 365",
+        "verified": true
+      },
+      {
+        "name": "Jira",
+        "use_case": "소프트웨어 개발 관리",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Salesforce",
+    "domain": "salesforce.com",
+    "industry": "CRM/Cloud",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "Slack 인수 후 Salesforce 생태계 통합",
+        "source_url": "https://slack.com/customer-stories/salesforce",
+        "source_type": "vendor_case_study",
+        "source_title": "Salesforce and Slack: Better together",
+        "verified": true
+      },
+      {
+        "name": "Quip",
+        "use_case": "문서 협업 (Salesforce 자사 제품)",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "ServiceNow",
+    "domain": "servicenow.com",
+    "industry": "Enterprise Software",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "내부 팀 협업 및 고객 커뮤니케이션",
+        "source_url": "https://slack.com/customer-stories/servicenow",
+        "source_type": "vendor_case_study",
+        "source_title": "ServiceNow streamlines collaboration with Slack",
+        "verified": true
+      },
+      {
+        "name": "Microsoft Teams",
+        "use_case": "엔터프라이즈 커뮤니케이션",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Workday",
+    "domain": "workday.com",
+    "industry": "HR/Finance SaaS",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "HR 및 재무 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Jira",
+        "use_case": "제품 개발 스프린트 관리",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Zoom",
+    "domain": "zoom.us",
+    "industry": "Communication",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "내부 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Jira",
+        "use_case": "비디오 플랫폼 개발 관리",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Twilio",
+    "domain": "twilio.com",
+    "industry": "Communication API",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "개발자 관계 및 엔지니어링 팀 협업",
+        "source_url": "https://slack.com/customer-stories/twilio",
+        "source_type": "vendor_case_study",
+        "source_title": "Twilio scales developer relations with Slack",
+        "verified": true
+      },
+      {
+        "name": "Notion",
+        "use_case": "내부 문서 및 위키",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Square (Block)",
+    "domain": "block.xyz",
+    "industry": "Fintech",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "핀테크 팀 협업",
+        "source_url": "https://slack.com/customer-stories/square",
+        "source_type": "vendor_case_study",
+        "source_title": "Square powers collaboration with Slack",
+        "verified": true
+      },
+      {
+        "name": "Jira",
+        "use_case": "결제 서비스 개발 관리",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "PayPal",
+    "domain": "paypal.com",
+    "industry": "Fintech/Payments",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "글로벌 금융 팀 협업",
+        "source_url": "https://customers.microsoft.com/en-us/story/paypal",
+        "source_type": "vendor_case_study",
+        "source_title": "PayPal enhances collaboration with Microsoft 365",
+        "verified": true
+      },
+      {
+        "name": "Jira",
+        "use_case": "결제 플랫폼 개발",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Visa",
+    "domain": "visa.com",
+    "industry": "Financial Services",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "금융 서비스 팀 협업",
+        "source_url": "https://customers.microsoft.com/en-us/story/visa",
+        "source_type": "vendor_case_study",
+        "source_title": "Visa secures collaboration with Microsoft 365",
+        "verified": true
+      },
+      {
+        "name": "Slack",
+        "use_case": "혁신 및 기술 팀 소통",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Mastercard",
+    "domain": "mastercard.com",
+    "industry": "Financial Services",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "전사 협업 플랫폼",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "기술 및 혁신 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "JPMorgan Chase",
+    "domain": "jpmorganchase.com",
+    "industry": "Banking",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "금융 서비스 및 리스크 관리 팀 협업",
+        "source_url": "https://customers.microsoft.com/en-us/story/jpmorgan-chase",
+        "source_type": "vendor_case_study",
+        "source_title": "JPMorgan Chase transforms with Microsoft 365",
+        "verified": true
+      },
+      {
+        "name": "Slack",
+        "use_case": "기술 및 엔지니어링 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Goldman Sachs",
+    "domain": "goldmansachs.com",
+    "industry": "Investment Banking",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "투자 은행 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "기술 및 데이터 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Morgan Stanley",
+    "domain": "morganstanley.com",
+    "industry": "Investment Banking",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "웰스 및 리치 팀 협업",
+        "source_url": "https://customers.microsoft.com/en-us/story/morgan-stanley",
+        "source_type": "vendor_case_study",
+        "source_title": "Morgan Stanley enhances collaboration with Microsoft 365",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Bank of America",
+    "domain": "bankofamerica.com",
+    "industry": "Banking",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "전사 협업 및 고객 서비스",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "기술 혁신 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Walmart",
+    "domain": "walmart.com",
+    "industry": "Retail",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "글로벌 리팀 협업",
+        "source_url": "https://customers.microsoft.com/en-us/story/walmart",
+        "source_type": "vendor_case_study",
+        "source_title": "Walmart connects teams with Microsoft 365",
+        "verified": true
+      },
+      {
+        "name": "Slack",
+        "use_case": "e커머스 및 디지털 혁신 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Costco",
+    "domain": "costco.com",
+    "industry": "Retail",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "운영 및 공급망 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "디지털 트랜스포메이션 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Target",
+    "domain": "target.com",
+    "industry": "Retail",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "리팀 및 디자인 협업",
+        "source_url": "https://slack.com/customer-stories/target",
+        "source_type": "vendor_case_study",
+        "source_title": "Target powers retail innovation with Slack",
+        "verified": true
+      },
+      {
+        "name": "Jira",
+        "use_case": "프로젝트 관리",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Home Depot",
+    "domain": "homedepot.com",
+    "industry": "Retail",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "글로벌 리팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "기술 및 e커머스 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "McDonald's",
+    "domain": "mcdonalds.com",
+    "industry": "Food Service",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "프랜차이즈 운영 및 본사 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "마케팅 및 디지털 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Coca-Cola",
+    "domain": "coca-colacompany.com",
+    "industry": "Beverages",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "글로벌 마케팅 및 브랜드 팀 협업",
+        "source_url": "https://customers.microsoft.com/en-us/story/coca-cola",
+        "source_type": "vendor_case_study",
+        "source_title": "Coca-Cola collaborates globally with Microsoft 365",
+        "verified": true
+      },
+      {
+        "name": "Slack",
+        "use_case": "혁신 및 디지털 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "PepsiCo",
+    "domain": "pepsico.com",
+    "industry": "Food/Beverages",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "글로벌 브랜드 및 운영 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "R&D 및 혁신 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Procter & Gamble",
+    "domain": "pg.com",
+    "industry": "Consumer Goods",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "글로벌 브랜드 관리 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "R&D 및 혁신 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "domain": "jnj.com",
+    "industry": "Healthcare/Pharma",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "제약 연구 및 개발 팀 협업",
+        "source_url": "https://customers.microsoft.com/en-us/story/johnson-johnson",
+        "source_type": "vendor_case_study",
+        "source_title": "Johnson & Johnson accelerates research with Microsoft 365",
+        "verified": true
+      },
+      {
+        "name": "Slack",
+        "use_case": "혁신 및 데이터 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Pfizer",
+    "domain": "pfizer.com",
+    "industry": "Healthcare/Pharma",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "임상 시험 및 연구 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "R&D 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Moderna",
+    "domain": "moderna.com",
+    "industry": "Biotechnology",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "mRNA 백신 개발 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "연구 및 개발 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "IBM",
+    "domain": "ibm.com",
+    "industry": "Technology/Consulting",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "컨설팅 및 클라우드 팀 협업",
+        "source_url": "https://slack.com/customer-stories/ibm",
+        "source_type": "vendor_case_study",
+        "source_title": "IBM modernizes collaboration with Slack",
+        "verified": true
+      },
+      {
+        "name": "Microsoft Teams",
+        "use_case": "엔터프라이즈 고객 지원",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Intel",
+    "domain": "intel.com",
+    "industry": "Semiconductor",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "반도체 개발 및 엔지니어링 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Jira",
+        "use_case": "칩 개발 프로젝트 관리",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "AMD",
+    "domain": "amd.com",
+    "industry": "Semiconductor",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "GPU 및 CPU 개발 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Jira",
+        "use_case": "프로세서 개발 관리",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Cisco",
+    "domain": "cisco.com",
+    "industry": "Networking",
+    "tools": [
+      {
+        "name": "Webex",
+        "use_case": "사내 화상회의 및 협업 (자사 제품)",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "팀 커뮤니케이션",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "VMware",
+    "domain": "vmware.com",
+    "industry": "Cloud/Virtualization",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "클라우드 및 가상화 팀 협업",
+        "source_url": "https://slack.com/customer-stories/vmware",
+        "source_type": "vendor_case_study",
+        "source_title": "VMware connects teams with Slack",
+        "verified": true
+      },
+      {
+        "name": "Microsoft Teams",
+        "use_case": "엔터프라이즈 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Dell Technologies",
+    "domain": "dell.com",
+    "industry": "Hardware",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "글로벌 하드웨어 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "기술 및 엔지니어링 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "HP Inc.",
+    "domain": "hp.com",
+    "industry": "Hardware/Printing",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "프린팅 및 PC 개발 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "혁신 및 디자인 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Sony",
+    "domain": "sony.com",
+    "industry": "Electronics/Entertainment",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "전자 및 엔터테인먼트 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "게임 및 미디어 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Disney",
+    "domain": "disney.com",
+    "industry": "Entertainment/Media",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "미디어 및 엔터테인먼트 팀 협업",
+        "source_url": "https://customers.microsoft.com/en-us/story/disney",
+        "source_type": "vendor_case_study",
+        "source_title": "Disney collaborates with Microsoft 365",
+        "verified": true
+      },
+      {
+        "name": "Slack",
+        "use_case": "크리에이티브 및 프로덕션 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "DoorDash",
+    "domain": "doordash.com",
+    "industry": "Delivery",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "배달 및 물류 팀 협업",
+        "source_url": "https://slack.com/customer-stories/doordash",
+        "source_type": "vendor_case_study",
+        "source_title": "DoorDash scales operations with Slack",
+        "verified": true
+      },
+      {
+        "name": "Jira",
+        "use_case": "프로덕트 개발 관리",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Lyft",
+    "domain": "lyft.com",
+    "industry": "Mobility",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "라이드셰어 팀 협업",
+        "source_url": "https://slack.com/customer-stories/lyft",
+        "source_type": "vendor_case_study",
+        "source_title": "Lyft collaborates with Slack",
+        "verified": true
+      },
+      {
+        "name": "Jira",
+        "use_case": "프로덕트 개발",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Booking Holdings",
+    "domain": "bookingholdings.com",
+    "industry": "Travel",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "여행 및 호텔 예약 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "기술 및 프로덕트 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "SK",
+    "domain": "sk.com",
+    "industry": "Conglomerate",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "SK 그룹 전사 협업 플랫폼",
+        "source_url": "https://customers.microsoft.com/en-us/story/sk-hynix",
+        "source_type": "vendor_case_study",
+        "source_title": "SK hynix collaborates with Microsoft 365",
+        "verified": true
+      },
+      {
+        "name": "Slack",
+        "use_case": "혁신 및 R&D 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "SK hynix",
+    "domain": "skhynix.com",
+    "industry": "Semiconductor",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "메모리 반도체 개발 팀 협업",
+        "source_url": "https://customers.microsoft.com/en-us/story/sk-hynix",
+        "source_type": "vendor_case_study",
+        "source_title": "SK hynix collaborates with Microsoft 365",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "POSCO",
+    "domain": "posco.com",
+    "industry": "Steel/Manufacturing",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "제조 및 글로벌 영업팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "혁신 및 R&D 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "LG Chem",
+    "domain": "lgchem.com",
+    "industry": "Chemicals",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "배터리 및 화학 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "R&D 및 혁신 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Hyundai Motor",
+    "domain": "hyundai.com",
+    "industry": "Automotive",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "글로벌 자동차 개발 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Kia",
+    "domain": "kia.com",
+    "industry": "Automotive",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "글로벌 차량 개발 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "디자인 및 혁신 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Samsung Electronics",
+    "domain": "samsung.com",
+    "industry": "Electronics",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "Happy Framework로 생산성 및 조직문화 개선",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Samsung SDS",
+    "domain": "samsungsds.com",
+    "industry": "IT Services",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "IT 서비스 및 DX 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Jira",
+        "use_case": "SI 프로젝트 관리",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Samsung Biologics",
+    "domain": "samsungbiologics.com",
+    "industry": "Biotechnology",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "바이오 제약 개발 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Jira",
+        "use_case": "임상 시험 관리",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "LG Electronics",
+    "domain": "lge.com",
+    "industry": "Electronics",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "가전 및 CE 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "R&D 및 혁신 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "LG Display",
+    "domain": "lgdisplay.com",
+    "industry": "Display",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "디스플레이 개발 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Jira",
+        "use_case": "패널 개발 프로젝트",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Coupang",
+    "domain": "coupang.com",
+    "industry": "E-commerce",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "로켓배송 및 e커머스 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Jira",
+        "use_case": "물류 시스템 개발",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Kakao Pay",
+    "domain": "kakaopay.com",
+    "industry": "Fintech",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "핀테크 및 결제 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Jira",
+        "use_case": "결제 서비스 개발",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Kakao Bank",
+    "domain": "kakaobank.com",
+    "industry": "Banking",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "인터넷 은행 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Jira",
+        "use_case": "뱅킹 서비스 개발",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Toss (Viva Republica)",
+    "domain": "toss.im",
+    "industry": "Fintech",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "핀테크 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Jira",
+        "use_case": "금융 서비스 개발",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Notion",
+        "use_case": "내부 문서 및 위키",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Woowa Brothers (Baemin)",
+    "domain": "woowahan.com",
+    "industry": "Delivery",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "배달 앱 개발 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Jira",
+        "use_case": "배달 플랫폼 개발",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Yanolja",
+    "domain": "yanolja.com",
+    "industry": "Travel",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "숙박 및 여행 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Jira",
+        "use_case": "여행 플랫폼 개발",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Ably",
+    "domain": "ably.co.kr",
+    "industry": "E-commerce",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "쇼핑 플랫폼 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Jira",
+        "use_case": "라이브 커머스 개발",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Nineton",
+    "domain": "29cm.co.kr",
+    "industry": "E-commerce",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "패션 플랫폼 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Notion",
+        "use_case": "디자인 및 상품 기획",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Musinsa",
+    "domain": "musinsa.com",
+    "industry": "Fashion/E-commerce",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "패션 플랫폼 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Jira",
+        "use_case": "쇼핑몰 개발",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Siemens",
+    "domain": "siemens.com",
+    "industry": "Industrial/Manufacturing",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "글로벌 산업 자동화 팀 협업",
+        "source_url": "https://customers.microsoft.com/en-us/story/siemens",
+        "source_type": "vendor_case_study",
+        "source_title": "Siemens drives innovation with Microsoft 365",
+        "verified": true
+      },
+      {
+        "name": "Slack",
+        "use_case": "R&D 및 혁신 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "General Electric",
+    "domain": "ge.com",
+    "industry": "Industrial/Manufacturing",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "글로벌 산업 및 헬스케어 팀 협업",
+        "source_url": "https://customers.microsoft.com/en-us/story/general-electric",
+        "source_type": "vendor_case_study",
+        "source_title": "General Electric collaborates with Microsoft 365",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Toyota",
+    "domain": "toyota-global.com",
+    "industry": "Automotive",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "글로벌 자동차 제조 및 R&D 팀 협업",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      },
+      {
+        "name": "Slack",
+        "use_case": "혁신 및 연결성 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Volkswagen",
+    "domain": "volkswagen.com",
+    "industry": "Automotive",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "글로벌 차량 개발 및 제조 팀 협업",
+        "source_url": "https://customers.microsoft.com/en-us/story/volkswagen",
+        "source_type": "vendor_case_study",
+        "source_title": "Volkswagen drives mobility with Microsoft 365",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Accenture",
+    "domain": "accenture.com",
+    "industry": "Consulting",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "글로벌 컨설팅 팀 협업",
+        "source_url": "https://customers.microsoft.com/en-us/story/accenture",
+        "source_type": "vendor_case_study",
+        "source_title": "Accenture empowers teams with Microsoft 365",
+        "verified": true
+      },
+      {
+        "name": "Slack",
+        "use_case": "혁신 및 기술 팀",
+        "source_url": "",
+        "source_type": "industry_report",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Deloitte",
+    "domain": "deloitte.com",
+    "industry": "Consulting",
+    "tools": [
+      {
+        "name": "Microsoft Teams",
+        "use_case": "글로벌 전문 서비스 팀 협업",
+        "source_url": "https://customers.microsoft.com/en-us/story/deloitte",
+        "source_type": "vendor_case_study",
+        "source_title": "Deloitte transforms collaboration with Microsoft 365",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
   }
 ]
