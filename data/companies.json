@@ -1374,6 +1374,13 @@
         "source_url": "",
         "source_type": "industry_report",
         "verified": false
+      },
+      {
+        "name": "Salesforce",
+        "use_case": "Salesforce Data 360 활용",
+        "source_url": "https://www.salesforce.com/customer-stories/pepsico-data-360",
+        "source_type": "vendor_case_study",
+        "verified": true
       }
     ],
     "updated_at": "2026-02-19"
@@ -2260,6 +2267,13 @@
         "source_url": "",
         "source_type": "industry_report",
         "verified": false
+      },
+      {
+        "name": "Salesforce",
+        "use_case": "Salesforce Agentforce 360 활용",
+        "source_url": "https://www.salesforce.com/customer-stories/accenture-rajendra-prasad-and-sara-porter-interview",
+        "source_type": "vendor_case_study",
+        "verified": true
       }
     ],
     "updated_at": "2026-02-19"
@@ -2275,6 +2289,576 @@
         "source_url": "https://customers.microsoft.com/en-us/story/deloitte",
         "source_type": "vendor_case_study",
         "source_title": "Deloitte transforms collaboration with Microsoft 365",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "신지모루",
+    "domain": "sinjimoru.com",
+    "industry": "제조",
+    "tools": [
+      {
+        "name": "JANDI",
+        "use_case": "토픽 생성, 멘션 등 메신저 기능을 활용한 전사 업무 소통 및 협업",
+        "source_url": "https://blog.jandi.com/ko/2025/12/03/customercase-sinjimoru/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "대동가설시스템",
+    "domain": "",
+    "industry": "유통/건설",
+    "tools": [
+      {
+        "name": "JANDI",
+        "use_case": "전국 현장과 본사 연결을 통한 업무 효율 극대화",
+        "source_url": "https://blog.jandi.com/ko/2025/07/04/customercase-daedonggaseol/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "텐씨엘",
+    "domain": "",
+    "industry": "플랫폼/스포츠엔터테인먼트",
+    "tools": [
+      {
+        "name": "JANDI",
+        "use_case": "스포테인먼트 놀이 공간 캘리클럽 운영 확장 및 협업",
+        "source_url": "https://blog.jandi.com/ko/2025/05/30/customercase-tencl/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "서울척병원",
+    "domain": "",
+    "industry": "의료",
+    "tools": [
+      {
+        "name": "JANDI",
+        "use_case": "의료진과 행정 직원들의 잔디 활용 병의원 협업",
+        "source_url": "https://blog.jandi.com/ko/2025/03/31/seoulchuk/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "히즈빈스",
+    "domain": "",
+    "industry": "사회적기업/F&B",
+    "tools": [
+      {
+        "name": "JANDI",
+        "use_case": "장애인과 함께 행복하게 일하는 사회적기업의 업무 소통 통합",
+        "source_url": "https://blog.jandi.com/ko/2025/02/24/hisbeans/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "명인코리아",
+    "domain": "",
+    "industry": "유통",
+    "tools": [
+      {
+        "name": "JANDI",
+        "use_case": "반복 업무 해결 및 자발적 업무 소통 문화 구축",
+        "source_url": "https://blog.jandi.com/ko/2025/01/17/customercase-myounginkorea/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "행복나눔재단",
+    "domain": "",
+    "industry": "비영리",
+    "tools": [
+      {
+        "name": "JANDI",
+        "use_case": "비영리 단체의 사내 프로젝트 및 조직문화 협업",
+        "source_url": "https://blog.jandi.com/ko/2024/12/10/customercase-skhappiness/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "타베코리아",
+    "domain": "",
+    "industry": "F&B",
+    "tools": [
+      {
+        "name": "JANDI",
+        "use_case": "외식 프랜차이즈 본사 내부/외부 아이디어 공유 및 소통",
+        "source_url": "https://blog.jandi.com/ko/2024/10/07/customercase-tabekorea/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "위펀",
+    "domain": "",
+    "industry": "플랫폼",
+    "tools": [
+      {
+        "name": "JANDI",
+        "use_case": "스낵24 B2B 플랫폼 확장 및 협업 시스템 구축",
+        "source_url": "https://blog.jandi.com/ko/2024/08/06/customercase-wefun/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "스페이스애드",
+    "domain": "",
+    "industry": "미디어",
+    "tools": [
+      {
+        "name": "JANDI",
+        "use_case": "신뢰할 수 있는 사내메신저 및 웹훅 업계 소식 확인",
+        "source_url": "https://blog.jandi.com/ko/2024/06/26/customercase-spaceadd/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "와이즈플래닛",
+    "domain": "",
+    "industry": "에이전시",
+    "tools": [
+      {
+        "name": "JANDI",
+        "use_case": "전사 구성원 80% 적극 찬성을 얻은 협업툴 도입",
+        "source_url": "https://blog.jandi.com/ko/2024/06/04/customercase-wplanet/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "가톨릭중앙의료원(CMC)",
+    "domain": "cmc.or.kr",
+    "industry": "의료/간호/제약",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "의료 현장의 디지털 혁신(DX) 및 협업",
+        "source_url": "https://naver.worksmobile.com/cases/cmc/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "한국고무주식회사",
+    "domain": "korearubber.com",
+    "industry": "제조",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "업무용 메일과 드라이브를 기반한 소속감과 신뢰 향상 및 안전 협업 환경",
+        "source_url": "https://naver.worksmobile.com/cases/korearubber/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "법무법인(유한) 대륜",
+    "domain": "",
+    "industry": "법무/세무",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "전국 변호사 간 실시간 소통, 변론 전략 공유, 고객 상담 알림 자동화",
+        "source_url": "https://naver.worksmobile.com/cases/daeryun_lawfirm/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "에가든",
+    "domain": "",
+    "industry": "물류/유통",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "프로젝트 도구 중심에서 메시지 중심의 협업 시스템으로 개편",
+        "source_url": "https://naver.worksmobile.com/cases/egarden/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "(주)아정네트웍스",
+    "domain": "",
+    "industry": "IT/통신",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "분산된 사내 소통 도구와 문서 관리 시스템 통합, 업무 효율성 향상과 비용 절감",
+        "source_url": "https://naver.worksmobile.com/cases/ajung-networks/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "네이버",
+    "domain": "naver.com",
+    "industry": "IT/통신",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "직원 1만 명의 업무 효율성 극대화, 글로벌 협업 강화, 보안 강화 및 사용자 만족도 향상",
+        "source_url": "https://naver.worksmobile.com/cases/naver/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "하이브랩",
+    "domain": "",
+    "industry": "IT/디지털마케팅",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "글로벌 디지털 대행사 성장, 사내 옥션 행사 진행, 한국-베트남 직원 간 글로벌 소통",
+        "source_url": "https://naver.worksmobile.com/cases/hivelab/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "나노아이티",
+    "domain": "",
+    "industry": "IT/CS",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "챗봇을 활용한 업무 자동화를 통한 생산성 향상 및 고객 만족도 상승",
+        "source_url": "https://naver.worksmobile.com/cases/nanoit/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "대웅제약",
+    "domain": "daewong.co.kr",
+    "industry": "제약/헬스케어",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "글로벌 헬스케어 그룹 스마트워크 환경 구축, 전자결재 5분 내 처리, 그룹 기능 활용 협업, 통번역으로 외국인 대응 시간 4시간→10분 절감",
+        "source_url": "https://naver.worksmobile.com/cases/itdonga/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "콤위즈",
+    "domain": "",
+    "industry": "통신",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "통신 설비 작업 현장 연결, 캘린더/설문/이미지 명함/연차 촉진 대상 관리/서약서 등 다기능 활용",
+        "source_url": "https://naver.worksmobile.com/cases/comwiz/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "모모스커피",
+    "domain": "",
+    "industry": "F&B/커피",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "2007년 부산의 작은 카페에서 100명 규모 로스터리 성장, 기업 업무 프로세스에 익숙하지 않은 바리스타와 직원들도 쉽게 사용",
+        "source_url": "https://naver.worksmobile.com/cases/momos_coffee/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "마더케이",
+    "domain": "",
+    "industry": "F&B/유아용품",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "육아용품 브랜드, 보안 취약한 개인용 메신저 대신 네이버웍스 도입으로 해킹 문제 해결 및 업무 효율성 향상",
+        "source_url": "https://naver.worksmobile.com/cases/mother-k/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "이데일리",
+    "domain": "edaily.co.kr",
+    "industry": "미디어/언론",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "국내 대표 언론사, 인사 담당자 업무 효율성 향상, 메시지 스티커 및 읽음 기능으로 부드러운 커뮤니케이션, 모바일 앱 편리한 업무",
+        "source_url": "https://naver.worksmobile.com/cases/edaily/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "은광",
+    "domain": "",
+    "industry": "유통/스포츠",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "나이키 코리아 파트너사, 네이버웍스 도입으로 매장과 본사, 구성원 간 소통 효율 80% 향상, 캘린더/메신저/드라이브/게시판 활용",
+        "source_url": "https://naver.worksmobile.com/cases/eungwang/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Grupo Falabella",
+    "domain": "",
+    "industry": "Retail",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "Salesforce Agentforce 활용",
+        "source_url": "https://www.salesforce.com/customer-stories/grupo-falabella",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Pandora",
+    "domain": "",
+    "industry": "Retail/Jewelry",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "Salesforce Agentforce 활용",
+        "source_url": "https://www.salesforce.com/customer-stories/pandora",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Pearson",
+    "domain": "pearson.com",
+    "industry": "Education/Publishing",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "Salesforce Agentforce 활용",
+        "source_url": "https://www.salesforce.com/customer-stories/pearson",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Lennar",
+    "domain": "lennar.com",
+    "industry": "Construction/Real Estate",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "Salesforce Agentforce 활용",
+        "source_url": "https://www.salesforce.com/customer-stories/lennar",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "FedEx",
+    "domain": "fedex.com",
+    "industry": "Logistics/Transportation",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "Salesforce Data 360 활용",
+        "source_url": "https://www.salesforce.com/customer-stories/fedex",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "UChicago Medicine",
+    "domain": "",
+    "industry": "Healthcare",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "Salesforce Data 360 활용",
+        "source_url": "https://www.salesforce.com/customer-stories/uchicago-medicine",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Pacers Sports & Entertainment",
+    "domain": "",
+    "industry": "Sports/Entertainment",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "Salesforce Data 360 활용",
+        "source_url": "https://www.salesforce.com/customer-stories/pacers-sports-entertainment-data-360",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Bionic",
+    "domain": "",
+    "industry": "Technology",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "Salesforce Agentforce 360 활용",
+        "source_url": "https://www.salesforce.com/customer-stories/bionic-james-lomas-byline",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "World Economic Forum",
+    "domain": "weforum.org",
+    "industry": "Nonprofit/Organization",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "Salesforce Agentforce 활용 Davos attendees save time",
+        "source_url": "https://www.salesforce.com/customer-stories/world-economic-forum/",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Tony's Chocolonely",
+    "domain": "",
+    "industry": "Food & Beverage/Chocolate",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "Salesforce 고객 성공 사례",
+        "source_url": "https://www.salesforce.com/customer-stories/tonys-chocolonely",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Pentagon Federal Credit Union",
+    "domain": "",
+    "industry": "Financial Services",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "Salesforce 활용",
+        "source_url": "https://www.salesforce.com/customer-stories/pentagon-federal-credit-union",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Telepass",
+    "domain": "",
+    "industry": "Transportation",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "Salesforce 활용",
+        "source_url": "https://www.salesforce.com/customer-stories/telepass",
+        "source_type": "vendor_case_study",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Goodyear",
+    "domain": "goodyear.com",
+    "industry": "Manufacturing/Automotive",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "Salesforce 활용",
+        "source_url": "https://www.salesforce.com/customer-stories/goodyear",
+        "source_type": "vendor_case_study",
         "verified": true
       }
     ],
