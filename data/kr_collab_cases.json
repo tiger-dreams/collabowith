@@ -1,0 +1,149 @@
+[
+  {
+    "company": "신지모루",
+    "tool": "JANDI",
+    "source_url": "https://blog.jandi.com/ko/2025/12/03/customercase-sinjimoru/",
+    "source_type": "vendor_case_study",
+    "use_case": "토픽 생성, 멘션 등 메신저 기능을 활용한 전사 업무 소통 및 협업",
+    "industry": "제조",
+    "domain": "sinjimoru.com",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "대동가설시스템",
+    "tool": "JANDI",
+    "source_url": "https://blog.jandi.com/ko/2025/07/04/customercase-daedonggaseol/",
+    "source_type": "vendor_case_study",
+    "use_case": "전국 현장과 본사 연결을 통한 업무 효율 극대화",
+    "industry": "유통/건설",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "텐씨엘",
+    "tool": "JANDI",
+    "source_url": "https://blog.jandi.com/ko/2025/05/30/customercase-tencl/",
+    "source_type": "vendor_case_study",
+    "use_case": "스포테인먼트 놀이 공간 캘리클럽 운영 확장 및 협업",
+    "industry": "플랫폼/스포츠엔터테인먼트",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "서울척병원",
+    "tool": "JANDI",
+    "source_url": "https://blog.jandi.com/ko/2025/03/31/seoulchuk/",
+    "source_type": "vendor_case_study",
+    "use_case": "의료진과 행정 직원들의 잔디 활용 병의원 협업",
+    "industry": "의료",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "히즈빈스",
+    "tool": "JANDI",
+    "source_url": "https://blog.jandi.com/ko/2025/02/24/hisbeans/",
+    "source_type": "vendor_case_study",
+    "use_case": "장애인과 함께 행복하게 일하는 사회적기업의 업무 소통 통합",
+    "industry": "사회적기업/F&B",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "명인코리아",
+    "tool": "JANDI",
+    "source_url": "https://blog.jandi.com/ko/2025/01/17/customercase-myounginkorea/",
+    "source_type": "vendor_case_study",
+    "use_case": "반복 업무 해결 및 자발적 업무 소통 문화 구축",
+    "industry": "유통",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "행복나눔재단",
+    "tool": "JANDI",
+    "source_url": "https://blog.jandi.com/ko/2024/12/10/customercase-skhappiness/",
+    "source_type": "vendor_case_study",
+    "use_case": "비영리 단체의 사내 프로젝트 및 조직문화 협업",
+    "industry": "비영리",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "타베코리아",
+    "tool": "JANDI",
+    "source_url": "https://blog.jandi.com/ko/2024/10/07/customercase-tabekorea/",
+    "source_type": "vendor_case_study",
+    "use_case": "외식 프랜차이즈 본사 내부/외부 아이디어 공유 및 소통",
+    "industry": "F&B",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "위펀",
+    "tool": "JANDI",
+    "source_url": "https://blog.jandi.com/ko/2024/08/06/customercase-wefun/",
+    "source_type": "vendor_case_study",
+    "use_case": "스낵24 B2B 플랫폼 확장 및 협업 시스템 구축",
+    "industry": "플랫폼",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "스페이스애드",
+    "tool": "JANDI",
+    "source_url": "https://blog.jandi.com/ko/2024/06/26/customercase-spaceadd/",
+    "source_type": "vendor_case_study",
+    "use_case": "신뢰할 수 있는 사내메신저 및 웹훅 업계 소식 확인",
+    "industry": "미디어",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "와이즈플래닛",
+    "tool": "JANDI",
+    "source_url": "https://blog.jandi.com/ko/2024/06/04/customercase-wplanet/",
+    "source_type": "vendor_case_study",
+    "use_case": "전사 구성원 80% 적극 찬성을 얻은 협업툴 도입",
+    "industry": "에이전시",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "가톨릭중앙의료원(CMC)",
+    "tool": "NAVER WORKS",
+    "source_url": "https://naver.worksmobile.com/cases/cmc/",
+    "source_type": "vendor_case_study",
+    "use_case": "의료 현장의 디지털 혁신(DX) 및 협업",
+    "industry": "의료/간호/제약",
+    "domain": "cmc.or.kr",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "한국고무주식회사",
+    "tool": "NAVER WORKS",
+    "source_url": "https://naver.worksmobile.com/cases/korearubber/",
+    "source_type": "vendor_case_study",
+    "use_case": "업무용 메일과 드라이브를 기반한 소속감과 신뢰 향상 및 안전 협업 환경",
+    "industry": "제조",
+    "domain": "korearubber.com",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "법무법인(유한) 대륜",
+    "tool": "NAVER WORKS",
+    "source_url": "https://naver.worksmobile.com/cases/daeryun_lawfirm/",
+    "source_type": "vendor_case_study",
+    "use_case": "전국 변호사 간 실시간 소통, 변론 전략 공유, 고객 상담 알림 자동화",
+    "industry": "법무/세무",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "에가든",
+    "tool": "NAVER WORKS",
+    "source_url": "https://naver.worksmobile.com/cases/egarden/",
+    "source_type": "vendor_case_study",
+    "use_case": "프로젝트 도구 중심에서 메시지 중심의 협업 시스템으로 개편",
+    "industry": "물류/유통",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "(주)아정네트웍스",
+    "tool": "NAVER WORKS",
+    "source_url": "https://naver.worksmobile.com/cases/ajung-networks/",
+    "source_type": "vendor_case_study",
+    "use_case": "분산된 사내 소통 도구와 문서 관리 시스템 통합, 업무 효율성 향상과 비용 절감",
+    "industry": "IT/통신",
+    "updated_at": "2026-02-19"
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "company": "Grupo Falabella",
+    "tool": "Salesforce",
+    "source_url": "https://www.salesforce.com/customer-stories/grupo-falabella",
+    "source_type": "vendor_case_study",
+    "use_case": "Salesforce Agentforce 활용",
+    "industry": "Retail",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Pandora",
+    "tool": "Salesforce",
+    "source_url": "https://www.salesforce.com/customer-stories/pandora",
+    "source_type": "vendor_case_study",
+    "use_case": "Salesforce Agentforce 활용",
+    "industry": "Retail/Jewelry",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Pearson",
+    "tool": "Salesforce",
+    "source_url": "https://www.salesforce.com/customer-stories/pearson",
+    "source_type": "vendor_case_study",
+    "use_case": "Salesforce Agentforce 활용",
+    "industry": "Education/Publishing",
+    "domain": "pearson.com",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Lennar",
+    "tool": "Salesforce",
+    "source_url": "https://www.salesforce.com/customer-stories/lennar",
+    "source_type": "vendor_case_study",
+    "use_case": "Salesforce Agentforce 활용",
+    "industry": "Construction/Real Estate",
+    "domain": "lennar.com",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "FedEx",
+    "tool": "Salesforce",
+    "source_url": "https://www.salesforce.com/customer-stories/fedex",
+    "source_type": "vendor_case_study",
+    "use_case": "Salesforce Data 360 활용",
+    "industry": "Logistics/Transportation",
+    "domain": "fedex.com",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "UChicago Medicine",
+    "tool": "Salesforce",
+    "source_url": "https://www.salesforce.com/customer-stories/uchicago-medicine",
+    "source_type": "vendor_case_study",
+    "use_case": "Salesforce Data 360 활용",
+    "industry": "Healthcare",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Pacers Sports & Entertainment",
+    "tool": "Salesforce",
+    "source_url": "https://www.salesforce.com/customer-stories/pacers-sports-entertainment-data-360",
+    "source_type": "vendor_case_study",
+    "use_case": "Salesforce Data 360 활용",
+    "industry": "Sports/Entertainment",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "PepsiCo",
+    "tool": "Salesforce",
+    "source_url": "https://www.salesforce.com/customer-stories/pepsico-data-360",
+    "source_type": "vendor_case_study",
+    "use_case": "Salesforce Data 360 활용",
+    "industry": "Food & Beverage",
+    "domain": "pepsico.com",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Accenture",
+    "tool": "Salesforce",
+    "source_url": "https://www.salesforce.com/customer-stories/accenture-rajendra-prasad-and-sara-porter-interview",
+    "source_type": "vendor_case_study",
+    "use_case": "Salesforce Agentforce 360 활용",
+    "industry": "Professional Services/Consulting",
+    "domain": "accenture.com",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Bionic",
+    "tool": "Salesforce",
+    "source_url": "https://www.salesforce.com/customer-stories/bionic-james-lomas-byline",
+    "source_type": "vendor_case_study",
+    "use_case": "Salesforce Agentforce 360 활용",
+    "industry": "Technology",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "World Economic Forum",
+    "tool": "Salesforce",
+    "source_url": "https://www.salesforce.com/customer-stories/world-economic-forum/",
+    "source_type": "vendor_case_study",
+    "use_case": "Salesforce Agentforce 활용 Davos attendees save time",
+    "industry": "Nonprofit/Organization",
+    "domain": "weforum.org",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Tony's Chocolonely",
+    "tool": "Salesforce",
+    "source_url": "https://www.salesforce.com/customer-stories/tonys-chocolonely",
+    "source_type": "vendor_case_study",
+    "use_case": "Salesforce 고객 성공 사례",
+    "industry": "Food & Beverage/Chocolate",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Pentagon Federal Credit Union",
+    "tool": "Salesforce",
+    "source_url": "https://www.salesforce.com/customer-stories/pentagon-federal-credit-union",
+    "source_type": "vendor_case_study",
+    "use_case": "Salesforce 활용",
+    "industry": "Financial Services",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Telepass",
+    "tool": "Salesforce",
+    "source_url": "https://www.salesforce.com/customer-stories/telepass",
+    "source_type": "vendor_case_study",
+    "use_case": "Salesforce 활용",
+    "industry": "Transportation",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Goodyear",
+    "tool": "Salesforce",
+    "source_url": "https://www.salesforce.com/customer-stories/goodyear",
+    "source_type": "vendor_case_study",
+    "use_case": "Salesforce 활용",
+    "industry": "Manufacturing/Automotive",
+    "domain": "goodyear.com",
+    "updated_at": "2026-02-19"
+  }
+]

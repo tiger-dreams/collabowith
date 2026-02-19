@@ -1,0 +1,86 @@
+[
+  {
+    "company": "네이버",
+    "tool": "NAVER WORKS",
+    "source_url": "https://naver.worksmobile.com/cases/naver/",
+    "source_type": "vendor_case_study",
+    "use_case": "직원 1만 명의 업무 효율성 극대화, 글로벌 협업 강화, 보안 강화 및 사용자 만족도 향상",
+    "industry": "IT/통신",
+    "domain": "naver.com",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "하이브랩",
+    "tool": "NAVER WORKS",
+    "source_url": "https://naver.worksmobile.com/cases/hivelab/",
+    "source_type": "vendor_case_study",
+    "use_case": "글로벌 디지털 대행사 성장, 사내 옥션 행사 진행, 한국-베트남 직원 간 글로벌 소통",
+    "industry": "IT/디지털마케팅",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "나노아이티",
+    "tool": "NAVER WORKS",
+    "source_url": "https://naver.worksmobile.com/cases/nanoit/",
+    "source_type": "vendor_case_study",
+    "use_case": "챗봇을 활용한 업무 자동화를 통한 생산성 향상 및 고객 만족도 상승",
+    "industry": "IT/CS",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "대웅제약",
+    "tool": "NAVER WORKS",
+    "source_url": "https://naver.worksmobile.com/cases/itdonga/",
+    "source_type": "vendor_case_study",
+    "use_case": "글로벌 헬스케어 그룹 스마트워크 환경 구축, 전자결재 5분 내 처리, 그룹 기능 활용 협업, 통번역으로 외국인 대응 시간 4시간→10분 절감",
+    "industry": "제약/헬스케어",
+    "domain": "daewong.co.kr",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "콤위즈",
+    "tool": "NAVER WORKS",
+    "source_url": "https://naver.worksmobile.com/cases/comwiz/",
+    "source_type": "vendor_case_study",
+    "use_case": "통신 설비 작업 현장 연결, 캘린더/설문/이미지 명함/연차 촉진 대상 관리/서약서 등 다기능 활용",
+    "industry": "통신",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "모모스커피",
+    "tool": "NAVER WORKS",
+    "source_url": "https://naver.worksmobile.com/cases/momos_coffee/",
+    "source_type": "vendor_case_study",
+    "use_case": "2007년 부산의 작은 카페에서 100명 규모 로스터리 성장, 기업 업무 프로세스에 익숙하지 않은 바리스타와 직원들도 쉽게 사용",
+    "industry": "F&B/커피",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "마더케이",
+    "tool": "NAVER WORKS",
+    "source_url": "https://naver.worksmobile.com/cases/mother-k/",
+    "source_type": "vendor_case_study",
+    "use_case": "육아용품 브랜드, 보안 취약한 개인용 메신저 대신 네이버웍스 도입으로 해킹 문제 해결 및 업무 효율성 향상",
+    "industry": "F&B/유아용품",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "이데일리",
+    "tool": "NAVER WORKS",
+    "source_url": "https://naver.worksmobile.com/cases/edaily/",
+    "source_type": "vendor_case_study",
+    "use_case": "국내 대표 언론사, 인사 담당자 업무 효율성 향상, 메시지 스티커 및 읽음 기능으로 부드러운 커뮤니케이션, 모바일 앱 편리한 업무",
+    "industry": "미디어/언론",
+    "domain": "edaily.co.kr",
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "은광",
+    "tool": "NAVER WORKS",
+    "source_url": "https://naver.worksmobile.com/cases/eungwang/",
+    "source_type": "vendor_case_study",
+    "use_case": "나이키 코리아 파트너사, 네이버웍스 도입으로 매장과 본사, 구성원 간 소통 효율 80% 향상, 캘린더/메신저/드라이브/게시판 활용",
+    "industry": "유통/스포츠",
+    "updated_at": "2026-02-19"
+  }
+]
