@@ -5,34 +5,6 @@
     "industry": "South Korea",
     "tools": [
       {
-        "name": "Figma",
-        "use_case": "NAVER의 협업 및 생산성 향상을 위한 Figma 도입",
-        "source_url": "https://figma.com/@NAVER",
-        "source_type": "vendor_case_study",
-        "verified": true
-      },
-      {
-        "name": "Slack",
-        "use_case": "NAVER의 협업 및 생산성 향상을 위한 Slack 도입",
-        "source_url": "https://figma.com/@NAVER",
-        "source_type": "vendor_case_study",
-        "verified": true
-      },
-      {
-        "name": "Jira",
-        "use_case": "NAVER의 협업 및 생산성 향상을 위한 Jira 도입",
-        "source_url": "https://figma.com/@NAVER",
-        "source_type": "vendor_case_study",
-        "verified": true
-      },
-      {
-        "name": "Notion",
-        "use_case": "NAVER의 협업 및 생산성 향상을 위한 Notion 도입",
-        "source_url": "https://figma.com/@NAVER",
-        "source_type": "vendor_case_study",
-        "verified": true
-      },
-      {
         "name": "NAVER WORKS",
         "use_case": "직원 1만 명의 업무 효율성 극대화, 글로벌 협업 강화, 보안 강화 및 사용자 만족도 향상",
         "source_url": "https://naver.worksmobile.com/cases/naver/",
@@ -61,34 +33,6 @@
     "domain": "kakao.com",
     "industry": "South Korea",
     "tools": [
-      {
-        "name": "Slack",
-        "use_case": "Kakao의 협업 및 생산성 향상을 위한 Slack 도입",
-        "source_url": "https://www.kakaocorp.com/page/service/ServiceInformation?lang=ko",
-        "source_type": "vendor_case_study",
-        "verified": true
-      },
-      {
-        "name": "Jira",
-        "use_case": "Kakao의 협업 및 생산성 향상을 위한 Jira 도입",
-        "source_url": "https://www.kakaocorp.com/page/service/ServiceInformation?lang=ko",
-        "source_type": "vendor_case_study",
-        "verified": true
-      },
-      {
-        "name": "Figma",
-        "use_case": "Kakao의 협업 및 생산성 향상을 위한 Figma 도입",
-        "source_url": "https://www.kakaocorp.com/page/service/ServiceInformation?lang=ko",
-        "source_type": "vendor_case_study",
-        "verified": true
-      },
-      {
-        "name": "Notion",
-        "use_case": "Kakao의 협업 및 생산성 향상을 위한 Notion 도입",
-        "source_url": "https://www.kakaocorp.com/page/service/ServiceInformation?lang=ko",
-        "source_type": "vendor_case_study",
-        "verified": true
-      },
       {
         "name": "AWS",
         "use_case": "클라우드 기반 메시징 서비스",
@@ -134,41 +78,6 @@
     "industry": "South Korea",
     "tools": [
       {
-        "name": "Slack",
-        "use_case": "Coupang의 협업 및 생산성 향상을 위한 Slack 도입",
-        "source_url": "https://www.coupang.com/corporate",
-        "source_type": "vendor_case_study",
-        "verified": true
-      },
-      {
-        "name": "Jira",
-        "use_case": "Coupang의 협업 및 생산성 향상을 위한 Jira 도입",
-        "source_url": "https://www.coupang.com/corporate",
-        "source_type": "vendor_case_study",
-        "verified": true
-      },
-      {
-        "name": "Figma",
-        "use_case": "Coupang의 협업 및 생산성 향상을 위한 Figma 도입",
-        "source_url": "https://www.coupang.com/corporate",
-        "source_type": "vendor_case_study",
-        "verified": true
-      },
-      {
-        "name": "Notion",
-        "use_case": "Coupang의 협업 및 생산성 향상을 위한 Notion 도입",
-        "source_url": "https://www.coupang.com/corporate",
-        "source_type": "vendor_case_study",
-        "verified": true
-      },
-      {
-        "name": "Zoom",
-        "use_case": "Coupang의 협업 및 생산성 향상을 위한 Zoom 도입",
-        "source_url": "https://www.coupang.com/corporate",
-        "source_type": "vendor_case_study",
-        "verified": true
-      },
-      {
         "name": "AWS",
         "use_case": "클라우드 기반 전자상거래",
         "source_url": "https://aws.amazon.com/case-studies/coupang/",
@@ -179,49 +88,6 @@
         "name": "Google Cloud",
         "use_case": "데이터 분석 및 머신러닝",
         "source_url": "https://cloud.google.com/customers/coupang/",
-        "source_type": "vendor_case_study",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-19"
-  },
-  {
-    "company": "Toss (Viva Republica)",
-    "domain": "toss.im",
-    "industry": "South Korea",
-    "tools": [
-      {
-        "name": "Slack",
-        "use_case": "Toss (Viva Republica)의 협업 및 생산성 향상을 위한 Slack 도입",
-        "source_url": "https://toss.im/career",
-        "source_type": "vendor_case_study",
-        "verified": true
-      },
-      {
-        "name": "Jira",
-        "use_case": "Toss (Viva Republica)의 협업 및 생산성 향상을 위한 Jira 도입",
-        "source_url": "https://toss.im/career",
-        "source_type": "vendor_case_study",
-        "verified": true
-      },
-      {
-        "name": "Figma",
-        "use_case": "Toss (Viva Republica)의 협업 및 생산성 향상을 위한 Figma 도입",
-        "source_url": "https://toss.im/career",
-        "source_type": "vendor_case_study",
-        "verified": true
-      },
-      {
-        "name": "Notion",
-        "use_case": "Toss (Viva Republica)의 협업 및 생산성 향상을 위한 Notion 도입",
-        "source_url": "https://toss.im/career",
-        "source_type": "vendor_case_study",
-        "verified": true
-      },
-      {
-        "name": "Miro",
-        "use_case": "Toss (Viva Republica)의 협업 및 생산성 향상을 위한 Miro 도입",
-        "source_url": "https://toss.im/career",
         "source_type": "vendor_case_study",
         "verified": true
       }
@@ -751,27 +617,6 @@
         "use_case": "데이터 분석 및 소프트웨어 응용 프로그램 개발 가속화를 위한 BigQuery 및 Pub/Sub 활용",
         "source_url": "https://cloud.google.com/customers/spotify",
         "source_type": "vendor_case_study",
-        "verified": true
-      },
-      {
-        "name": "JIRA",
-        "use_case": "개발 워크플로우 관리, 진행 추적 및 협업",
-        "source_url": "https://slashdev.io/-the-spotify-tech-stack-in-2025-how-they-handle-billions-of-streams",
-        "source_type": "article",
-        "verified": true
-      },
-      {
-        "name": "Confluence",
-        "use_case": "문서화 및 지식 관리",
-        "source_url": "https://slashdev.io/-the-spotify-tech-stack-in-2025-how-they-handle-billions-of-streams",
-        "source_type": "article",
-        "verified": true
-      },
-      {
-        "name": "GitHub",
-        "use_case": "코드 협업 및 버전 관리",
-        "source_url": "https://slashdev.io/-the-spotify-tech-stack-in-2025-how-they-handle-billions-of-streams",
-        "source_type": "article",
         "verified": true
       }
     ],
@@ -4386,36 +4231,6 @@
         "name": "Jira",
         "use_case": "Uses Jira for project management",
         "source_url": "https://www.atlassian.com/software/jira",
-        "source_type": "vendor_case_study",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-19"
-  },
-  {
-    "company": "Reddit",
-    "domain": "reddit.com",
-    "industry": "Social Media",
-    "tools": [
-      {
-        "name": "GitHub",
-        "use_case": "Uses GitHub for code collaboration",
-        "source_url": "https://github.com/about",
-        "source_type": "vendor_case_study",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-19"
-  },
-  {
-    "company": "Snapchat",
-    "domain": "snapchat.com",
-    "industry": "Social Media",
-    "tools": [
-      {
-        "name": "GitHub",
-        "use_case": "Uses GitHub for code collaboration",
-        "source_url": "https://github.com/about",
         "source_type": "vendor_case_study",
         "verified": true
       }
@@ -11958,28 +11773,6 @@
     "updated_at": "2026-02-20"
   },
   {
-    "company": "Sysco",
-    "domain": "sysco.com",
-    "industry": "Fortune 1000 Seed",
-    "tools": [
-      {
-        "name": "Jira",
-        "use_case": "Sysco이/가 Jira을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://jira.com/customers/sysco",
-        "source_type": "press_release",
-        "verified": true
-      },
-      {
-        "name": "Asana",
-        "use_case": "Sysco이/가 Asana을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://asana.com/customers/sysco",
-        "source_type": "press_release",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
     "company": "HP",
     "domain": "hp.com",
     "industry": "Fortune 1000 Seed",
@@ -11996,21 +11789,6 @@
         "use_case": "HP의 글로벌 팀이 Slack을 통해 실시간 협업을 구현하고 있습니다.",
         "source_url": "https://slack.com/customers/hp",
         "source_type": "technology_blog",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
-    "company": "Energy Transfer",
-    "domain": "energytransfer.com",
-    "industry": "Fortune 1000 Seed",
-    "tools": [
-      {
-        "name": "Notion",
-        "use_case": "Energy Transfer이/가 Notion을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://notion.com/customers/energy-transfer",
-        "source_type": "press_release",
         "verified": true
       }
     ],
@@ -12041,21 +11819,6 @@
         "use_case": "Charter Communications이/가 Monday.com을 통해 원격 근무 생산성을 40% 향상시켰습니다.",
         "source_url": "https://monday.com.com/customers/charter-communications",
         "source_type": "press_release",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
-    "company": "New York Life Insurance",
-    "domain": "newyorklifeinsurance.com",
-    "industry": "Fortune 1000 Seed",
-    "tools": [
-      {
-        "name": "Jira",
-        "use_case": "New York Life Insurance이/가 Jira을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://jira.com/customers/new-york-life-insurance",
-        "source_type": "vendor_spotlight",
         "verified": true
       }
     ],
@@ -12112,13 +11875,6 @@
     "industry": "Fortune 1000 Seed",
     "tools": [
       {
-        "name": "Microsoft Teams",
-        "use_case": "Liberty Mutual이/가 Microsoft Teams을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://microsoftteams.com/customers/liberty-mutual",
-        "source_type": "vendor_spotlight",
-        "verified": true
-      },
-      {
         "name": "Slack",
         "use_case": "Liberty Mutual의 글로벌 팀이 Slack을 통해 실시간 협업을 구현하고 있습니다.",
         "source_url": "https://slack.com/customers/liberty-mutual",
@@ -12156,13 +11912,6 @@
     "industry": "Fortune 1000 Seed",
     "tools": [
       {
-        "name": "Jira",
-        "use_case": "USAA이/가 Jira을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://jira.com/customers/usaa",
-        "source_type": "press_release",
-        "verified": true
-      },
-      {
         "name": "Microsoft Teams",
         "use_case": "USAA이/가 Microsoft Teams을 통해 원격 근무 생산성을 40% 향상시켰습니다.",
         "source_url": "https://microsoftteams.com/customers/usaa",
@@ -12193,20 +11942,6 @@
     "industry": "Fortune 1000 Seed",
     "tools": [
       {
-        "name": "Miro",
-        "use_case": "Apache이/가 Miro을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://miro.com/customers/apache",
-        "source_type": "technology_blog",
-        "verified": true
-      },
-      {
-        "name": "Slack",
-        "use_case": "Apache이/가 Slack을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://slack.com/customers/apache",
-        "source_type": "customer_case_study",
-        "verified": true
-      },
-      {
         "name": "Monday.com",
         "use_case": "Apache의 10,000+ 직원이 Monday.com을 기반으로 협업하고 있습니다.",
         "source_url": "https://monday.com.com/customers/apache",
@@ -12226,21 +11961,6 @@
         "use_case": "Allegion의 10,000+ 직원이 Zoom을 기반으로 협업하고 있습니다.",
         "source_url": "https://zoom.com/customers/allegion",
         "source_type": "customer_case_study",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
-    "company": "Alleghany",
-    "domain": "alleghany.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Confluence",
-        "use_case": "Alleghany이/가 Confluence을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://confluence.com/customers/alleghany",
-        "source_type": "press_release",
         "verified": true
       }
     ],
@@ -12299,21 +12019,6 @@
     "updated_at": "2026-02-20"
   },
   {
-    "company": "Arch Capital Group",
-    "domain": "archcapitalgroup.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Microsoft Teams",
-        "use_case": "Arch Capital Group이/가 Microsoft Teams을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://microsoftteams.com/customers/arch-capital-group",
-        "source_type": "vendor_spotlight",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
     "company": "Arconic",
     "domain": "arconic.com",
     "industry": "Fortune 1000",
@@ -12366,36 +12071,6 @@
     "updated_at": "2026-02-20"
   },
   {
-    "company": "Atmos Energy",
-    "domain": "atmosenergy.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Notion",
-        "use_case": "Atmos Energy이/가 Notion을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://notion.com/customers/atmos-energy",
-        "source_type": "press_release",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
-    "company": "Bloom Energy",
-    "domain": "bloomenergy.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Zoom",
-        "use_case": "Bloom Energy이/가 Zoom을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://zoom.com/customers/bloom-energy",
-        "source_type": "customer_case_study",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
     "company": "BorgWarner",
     "domain": "borgwarner.com",
     "industry": "Fortune 1000",
@@ -12441,21 +12116,6 @@
     "updated_at": "2026-02-20"
   },
   {
-    "company": "Calpine",
-    "domain": "calpine.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Confluence",
-        "use_case": "Calpine이/가 Confluence을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://confluence.com/customers/calpine",
-        "source_type": "technology_blog",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
     "company": "Capital One Financial",
     "domain": "capitalonefinancial.com",
     "industry": "Fortune 1000",
@@ -12465,36 +12125,6 @@
         "use_case": "Capital One Financial의 10,000+ 직원이 Notion을 기반으로 협업하고 있습니다.",
         "source_url": "https://notion.com/customers/capital-one-financial",
         "source_type": "vendor_spotlight",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
-    "company": "CDW",
-    "domain": "cdw.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Zoom",
-        "use_case": "CDW이/가 Zoom을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://zoom.com/customers/cdw",
-        "source_type": "press_release",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
-    "company": "Cintas",
-    "domain": "cintas.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Jira",
-        "use_case": "Cintas이/가 Jira을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://jira.com/customers/cintas",
-        "source_type": "press_release",
         "verified": true
       }
     ],
@@ -12523,43 +12153,6 @@
     "updated_at": "2026-02-20"
   },
   {
-    "company": "Clorox",
-    "domain": "clorox.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Notion",
-        "use_case": "Clorox이/가 Notion을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://notion.com/customers/clorox",
-        "source_type": "vendor_spotlight",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
-    "company": "CME Group",
-    "domain": "cmegroup.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Jira",
-        "use_case": "CME Group이/가 Jira을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://jira.com/customers/cme-group",
-        "source_type": "technology_blog",
-        "verified": true
-      },
-      {
-        "name": "Zoom",
-        "use_case": "CME Group이/가 Zoom을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://zoom.com/customers/cme-group",
-        "source_type": "customer_case_study",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
     "company": "Corning",
     "domain": "corning.com",
     "industry": "Fortune 1000",
@@ -12569,21 +12162,6 @@
         "use_case": "Corning의 글로벌 팀이 Slack을 통해 실시간 협업을 구현하고 있습니다.",
         "source_url": "https://slack.com/customers/corning",
         "source_type": "customer_case_study",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
-    "company": "Crown Holdings",
-    "domain": "crownholdings.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Slack",
-        "use_case": "Crown Holdings이/가 Slack을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://slack.com/customers/crown-holdings",
-        "source_type": "vendor_spotlight",
         "verified": true
       }
     ],
@@ -12606,13 +12184,6 @@
         "use_case": "Dentsply Sirona의 글로벌 팀이 Microsoft Teams을 통해 실시간 협업을 구현하고 있습니다.",
         "source_url": "https://microsoftteams.com/customers/dentsply-sirona",
         "source_type": "technology_blog",
-        "verified": true
-      },
-      {
-        "name": "Confluence",
-        "use_case": "Dentsply Sirona이/가 Confluence을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://confluence.com/customers/dentsply-sirona",
-        "source_type": "press_release",
         "verified": true
       }
     ],
@@ -12782,21 +12353,6 @@
     "updated_at": "2026-02-20"
   },
   {
-    "company": "Fidelity National Financial",
-    "domain": "fidelitynationalfinancial.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Zoom",
-        "use_case": "Fidelity National Financial이/가 Zoom을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://zoom.com/customers/fidelity-national-financial",
-        "source_type": "vendor_spotlight",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
     "company": "Fisher Scientific",
     "domain": "fisherscientific.com",
     "industry": "Fortune 1000",
@@ -12948,13 +12504,6 @@
         "source_url": "https://zoom.com/customers/hewlett-packard-enterprise",
         "source_type": "vendor_spotlight",
         "verified": true
-      },
-      {
-        "name": "Microsoft Teams",
-        "use_case": "Hewlett Packard Enterprise이/가 Microsoft Teams을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://microsoftteams.com/customers/hewlett-packard-enterprise",
-        "source_type": "vendor_spotlight",
-        "verified": true
       }
     ],
     "updated_at": "2026-02-20"
@@ -13034,21 +12583,6 @@
     "updated_at": "2026-02-20"
   },
   {
-    "company": "International Flavors & Fragrances",
-    "domain": "internationalflavorsandfragrances.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Notion",
-        "use_case": "International Flavors & Fragrances이/가 Notion을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://notion.com/customers/international-flavors-&-fragrances",
-        "source_type": "customer_case_study",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
     "company": "Invitation Homes",
     "domain": "invitationhomes.com",
     "industry": "Fortune 1000",
@@ -13110,21 +12644,6 @@
         "use_case": "J.B. Hunt Transport Services의 10,000+ 직원이 Slack을 기반으로 협업하고 있습니다.",
         "source_url": "https://slack.com/customers/jb-hunt-transport-services",
         "source_type": "vendor_spotlight",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
-    "company": "Johnson Controls",
-    "domain": "johnsoncontrols.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Zoom",
-        "use_case": "Johnson Controls이/가 Zoom을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://zoom.com/customers/johnson-controls",
-        "source_type": "press_release",
         "verified": true
       }
     ],
@@ -13247,13 +12766,6 @@
     "industry": "Fortune 1000",
     "tools": [
       {
-        "name": "Slack",
-        "use_case": "Landstar System이/가 Slack을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://slack.com/customers/landstar-system",
-        "source_type": "vendor_spotlight",
-        "verified": true
-      },
-      {
         "name": "Zoom",
         "use_case": "Landstar System의 글로벌 팀이 Zoom을 통해 실시간 협업을 구현하고 있습니다.",
         "source_url": "https://zoom.com/customers/landstar-system",
@@ -13309,21 +12821,6 @@
     "updated_at": "2026-02-20"
   },
   {
-    "company": "LKQ Corporation",
-    "domain": "lkqcorporation.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Notion",
-        "use_case": "LKQ Corporation이/가 Notion을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://notion.com/customers/lkq-corporation",
-        "source_type": "vendor_spotlight",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
     "company": "Loews Corporation",
     "domain": "loewscorporation.com",
     "industry": "Fortune 1000",
@@ -13363,13 +12860,6 @@
         "use_case": "LyondellBasell의 글로벌 팀이 Zoom을 통해 실시간 협업을 구현하고 있습니다.",
         "source_url": "https://zoom.com/customers/lyondellbasell",
         "source_type": "vendor_spotlight",
-        "verified": true
-      },
-      {
-        "name": "Confluence",
-        "use_case": "LyondellBasell이/가 Confluence을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://confluence.com/customers/lyondellbasell",
-        "source_type": "technology_blog",
         "verified": true
       },
       {
@@ -13430,13 +12920,6 @@
         "source_url": "https://confluence.com/customers/marcum-llp",
         "source_type": "press_release",
         "verified": true
-      },
-      {
-        "name": "Microsoft Teams",
-        "use_case": "Marcum LLP이/가 Microsoft Teams을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://microsoftteams.com/customers/marcum-llp",
-        "source_type": "vendor_spotlight",
-        "verified": true
       }
     ],
     "updated_at": "2026-02-20"
@@ -13458,13 +12941,6 @@
         "use_case": "Maxim Integrated이/가 Microsoft Teams을 통해 원격 근무 생산성을 40% 향상시켰습니다.",
         "source_url": "https://microsoftteams.com/customers/maxim-integrated",
         "source_type": "technology_blog",
-        "verified": true
-      },
-      {
-        "name": "Slack",
-        "use_case": "Maxim Integrated이/가 Slack을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://slack.com/customers/maxim-integrated",
-        "source_type": "vendor_spotlight",
         "verified": true
       }
     ],
@@ -13509,21 +12985,6 @@
         "name": "Jira",
         "use_case": "MidAmerican Energy의 글로벌 팀이 Jira을 통해 실시간 협업을 구현하고 있습니다.",
         "source_url": "https://jira.com/customers/midamerican-energy",
-        "source_type": "press_release",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
-    "company": "Motorola Solutions",
-    "domain": "motorolasolutions.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Zoom",
-        "use_case": "Motorola Solutions이/가 Zoom을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://zoom.com/customers/motorola-solutions",
         "source_type": "press_release",
         "verified": true
       }
@@ -13633,13 +13094,6 @@
     "industry": "Fortune 1000",
     "tools": [
       {
-        "name": "Jira",
-        "use_case": "Norfolk Southern이/가 Jira을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://jira.com/customers/norfolk-southern",
-        "source_type": "press_release",
-        "verified": true
-      },
-      {
         "name": "Zoom",
         "use_case": "Norfolk Southern의 10,000+ 직원이 Zoom을 기반으로 협업하고 있습니다.",
         "source_url": "https://zoom.com/customers/norfolk-southern",
@@ -13702,21 +13156,6 @@
     "updated_at": "2026-02-20"
   },
   {
-    "company": "OneMain Financial",
-    "domain": "onemainfinancial.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Jira",
-        "use_case": "OneMain Financial이/가 Jira을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://jira.com/customers/onemain-financial",
-        "source_type": "vendor_spotlight",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
     "company": "Otis Worldwide",
     "domain": "otisworldwide.com",
     "industry": "Fortune 1000",
@@ -13772,13 +13211,6 @@
         "source_url": "https://notion.com/customers/pentair",
         "source_type": "press_release",
         "verified": true
-      },
-      {
-        "name": "Confluence",
-        "use_case": "Pentair이/가 Confluence을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://confluence.com/customers/pentair",
-        "source_type": "technology_blog",
-        "verified": true
       }
     ],
     "updated_at": "2026-02-20"
@@ -13793,51 +13225,6 @@
         "use_case": "Pitney Bowes이/가 Slack을 통해 원격 근무 생산성을 40% 향상시켰습니다.",
         "source_url": "https://slack.com/customers/pitney-bowes",
         "source_type": "press_release",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
-    "company": "Premier",
-    "domain": "premier.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Zoom",
-        "use_case": "Premier이/가 Zoom을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://zoom.com/customers/premier",
-        "source_type": "vendor_spotlight",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
-    "company": "Principal Financial Group",
-    "domain": "principalfinancialgroup.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Slack",
-        "use_case": "Principal Financial Group이/가 Slack을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://slack.com/customers/principal-financial-group",
-        "source_type": "vendor_spotlight",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
-    "company": "Quest Diagnostics",
-    "domain": "questdiagnostics.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Confluence",
-        "use_case": "Quest Diagnostics이/가 Confluence을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://confluence.com/customers/quest-diagnostics",
-        "source_type": "vendor_spotlight",
         "verified": true
       }
     ],
@@ -13866,21 +13253,6 @@
     "updated_at": "2026-02-20"
   },
   {
-    "company": "Republic Services",
-    "domain": "republicservices.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Microsoft Teams",
-        "use_case": "Republic Services이/가 Microsoft Teams을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://microsoftteams.com/customers/republic-services",
-        "source_type": "press_release",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
     "company": "ResMed",
     "domain": "resmed.com",
     "industry": "Fortune 1000",
@@ -13900,13 +13272,6 @@
     "domain": "rohmandhaas.com",
     "industry": "Fortune 1000",
     "tools": [
-      {
-        "name": "Confluence",
-        "use_case": "Rohm & Haas이/가 Confluence을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://confluence.com/customers/rohm-&-haas",
-        "source_type": "press_release",
-        "verified": true
-      },
       {
         "name": "Slack",
         "use_case": "Rohm & Haas이/가 Slack을 통해 원격 근무 생산성을 40% 향상시켰습니다.",
@@ -13985,21 +13350,6 @@
     "updated_at": "2026-02-20"
   },
   {
-    "company": "S&P Dow Jones Indices",
-    "domain": "sandpdowjonesindices.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Zoom",
-        "use_case": "S&P Dow Jones Indices이/가 Zoom을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://zoom.com/customers/s&p-dow-jones-indices",
-        "source_type": "press_release",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
     "company": "Stanley Black & Decker",
     "domain": "stanleyblackanddecker.com",
     "industry": "Fortune 1000",
@@ -14024,13 +13374,6 @@
         "use_case": "State Street Corporation의 글로벌 팀이 Zoom을 통해 실시간 협업을 구현하고 있습니다.",
         "source_url": "https://zoom.com/customers/state-street-corporation",
         "source_type": "technology_blog",
-        "verified": true
-      },
-      {
-        "name": "Microsoft Teams",
-        "use_case": "State Street Corporation이/가 Microsoft Teams을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://microsoftteams.com/customers/state-street-corporation",
-        "source_type": "vendor_spotlight",
         "verified": true
       }
     ],
@@ -14136,13 +13479,6 @@
         "source_url": "https://zoom.com/customers/t-rowe-price-group",
         "source_type": "vendor_spotlight",
         "verified": true
-      },
-      {
-        "name": "Microsoft Teams",
-        "use_case": "T. Rowe Price Group이/가 Microsoft Teams을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://microsoftteams.com/customers/t-rowe-price-group",
-        "source_type": "customer_case_study",
-        "verified": true
       }
     ],
     "updated_at": "2026-02-20"
@@ -14187,28 +13523,6 @@
         "use_case": "Teradyne의 글로벌 팀이 Microsoft Teams을 통해 실시간 협업을 구현하고 있습니다.",
         "source_url": "https://microsoftteams.com/customers/teradyne",
         "source_type": "technology_blog",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
-    "company": "The Coca-Cola Company",
-    "domain": "thecoca-colacompany.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Zoom",
-        "use_case": "The Coca-Cola Company이/가 Zoom을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://zoom.com/customers/the-coca-cola-company",
-        "source_type": "press_release",
-        "verified": true
-      },
-      {
-        "name": "Microsoft Teams",
-        "use_case": "The Coca-Cola Company이/가 Microsoft Teams을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://microsoftteams.com/customers/the-coca-cola-company",
-        "source_type": "customer_case_study",
         "verified": true
       }
     ],
@@ -14293,13 +13607,6 @@
     "industry": "Fortune 1000",
     "tools": [
       {
-        "name": "Slack",
-        "use_case": "Thryv Holdings이/가 Slack을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://slack.com/customers/thryv-holdings",
-        "source_type": "technology_blog",
-        "verified": true
-      },
-      {
         "name": "Jira",
         "use_case": "Thryv Holdings이/가 Jira을 통해 원격 근무 생산성을 40% 향상시켰습니다.",
         "source_url": "https://jira.com/customers/thryv-holdings",
@@ -14321,13 +13628,6 @@
     "domain": "tiffanyandco.com",
     "industry": "Fortune 1000",
     "tools": [
-      {
-        "name": "Zoom",
-        "use_case": "Tiffany & Co.이/가 Zoom을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://zoom.com/customers/tiffany-&-co",
-        "source_type": "vendor_spotlight",
-        "verified": true
-      },
       {
         "name": "Microsoft Teams",
         "use_case": "Tiffany & Co.이/가 Microsoft Teams을 통해 원격 근무 생산성을 40% 향상시켰습니다.",
@@ -14381,13 +13681,6 @@
     "industry": "Fortune 1000",
     "tools": [
       {
-        "name": "Confluence",
-        "use_case": "TransDigm Group이/가 Confluence을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://confluence.com/customers/transdigm-group",
-        "source_type": "customer_case_study",
-        "verified": true
-      },
-      {
         "name": "Notion",
         "use_case": "TransDigm Group의 글로벌 팀이 Notion을 통해 실시간 협업을 구현하고 있습니다.",
         "source_url": "https://notion.com/customers/transdigm-group",
@@ -14406,21 +13699,6 @@
         "name": "Notion",
         "use_case": "U.S. Bancorp의 글로벌 팀이 Notion을 통해 실시간 협업을 구현하고 있습니다.",
         "source_url": "https://notion.com/customers/us-bancorp",
-        "source_type": "customer_case_study",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
-    "company": "Universal Health Services",
-    "domain": "universalhealthservices.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Confluence",
-        "use_case": "Universal Health Services이/가 Confluence을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://confluence.com/customers/universal-health-services",
         "source_type": "customer_case_study",
         "verified": true
       }
@@ -14495,21 +13773,6 @@
     "updated_at": "2026-02-20"
   },
   {
-    "company": "Verisk Analytics",
-    "domain": "veriskanalytics.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Notion",
-        "use_case": "Verisk Analytics이/가 Notion을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://notion.com/customers/verisk-analytics",
-        "source_type": "customer_case_study",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
     "company": "Viatris",
     "domain": "viatris.com",
     "industry": "Fortune 1000",
@@ -14518,21 +13781,6 @@
         "name": "Zoom",
         "use_case": "Viatris의 글로벌 팀이 Zoom을 통해 실시간 협업을 구현하고 있습니다.",
         "source_url": "https://zoom.com/customers/viatris",
-        "source_type": "press_release",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
-    "company": "Viking Therapeutics",
-    "domain": "vikingtherapeutics.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Slack",
-        "use_case": "Viking Therapeutics이/가 Slack을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://slack.com/customers/viking-therapeutics",
         "source_type": "press_release",
         "verified": true
       }
@@ -14632,13 +13880,6 @@
         "source_url": "https://zoom.com/customers/weyerhaeuser",
         "source_type": "press_release",
         "verified": true
-      },
-      {
-        "name": "Notion",
-        "use_case": "Weyerhaeuser이/가 Notion을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://notion.com/customers/weyerhaeuser",
-        "source_type": "press_release",
-        "verified": true
       }
     ],
     "updated_at": "2026-02-20"
@@ -14648,13 +13889,6 @@
     "domain": "whirlpool.com",
     "industry": "Fortune 1000",
     "tools": [
-      {
-        "name": "Confluence",
-        "use_case": "Whirlpool이/가 Confluence을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://confluence.com/customers/whirlpool",
-        "source_type": "vendor_spotlight",
-        "verified": true
-      },
       {
         "name": "Jira",
         "use_case": "Whirlpool이/가 Jira을 통해 원격 근무 생산성을 40% 향상시켰습니다.",
@@ -14681,21 +13915,6 @@
     "updated_at": "2026-02-20"
   },
   {
-    "company": "Wilmington Trust",
-    "domain": "wilmingtontrust.com",
-    "industry": "Fortune 1000",
-    "tools": [
-      {
-        "name": "Notion",
-        "use_case": "Wilmington Trust이/가 Notion을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://notion.com/customers/wilmington-trust",
-        "source_type": "vendor_spotlight",
-        "verified": true
-      }
-    ],
-    "updated_at": "2026-02-20"
-  },
-  {
     "company": "Yelp",
     "domain": "yelp.com",
     "industry": "Fortune 1000",
@@ -14705,13 +13924,6 @@
         "use_case": "Yelp의 10,000+ 직원이 Microsoft Teams을 기반으로 협업하고 있습니다.",
         "source_url": "https://microsoftteams.com/customers/yelp",
         "source_type": "press_release",
-        "verified": true
-      },
-      {
-        "name": "Jira",
-        "use_case": "Yelp이/가 Jira을/를 도입하여 팀 간 소통 효율을 50% 향상시켰습니다.",
-        "source_url": "https://jira.com/customers/yelp",
-        "source_type": "technology_blog",
         "verified": true
       }
     ],
