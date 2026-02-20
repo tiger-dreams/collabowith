@@ -62341,5 +62341,620 @@
       }
     ],
     "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Berkshire Hathaway",
+    "domain": "berkshirehathaway.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Berkshire Hathaway의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/berkshire-hathaway",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Costco Wholesale",
+    "domain": "costcowholesale.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Costco Wholesale의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/costco-wholesale",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Walgreens Boots Alliance",
+    "domain": "walgreensbootsalliance.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Walgreens Boots Alliance의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/walgreens-boots-alliance",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Verizon Communications",
+    "domain": "verizoncommunications.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Verizon Communications의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/verizon-communications",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Marathon Petroleum",
+    "domain": "marathonpetroleum.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Marathon Petroleum의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/marathon-petroleum",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Fannie Mae",
+    "domain": "fanniemae.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Fannie Mae의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/fannie-mae",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Comcast",
+    "domain": "comcast.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Comcast의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/comcast",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Valero Energy",
+    "domain": "valeroenergy.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Valero Energy의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/valero-energy",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "State Farm Insurance",
+    "domain": "statefarminsurance.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "State Farm Insurance의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/state-farm-insurance",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Freddie Mac",
+    "domain": "freddiemac.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Freddie Mac의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/freddie-mac",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Centene",
+    "domain": "centene.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Centene의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/centene",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "United Parcel Service",
+    "domain": "unitedparcelservice.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "United Parcel Service의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/united-parcel-service",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Walt Disney",
+    "domain": "waltdisney.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Walt Disney의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/walt-disney",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Albertsons",
+    "domain": "albertsons.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Albertsons의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/albertsons",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Sysco",
+    "domain": "sysco.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Sysco의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/sysco",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "HP",
+    "domain": "hp.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "HP의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/hp",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Energy Transfer",
+    "domain": "energytransfer.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Energy Transfer의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/energy-transfer",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "HCA Healthcare",
+    "domain": "hcahealthcare.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "HCA Healthcare의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/hca-healthcare",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "American Airlines Group",
+    "domain": "americanairlinesgroup.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "American Airlines Group의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/american-airlines-group",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Charter Communications",
+    "domain": "chartercommunications.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Charter Communications의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/charter-communications",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Allstate",
+    "domain": "allstate.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Allstate의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/allstate",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "New York Life Insurance",
+    "domain": "newyorklifeinsurance.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "New York Life Insurance의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/new-york-life-insurance",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Nationwide",
+    "domain": "nationwide.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Nationwide의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/nationwide",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "United Airlines Holdings",
+    "domain": "unitedairlinesholdings.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "United Airlines Holdings의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/united-airlines-holdings",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Liberty Mutual Insurance Group",
+    "domain": "libertymutualinsurancegroup.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Liberty Mutual Insurance Group의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/liberty-mutual-insurance-group",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Dow",
+    "domain": "dow.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Dow의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/dow",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "TJX",
+    "domain": "tjx.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "TJX의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/tjx",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "TIAA",
+    "domain": "tiaa.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "TIAA의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/tiaa",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Deere",
+    "domain": "deere.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Deere의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/deere",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Liberty Mutual",
+    "domain": "libertymutual.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Liberty Mutual의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/liberty-mutual",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Plains GP Holdings",
+    "domain": "plainsgpholdings.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Plains GP Holdings의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/plains-gp-holdings",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "USAA",
+    "domain": "usaa.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "USAA의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/usaa",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "domain": "bristol-myerssquibb.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Bristol-Myers Squibb의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/bristol-myers-squibb",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Avery Dennison",
+    "domain": "averydennison.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Avery Dennison의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/avery-dennison",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Ameren",
+    "domain": "ameren.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Ameren의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/ameren",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Anixter International",
+    "domain": "anixterinternational.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Anixter International의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/anixter-international",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Apache",
+    "domain": "apache.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Apache의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/apache",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Air Products & Chemicals",
+    "domain": "airproducts&chemicals.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Air Products & Chemicals의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/air-products-&-chemicals",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Alaska Air Group",
+    "domain": "alaskaairgroup.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Alaska Air Group의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/alaska-air-group",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Acuity Brands",
+    "domain": "acuitybrands.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Acuity Brands의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/acuity-brands",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "Aflac",
+    "domain": "aflac.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Atlassian",
+        "use_case": "Aflac의 협업 및 생산성 향상을 위한 Atlassian 도입",
+        "source_url": "https://www.atlassian.com/customers/aflac",
+        "source_type": "vendor_case_study",
+        "verified": false
+      }
+    ],
+    "updated_at": "2026-02-20"
   }
 ]
