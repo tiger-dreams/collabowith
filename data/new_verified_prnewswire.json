@@ -1,0 +1,114 @@
+[
+  {
+    "company": "Ferguson",
+    "tool": "Salesforce",
+    "source_url": "https://www.prnewswire.com/news-releases/ferguson-selects-salesforce-to-power-its-digital-transformation-301223693.html",
+    "source_type": "press_release",
+    "use_case": "Ferguson이 Salesforce를 도입해 유통·고객경험 중심 디지털 전환을 추진",
+    "verified": true
+  },
+  {
+    "company": "AT&T",
+    "tool": "Salesforce",
+    "source_url": "https://www.prnewswire.com/news-releases/att-selects-salesforce-to-accelerate-its-customer-experience-vision-301067335.html",
+    "source_type": "press_release",
+    "use_case": "AT&T가 Salesforce Customer 360, Sales Cloud, Service Cloud 등을 도입해 고객 접점 통합과 개인화 추천을 추진",
+    "verified": true
+  },
+  {
+    "company": "Esprit",
+    "tool": "Salesforce",
+    "source_url": "https://www.prnewswire.com/news-releases/esprit-selects-salesforce-to-enhance-its-digital-strategy-for-retailers-and-consumers-300935090.html",
+    "source_type": "press_release",
+    "use_case": "Esprit가 Salesforce를 도입해 리테일·소비자 대상 디지털 전략을 강화",
+    "verified": true
+  },
+  {
+    "company": "L'OCCITANE Group",
+    "tool": "Salesforce",
+    "source_url": "https://www.prnewswire.com/news-releases/loccitane-group-selects-salesforce-commerce-cloud-as-global-ecommerce-platform-300569785.html",
+    "source_type": "press_release",
+    "use_case": "L'OCCITANE Group이 Salesforce Commerce Cloud를 글로벌 이커머스 플랫폼으로 채택",
+    "verified": true
+  },
+  {
+    "company": "Applied Industrial Technologies",
+    "tool": "SAP",
+    "source_url": "https://www.prnewswire.com/news-releases/applied-industrial-technologies-selects-sap-to-transform-its-technology-platforms-104174113.html",
+    "source_type": "press_release",
+    "use_case": "Applied Industrial Technologies가 SAP를 도입해 기술 플랫폼과 비즈니스 트랜잭션 시스템 전환을 추진",
+    "verified": true
+  },
+  {
+    "company": "CP Foods",
+    "tool": "SAP",
+    "source_url": "https://www.prnewswire.com/news-releases/cp-foods-selects-sap-solutions-for-cloud-sustainability-302139993.html",
+    "source_type": "press_release",
+    "use_case": "CP Foods가 SAP 지속가능성 솔루션을 도입해 공급망 배출 데이터 기록·보고 체계를 구축",
+    "verified": true
+  },
+  {
+    "company": "Newsbyte: Lloyd's Register",
+    "tool": "SAP",
+    "source_url": "https://www.prnewswire.com/news-releases/newsbyte-lloyds-register-selects-sap-for-major-global-business-transformation-program-300165524.html",
+    "source_type": "press_release",
+    "use_case": "Lloyd's Register가 SAP를 선택해 글로벌 비즈니스 전환 프로그램을 수행",
+    "verified": true
+  },
+  {
+    "company": "Agilent Technologies",
+    "tool": "SAP",
+    "source_url": "https://www.prnewswire.com/news-releases/agilent-technologies-selects-sap-to-drive-world-class-customer-service-128000998.html",
+    "source_type": "press_release",
+    "use_case": "Agilent Technologies가 SAP CRM 연계 솔루션을 도입해 고객 서비스 응답 체계를 개선",
+    "verified": true
+  },
+  {
+    "company": "Swagelok",
+    "tool": "SAP",
+    "source_url": "https://www.prnewswire.com/news-releases/swagelok-selects-sap-to-transform-business-systems-124702718.html",
+    "source_type": "press_release",
+    "use_case": "Swagelok이 SAP ERP를 도입해 재무·공급망·제조·유통 시스템 통합을 추진",
+    "verified": true
+  },
+  {
+    "company": "Action",
+    "tool": "SAP",
+    "source_url": "https://www.prnewswire.com/news-releases/action-selects-sap-successfactors-solutions-to-support-rapid-retail-growth-300466885.html",
+    "source_type": "press_release",
+    "use_case": "Action이 SAP SuccessFactors 솔루션을 도입해 급성장 리테일 인사 운영을 지원",
+    "verified": true
+  },
+  {
+    "company": "Etihad Airways",
+    "tool": "SAP",
+    "source_url": "https://www.prnewswire.com/news-releases/etihad-airways-selects-sap-as-a-strategic-technology-partner-for-business-transformation-180564791.html",
+    "source_type": "press_release",
+    "use_case": "Etihad Airways가 SAP를 전략 기술 파트너로 선정해 핵심 운영 소프트웨어 배치를 추진",
+    "verified": true
+  },
+  {
+    "company": "Newsbyte: Cabela's Inc.",
+    "tool": "SAP",
+    "source_url": "https://www.prnewswire.com/news-releases/newsbyte-cabelas-inc-selects-sap-to-support-retail-expansion-increase-customer-service-149489285.html",
+    "source_type": "press_release",
+    "use_case": "Cabela's가 SAP POS 애플리케이션을 도입해 매장 확장과 고객 서비스 운영을 지원",
+    "verified": true
+  },
+  {
+    "company": "Microsoft",
+    "tool": "SAP",
+    "source_url": "https://www.prnewswire.com/news-releases/microsoft-selects-sap-successfactors-hcm-suite-to-transform-hr-globally-300364001.html",
+    "source_type": "press_release",
+    "use_case": "Microsoft가 SAP SuccessFactors HCM Suite를 채택해 글로벌 HR 운영 전환을 추진",
+    "verified": true
+  },
+  {
+    "company": "Hitachi Consulting",
+    "tool": "SAP",
+    "source_url": "https://www.prnewswire.com/news-releases/hitachi-consulting-selects-sapr-carbon-impact-on-demand-solution-to-support-environmental-vision-82150452.html",
+    "source_type": "press_release",
+    "use_case": "Hitachi Consulting이 SAP Carbon Impact 온디맨드 솔루션 사용 계약을 체결해 탄소배출 관리 체계를 구축",
+    "verified": true
+  }
+]

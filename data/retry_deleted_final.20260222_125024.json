@@ -1,0 +1,2018 @@
+[
+  {
+    "company": "Walmart",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/03/25/walmart-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "NEC",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/03/29/nec-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Mitsubishi Electric",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/01/15/mitsubishi-electric-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "LG Electronics",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/29/lg-electronics-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Samsung Fire & Marine Insurance",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/15/microsoft-and-samsung-fire-marine-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Walmart",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/05/01/microsoft-and-walmart-announce-strategic-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Samsung C&T",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/03/25/samsung-ct-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "POSCO Holdings",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/03/28/posco-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "NAVER",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/02/05/naver-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "NEC",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/19/microsoft-and-nec-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Komatsu",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/20/microsoft-and-komatsu-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Sony",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/05/microsoft-and-sony-announce-strategic-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Infosys",
+    "tool": "Microsoft Azure",
+    "source_url": "https://www.infosys.com/microsoft/partnership.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Shinhan Financial Group",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/02/shinhan-financial-group-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "KT Corporation",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/02/26/kt-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "BNP Paribas",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/24/bnp-paribas-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Renault",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/10/microsoft-and-renault-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Hyundai Motor Company",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/02/19/hyundai-motor-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Daewoo Engineering & Construction",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/10/daewoo-ec-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "SK Innovation",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/20/microsoft-and-sk-innovation-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Peugeot",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/26/peugeot-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "SAP",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.sap.com/about/news/2020/07/14-sap-and-microsoft-expand-strategic-partnership.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "GS Engineering & Construction",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/17/microsoft-and-gs-ec-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "SK C&C",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/23/sk-cc-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Credit Agricole",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/01/credit-agricole-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Omron",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/12/omron-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Societe Generale",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/07/microsoft-and-societe-generale-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Total Energies",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/03/18/totalenergies-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Nestle",
+    "tool": "Microsoft Teams",
+    "source_url": "https://news.microsoft.com/2020/04/20/nestle-chooses-microsoft-teams-to-empower-its-270000-employees/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Bayer",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2016/06/28/bayer-selects-sap-s4hana-to-drive-digital-transformation.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Grupo Carso",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2018/09/26/grupo-carso-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "YPF",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/06/04/ypf-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Unilever",
+    "tool": "Microsoft Teams",
+    "source_url": "https://news.microsoft.com/2020/05/06/unilever-empowers-its-150000-employees-with-microsoft-teams/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "EDF",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/05/microsoft-and-edf-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Petrobras",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2018/06/11/petrobras-selects-sap-s4hana-to-support-digital-transformation.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Shell",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2016/09/20/shell-selects-microsoft-azure-as-preferred-cloud-platform/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "LVMH",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/09/microsoft-and-lvmh-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Siemens",
+    "tool": "Teams",
+    "source_url": "https://news.microsoft.com/2019/04/10/siemens-and-microsoft-announce-strategic-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Bayer",
+    "tool": "Microsoft 365",
+    "source_url": "https://news.microsoft.com/2019/03/06/microsoft-and-bayer-announce-strategic-partnership-to-accelerate-digital-transformation/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Schneider Electric",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/13/microsoft-and-schneider-electric-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Reliance Industries",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2017/05/17-reliance-industries-selects-sap-s4hana-to-drive-digital-transformation.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "ABB",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/05/20/microsoft-and-abb-announce-strategic-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "ADNOC",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2018/10/15/adnoc-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "QatarEnergy",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/16/qatarenergy-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Belfius",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/19/belfius-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Siemens",
+    "tool": "Microsoft 365",
+    "source_url": "https://news.microsoft.com/2019/04/10/siemens-and-microsoft-announce-strategic-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Shell",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2016/05/11/shell-selects-sap-s4hana-to-drive-digital-transformation.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Danone",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/01/microsoft-and-danone-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Supercell",
+    "tool": "Linear",
+    "source_url": "https://www.forbes.com/sites/alexkonrad/2023/09/14/linear-developer-tools-raises-35-million-series-b/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Mazda",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/03/22/mazda-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Standard Bank Group",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2018/07/10/standard-bank-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Total Energies",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/08/microsoft-and-totalenergies-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Hermes",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/16/hermes-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Erste Group",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/13/erste-group-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Dassault Aviation",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/08/dassault-aviation-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Reliance Industries",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/29/microsoft-and-reliance-jio-announce-long-term-strategic-azure-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Mazda",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/22/microsoft-and-mazda-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Banco do Brasil",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/04/microsoft-and-banco-do-brasil-announce-strategic-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Grupo Carso",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/04/microsoft-and-grupo-carso-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Nidec",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/22/nidec-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "ADNOC",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/11/microsoft-and-adnoc-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "YPF",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/10/microsoft-and-ypf-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Erste Group",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/20/microsoft-and-erste-group-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Murata Manufacturing",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/17/murata-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Otsuka Holdings",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/09/otsuka-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "KBC Bank Private",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/10/microsoft-and-kbc-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Orange Studio",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/03/06/orange-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Denso",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/03/01/denso-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Sumitomo Mitsui Financial Group",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/03/20/sumitomo-mitsui-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Thales",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/03/thales-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Capitec Bank",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/12/microsoft-and-capitec-bank-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "KDDI",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/03/13/kddi-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Asahi Kasei",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/18/microsoft-and-asahi-kasei-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Mizuho Financial Group",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/11/microsoft-and-mizuho-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Nikon",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/18/nikon-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Mitsubishi Chemical Holdings",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/06/microsoft-and-mitsubishi-chemical-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "East Japan Railway",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/03/jr-east-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Sumitomo Electric Industries",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/30/sumitomo-electric-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Dai-ichi Life",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/22/microsoft-and-dai-ichi-life-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Aeon",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/17/aeon-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Air Liquide",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/20/air-liquide-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Furukawa Electric",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/21/microsoft-and-furukawa-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "SUMCO",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/15/microsoft-and-sumco-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Pernod Ricard",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/18/pernod-ricard-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Michelin",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/21/michelin-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Murata Manufacturing",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/15/microsoft-and-murata-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Vinci",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/28/vinci-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "EssilorLuxottica",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/23/essilorluxottica-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Nippon Telegraph & Telephone",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/28/microsoft-and-ntt-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Mitsui Chemicals",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/30/microsoft-and-mitsui-chemicals-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Otsuka Holdings",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/25/microsoft-and-otsuka-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Bridgestone",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/07/bridgestone-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Fast Retailing",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/15/fast-retailing-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Orange Studio",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/03/microsoft-and-orange-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Nikon",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/06/microsoft-and-nikon-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Veolia",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/27/veolia-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "L'Oréal",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2020/06/17/microsoft-and-loreal-announce-strategic-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Seven & I Holdings",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/04/microsoft-and-seven-i-holdings-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Veolia",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/23/microsoft-and-veolia-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Safran",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/14/microsoft-and-safran-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Telefónica",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2020/09/15/microsoft-and-telefonica-expand-strategic-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Anheuser-Busch InBev",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/11/ab-inbev-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Bridgestone",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/09/microsoft-and-bridgestone-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Cemex",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/21/cemex-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "PKN Orlen",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/26/pkn-orlen-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "MTN Nigeria",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2018/06/15/mtn-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Grupo Nutresa",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/18/microsoft-and-grupo-nutresa-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Al Rajhi Bank",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/13/al-rajhi-bank-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Hankook Tire",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/10/02/microsoft-and-hankook-tire-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Sime Darby",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2018/09/19/sime-darby-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Anheuser-Busch InBev",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/21/microsoft-and-ab-inbev-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Vodacom",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/15/vodacom-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "PKO Bank Polski",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/01/microsoft-and-pko-bank-polski-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Saudi Telecom Company (STC)",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/19/stc-saudi-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "PT Telkom Indonesia",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2018/10/02/telkom-indonesia-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Cemex",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/28/microsoft-and-cemex-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Vodacom Tanzania",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/21/microsoft-and-vodacom-tanzania-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Grupo Nutresa",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/03/18/grupo-nutresa-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Mobily",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/09/microsoft-and-mobily-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "OMV",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/21/microsoft-and-omv-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "MTN Uganda",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/17/microsoft-and-mtn-uganda-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "PTT Public Company Limited",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2017/11/28/ptt-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Singtel",
+    "tool": "Microsoft 365",
+    "source_url": "https://news.microsoft.com/2019/08/13/singtel-and-microsoft-announce-strategic-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Dangote Group",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/27/dangote-group-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "MTN Ghana",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/15/microsoft-and-mtn-ghana-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "BDO Unibank",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/06/18/bdo-unibank-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "DBS Bank",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2020/07/22/dbs-and-microsoft-expand-strategic-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "PT Telkom Indonesia",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/11/microsoft-and-telkom-indonesia-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "MTN Nigeria",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/05/microsoft-and-mtn-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Codelco",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/22/codelco-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Rwanda Development Board",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/09/microsoft-and-rwanda-development-board-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Ayala Corporation",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/14/microsoft-and-ayala-corporation-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Maybank",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/30/maybank-selects-microsoft-azure/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "BDO Unibank",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/10/03/microsoft-and-bdo-unibank-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Banque Misr",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/02/microsoft-and-banque-misr-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Cementos Pacasmayo",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/06/26/cementos-pacasmayo-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Grupo Sura",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/01/microsoft-and-grupo-sura-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Etisalat UAE",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/05/28/microsoft-and-etisalat-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Banco Macro",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/10/01/microsoft-and-banco-macro-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Cementos Pacasmayo",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/25/microsoft-and-cementos-pacasmayo-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Hyosung",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/08/hyosung-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Tokio Marine Holdings",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/02/tokio-marine-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Equity Bank Kenya",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/19/microsoft-and-equity-bank-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Codelco",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/29/microsoft-and-codelco-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Hitachi Energy",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/30/hitachi-energy-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Yanmar Holdings",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/14/yanmar-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Hanon Systems",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/17/microsoft-and-hanon-systems-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Mitsubishi Fuso Truck and Bus Corporation",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/11/mitsubishi-fuso-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "JFE Holdings",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/25/jfe-holdings-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Tata Memorial Hospital",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/23/microsoft-and-tata-memorial-hospital-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Isuzu Motors",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/05/isuzu-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Yanmar Holdings",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/12/microsoft-and-yanmar-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Roland Corporation",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/06/06/roland-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Australian Government",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/18/microsoft-and-australian-government-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Nippon Light Metal Company",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/28/nippon-light-metal-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Z Holdings",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/02/microsoft-and-z-holdings-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Isuzu Motors",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/16/microsoft-and-isuzu-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Bechtel",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/07/microsoft-and-bechtel-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Sumitomo Rubber Industries",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/22/microsoft-and-sumitomo-rubber-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Sumitomo Metal Industries",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/14/sumitomo-metal-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Teijin Limited",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/25/teijin-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Hitachi Energy",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/19/microsoft-and-hitachi-energy-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Roland Corporation",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/23/microsoft-and-roland-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Toyo Tire & Rubber Company",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/27/toyo-tire-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Nippon Steel Corporation",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/25/microsoft-and-nippon-steel-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Mitsubishi Fuso Truck and Bus Corporation",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/31/microsoft-and-mitsubishi-fuso-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Shin-Etsu Chemical",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/19/shin-etsu-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Eiffage",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/31/eiffage-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Sumitomo Metal Industries",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/03/microsoft-and-sumitomo-metal-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Atos",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/05/atos-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Alstom",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/12/alstom-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Faurecia",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/10/faurecia-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Alps Electric",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/13/microsoft-and-alps-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Yaskawa Electric Corporation",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/22/yaskawa-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Mitsubishi Electric Automation",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/24/microsoft-and-mitsubishi-electric-automation-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Bouygues",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/04/microsoft-and-bouygues-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Yaskawa Electric Corporation",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/19/microsoft-and-yaskawa-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Atos",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/14/microsoft-and-atos-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Umicore",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/15/umicore-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Exmar",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/21/exmar-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Arkema",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/25/microsoft-and-arkema-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Saint-Gobain",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/17/microsoft-and-saint-gobain-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Teijin Limited",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/07/microsoft-and-teijin-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Exmar",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/18/microsoft-and-exmar-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Andritz",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/16/andritz-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Plastic Omnium",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/01/microsoft-and-plastic-omnium-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Valeo",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/17/microsoft-and-valeo-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Alstom",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/05/microsoft-and-alstom-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Worldline",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/28/microsoft-and-worldline-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Proximus",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/27/microsoft-and-proximus-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Borealis",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/07/borealis-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Accor",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/11/microsoft-and-accor-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Sibelco",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/08/microsoft-and-sibelco-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Delhaize Group",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/12/microsoft-and-delhaize-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Lotos Group",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/08/lotos-group-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "CEZ Group",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/11/cez-group-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Richter Gedeon",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/07/richter-gedeon-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "MOL Group",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/29/mol-group-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Skoda Auto",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/23/skoda-auto-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Swarovski",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/06/microsoft-and-swarovski-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "PKP Cargo",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/20/pkp-cargo-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "OTP Bank",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/15/microsoft-and-otp-bank-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Ecobank Transnational",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/22/microsoft-and-ecobank-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Komercni Banka",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/27/microsoft-and-komercni-banka-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Magyar Telekom",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/23/microsoft-and-magyar-telekom-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Stanbic Bank Uganda",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/08/stanbic-bank-uganda-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Naspers",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/10/microsoft-and-naspers-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "SABB Saudi Arabia",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/26/sabb-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Airtel Tanzania",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/22/airtel-tanzania-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Safaricom Tanzania",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/04/18/safaricom-tanzania-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "KCB Group Kenya",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/05/kcb-group-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "GCB Bank",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/02/gcb-bank-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Wienerberger",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/30/microsoft-and-wienerberger-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Alinma Bank",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/05/20/alinma-bank-selects-sap-s4hana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Grupa Lotos",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/20/microsoft-and-grupa-lotos-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Czech Telecom",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/19/microsoft-and-czech-telecom-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Zain Saudi Arabia",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/04/microsoft-and-zain-saudi-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Banque Saudi Fransi",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/24/microsoft-and-bsf-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "National Commercial Bank Saudi",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/18/microsoft-and-ncb-saudi-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Maxima Group",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/customers/maxima.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Carlsberg Group",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/customers/carlsberg.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "IKEA",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/customers/ikea.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "airBaltic",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/customers/airbaltic.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  },
+  {
+    "company": "Co-operative Bank of Kenya",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/11/microsoft-and-co-op-bank-announce-partnership/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-22T03:49:43+00:00"
+  }
+]

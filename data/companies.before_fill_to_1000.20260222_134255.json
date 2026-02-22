@@ -95,6 +95,21 @@
     "updated_at": "2026-02-22"
   },
   {
+    "company": "AT&T",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "AT&T가 Salesforce Customer 360, Sales Cloud, Service Cloud 등을 도입해 고객 접점 통합과 개인화 추천을 추진",
+        "source_url": "https://www.prnewswire.com/news-releases/att-selects-salesforce-to-accelerate-its-customer-experience-vision-301067335.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
     "company": "Aboitiz Foods",
     "domain": "aboitiz.com",
     "industry": "Food",
@@ -199,6 +214,21 @@
       }
     ],
     "updated_at": "2026-02-22"
+  },
+  {
+    "company": "Action",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "Action이 SAP SuccessFactors 솔루션을 도입해 급성장 리테일 인사 운영을 지원",
+        "source_url": "https://www.prnewswire.com/news-releases/action-selects-sap-successfactors-solutions-to-support-rapid-retail-growth-300466885.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
   },
   {
     "company": "Adi",
@@ -351,6 +381,21 @@
       }
     ],
     "updated_at": "2026-02-22"
+  },
+  {
+    "company": "Agilent Technologies",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "Agilent Technologies가 SAP CRM 연계 솔루션을 도입해 고객 서비스 응답 체계를 개선",
+        "source_url": "https://www.prnewswire.com/news-releases/agilent-technologies-selects-sap-to-drive-world-class-customer-service-128000998.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
   },
   {
     "company": "Air Liquide",
@@ -845,6 +890,21 @@
       }
     ],
     "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Applied Industrial Technologies",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "Applied Industrial Technologies가 SAP를 도입해 기술 플랫폼과 비즈니스 트랜잭션 시스템 전환을 추진",
+        "source_url": "https://www.prnewswire.com/news-releases/applied-industrial-technologies-selects-sap-to-transform-its-technology-platforms-104174113.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
   },
   {
     "company": "Apploi",
@@ -1594,17 +1654,6 @@
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/es-es/customers/base10",
         "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Base10 team collaboration",
-        "source_url": "https://www.notion.com/fr/customers/base10",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/fr/customers/base10",
-        "evidence_title": ""
       }
     ],
     "updated_at": "2026-02-22"
@@ -1976,50 +2025,6 @@
         "http_status": 200,
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://asana.com/case-study/blinkist",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Blinkist team collaboration",
-        "source_url": "https://www.notion.com/ko/customers/blinkist",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ko/customers/blinkist",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Blinkist team collaboration",
-        "source_url": "https://www.notion.com/vi/customers/blinkist",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/vi/customers/blinkist",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Blinkist team collaboration",
-        "source_url": "https://www.notion.com/id/customers/blinkist",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/id/customers/blinkist",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Blinkist team collaboration",
-        "source_url": "https://www.notion.com/th/customers/blinkist",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/th/customers/blinkist",
         "evidence_title": ""
       }
     ],
@@ -2523,6 +2528,21 @@
     "updated_at": "2026-02-19"
   },
   {
+    "company": "CP Foods",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "CP Foods가 SAP 지속가능성 솔루션을 도입해 공급망 배출 데이터 기록·보고 체계를 구축",
+        "source_url": "https://www.prnewswire.com/news-releases/cp-foods-selects-sap-solutions-for-cloud-sustainability-302139993.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
     "company": "CSUCI Extended University",
     "domain": "csuci.edu",
     "industry": "Education",
@@ -2718,28 +2738,6 @@
         "http_status": 200,
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/es-es/customers/capgemini",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Capgemini team collaboration",
-        "source_url": "https://www.notion.com/fr/customers/capgemini",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/fr/customers/capgemini",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Capgemini team collaboration",
-        "source_url": "https://www.notion.com/de/customers/capgemini",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/de/customers/capgemini",
         "evidence_title": ""
       },
       {
@@ -4112,72 +4110,6 @@
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/ko/customers/dana-indonesia",
         "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Dana Indonesia team collaboration",
-        "source_url": "https://www.notion.com/ja/customers/dana-indonesia",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ja/customers/dana-indonesia",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Dana Indonesia team collaboration",
-        "source_url": "https://www.notion.com/id/customers/dana-indonesia",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/id/customers/dana-indonesia",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Dana Indonesia team collaboration",
-        "source_url": "https://www.notion.com/vi/customers/dana-indonesia",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/vi/customers/dana-indonesia",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Dana Indonesia team collaboration",
-        "source_url": "https://www.notion.com/th/customers/dana-indonesia",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/th/customers/dana-indonesia",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Dana Indonesia team collaboration",
-        "source_url": "https://www.notion.com/he/customers/dana-indonesia",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/he/customers/dana-indonesia",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Dana Indonesia team collaboration",
-        "source_url": "https://www.notion.com/ar/customers/dana-indonesia",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ar/customers/dana-indonesia",
-        "evidence_title": ""
       }
     ],
     "updated_at": "2026-02-22"
@@ -4349,17 +4281,6 @@
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://monday.com/lang/fr/customers/deezer",
         "evidence_title": ""
-      },
-      {
-        "name": "Monday.com",
-        "use_case": "Deezer team collaboration",
-        "source_url": "https://monday.com/lang/de/customers/deezer",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://monday.com/lang/de/customers/deezer",
-        "evidence_title": ""
       }
     ],
     "updated_at": "2026-02-22"
@@ -4398,17 +4319,6 @@
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://slack.com/intl/en-gb/customer-stories/deliveroo-feeds-frontline-healthcare-workers",
         "evidence_title": ""
-      },
-      {
-        "name": "Slack",
-        "use_case": "Deliveroo Feeds Frontline Healthcare Workers team collaboration",
-        "source_url": "https://slack.com/intl/en-in/customer-stories/deliveroo-feeds-frontline-healthcare-workers",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://slack.com/intl/en-in/customer-stories/deliveroo-feeds-frontline-healthcare-workers",
-        "evidence_title": "Deliveroo feeds frontline healthcare workers with Slack as its productivity platform | Slack"
       }
     ],
     "updated_at": "2026-02-22"
@@ -5413,6 +5323,21 @@
     "updated_at": "2026-02-22"
   },
   {
+    "company": "Esprit",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "Esprit가 Salesforce를 도입해 리테일·소비자 대상 디지털 전략을 강화",
+        "source_url": "https://www.prnewswire.com/news-releases/esprit-selects-salesforce-to-enhance-its-digital-strategy-for-retailers-and-consumers-300935090.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
     "company": "EssilorLuxottica",
     "domain": "essilorluxottica.com",
     "industry": "Eyewear/Optics",
@@ -5430,6 +5355,21 @@
       }
     ],
     "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Etihad Airways",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "Etihad Airways가 SAP를 전략 기술 파트너로 선정해 핵심 운영 소프트웨어 배치를 추진",
+        "source_url": "https://www.prnewswire.com/news-releases/etihad-airways-selects-sap-as-a-strategic-technology-partner-for-business-transformation-180564791.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
   },
   {
     "company": "Etsy",
@@ -5522,17 +5462,6 @@
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://slack.com/customer-stories/fabernovel-drives-innovation-agility",
         "evidence_title": ""
-      },
-      {
-        "name": "Slack",
-        "use_case": "Fabernovel Drives Innovation Agility team collaboration",
-        "source_url": "https://slack.com/intl/de-de/customer-stories/fabernovel-drives-innovation-agility",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://slack.com/intl/de-de/customer-stories/fabernovel-drives-innovation-agility",
-        "evidence_title": "Fabernovel treibt mit Slack Innovation und Agilität voran | Slack"
       }
     ],
     "updated_at": "2026-02-22"
@@ -5570,17 +5499,6 @@
         "http_status": 200,
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/he/customers/faire",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Faire team collaboration",
-        "source_url": "https://www.notion.com/ar/customers/faire",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ar/customers/faire",
         "evidence_title": ""
       }
     ],
@@ -5731,6 +5649,21 @@
     "updated_at": "2026-02-19"
   },
   {
+    "company": "Ferguson",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "Ferguson이 Salesforce를 도입해 유통·고객경험 중심 디지털 전환을 추진",
+        "source_url": "https://www.prnewswire.com/news-releases/ferguson-selects-salesforce-to-power-its-digital-transformation-301223693.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
     "company": "Fermob",
     "domain": "monday.com",
     "industry": "Unknown",
@@ -5793,61 +5726,6 @@
         "http_status": 200,
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://asana.com/case-study/figma",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Figma team collaboration",
-        "source_url": "https://www.notion.com/en-gb/customers/figma",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/en-gb/customers/figma",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Figma team collaboration",
-        "source_url": "https://www.notion.com/ko/customers/figma",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ko/customers/figma",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Figma team collaboration",
-        "source_url": "https://www.notion.com/vi/customers/figma",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/vi/customers/figma",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Figma team collaboration",
-        "source_url": "https://www.notion.com/id/customers/figma",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/id/customers/figma",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Figma team collaboration",
-        "source_url": "https://www.notion.com/th/customers/figma",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/th/customers/figma",
         "evidence_title": ""
       },
       {
@@ -6117,17 +5995,6 @@
         "http_status": 200,
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/es-es/customers/foolproof",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Foolproof team collaboration",
-        "source_url": "https://www.notion.com/fr/customers/foolproof",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/fr/customers/foolproof",
         "evidence_title": ""
       }
     ],
@@ -7378,6 +7245,21 @@
       }
     ],
     "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Hitachi Consulting",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "Hitachi Consulting이 SAP Carbon Impact 온디맨드 솔루션 사용 계약을 체결해 탄소배출 관리 체계를 구축",
+        "source_url": "https://www.prnewswire.com/news-releases/hitachi-consulting-selects-sapr-carbon-impact-on-demand-solution-to-support-environmental-vision-82150452.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
   },
   {
     "company": "Hitachi Solutions",
@@ -9066,6 +8948,21 @@
     "updated_at": "2026-02-22"
   },
   {
+    "company": "L'OCCITANE Group",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "L'OCCITANE Group이 Salesforce Commerce Cloud를 글로벌 이커머스 플랫폼으로 채택",
+        "source_url": "https://www.prnewswire.com/news-releases/loccitane-group-selects-salesforce-commerce-cloud-as-global-ecommerce-platform-300569785.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
     "company": "LG CNS",
     "domain": "lgcns.com",
     "industry": "South Korea",
@@ -9631,17 +9528,6 @@
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/fr/customers/luri-lee",
         "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Luri Lee team collaboration",
-        "source_url": "https://www.notion.com/ko/customers/luri-lee",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ko/customers/luri-lee",
-        "evidence_title": ""
       }
     ],
     "updated_at": "2026-02-22"
@@ -9956,17 +9842,6 @@
         "http_status": 200,
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/es-es/customers/match",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Match team collaboration",
-        "source_url": "https://www.notion.com/fr/customers/match",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/fr/customers/match",
         "evidence_title": ""
       }
     ],
@@ -10440,6 +10315,21 @@
     "updated_at": "2026-02-22"
   },
   {
+    "company": "Microsoft",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "Microsoft가 SAP SuccessFactors HCM Suite를 채택해 글로벌 HR 운영 전환을 추진",
+        "source_url": "https://www.prnewswire.com/news-releases/microsoft-selects-sap-successfactors-hcm-suite-to-transform-hr-globally-300364001.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
     "company": "Miller And Long",
     "domain": "www.smartsheet.com",
     "industry": "Unknown",
@@ -10643,17 +10533,6 @@
         "http_status": 200,
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/fr/customers/monica-lim",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Monica Lim team collaboration",
-        "source_url": "https://www.notion.com/ko/customers/monica-lim",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ko/customers/monica-lim",
         "evidence_title": ""
       }
     ],
@@ -10897,6 +10776,36 @@
       }
     ],
     "updated_at": "2026-02-22"
+  },
+  {
+    "company": "Newsbyte: Cabela's Inc.",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "Cabela's가 SAP POS 애플리케이션을 도입해 매장 확장과 고객 서비스 운영을 지원",
+        "source_url": "https://www.prnewswire.com/news-releases/newsbyte-cabelas-inc-selects-sap-to-support-retail-expansion-increase-customer-service-149489285.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
+    "company": "Newsbyte: Lloyd's Register",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "Lloyd's Register가 SAP를 선택해 글로벌 비즈니스 전환 프로그램을 수행",
+        "source_url": "https://www.prnewswire.com/news-releases/newsbyte-lloyds-register-selects-sap-for-major-global-business-transformation-program-300165524.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
   },
   {
     "company": "Newyorkcares",
@@ -11349,105 +11258,6 @@
         "http_status": 200,
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/en-gb/customers/openai",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Openai team collaboration",
-        "source_url": "https://www.notion.com/fr/customers/openai",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/fr/customers/openai",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Openai team collaboration",
-        "source_url": "https://www.notion.com/ko/customers/openai",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ko/customers/openai",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Openai team collaboration",
-        "source_url": "https://www.notion.com/ja/customers/openai",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ja/customers/openai",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Openai team collaboration",
-        "source_url": "https://www.notion.com/de/customers/openai",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/de/customers/openai",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Openai team collaboration",
-        "source_url": "https://www.notion.com/id/customers/openai",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/id/customers/openai",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Openai team collaboration",
-        "source_url": "https://www.notion.com/vi/customers/openai",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/vi/customers/openai",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Openai team collaboration",
-        "source_url": "https://www.notion.com/th/customers/openai",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/th/customers/openai",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Openai team collaboration",
-        "source_url": "https://www.notion.com/he/customers/openai",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/he/customers/openai",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Openai team collaboration",
-        "source_url": "https://www.notion.com/ar/customers/openai",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ar/customers/openai",
         "evidence_title": ""
       }
     ],
@@ -11943,28 +11753,6 @@
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/de/customers/parloa",
         "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Parloa team collaboration",
-        "source_url": "https://www.notion.com/he/customers/parloa",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/he/customers/parloa",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Parloa team collaboration",
-        "source_url": "https://www.notion.com/ar/customers/parloa",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ar/customers/parloa",
-        "evidence_title": ""
       }
     ],
     "updated_at": "2026-02-22"
@@ -12079,17 +11867,6 @@
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/fr/customers/personal-notes",
         "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Personal Notes team collaboration",
-        "source_url": "https://www.notion.com/ko/customers/personal-notes",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ko/customers/personal-notes",
-        "evidence_title": ""
       }
     ],
     "updated_at": "2026-02-22"
@@ -12108,17 +11885,6 @@
         "http_status": 200,
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/fr/customers/personal-organization",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Personal Organization team collaboration",
-        "source_url": "https://www.notion.com/ko/customers/personal-organization",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ko/customers/personal-organization",
         "evidence_title": ""
       }
     ],
@@ -12139,17 +11905,6 @@
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/fr/customers/personal-self-improvement",
         "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Personal Self Improvement team collaboration",
-        "source_url": "https://www.notion.com/ko/customers/personal-self-improvement",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ko/customers/personal-self-improvement",
-        "evidence_title": ""
       }
     ],
     "updated_at": "2026-02-22"
@@ -12168,17 +11923,6 @@
         "http_status": 200,
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/fr/customers/personal-tasks",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Personal Tasks team collaboration",
-        "source_url": "https://www.notion.com/ko/customers/personal-tasks",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ko/customers/personal-tasks",
         "evidence_title": ""
       }
     ],
@@ -12199,17 +11943,6 @@
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/fr/customers/personal-websites",
         "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Personal Websites team collaboration",
-        "source_url": "https://www.notion.com/ko/customers/personal-websites",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ko/customers/personal-websites",
-        "evidence_title": ""
       }
     ],
     "updated_at": "2026-02-22"
@@ -12228,17 +11961,6 @@
         "http_status": 200,
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/fr/customers/personal-writing",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Personal Writing team collaboration",
-        "source_url": "https://www.notion.com/ko/customers/personal-writing",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ko/customers/personal-writing",
         "evidence_title": ""
       }
     ],
@@ -12392,50 +12114,6 @@
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/en-gb/customers/pitch",
         "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Pitch team collaboration",
-        "source_url": "https://www.notion.com/ko/customers/pitch",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ko/customers/pitch",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Pitch team collaboration",
-        "source_url": "https://www.notion.com/vi/customers/pitch",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/vi/customers/pitch",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Pitch team collaboration",
-        "source_url": "https://www.notion.com/id/customers/pitch",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/id/customers/pitch",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Pitch team collaboration",
-        "source_url": "https://www.notion.com/th/customers/pitch",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/th/customers/pitch",
-        "evidence_title": ""
       }
     ],
     "updated_at": "2026-02-22"
@@ -12530,17 +12208,6 @@
         "http_status": 200,
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/es-es/customers/pleo",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Pleo team collaboration",
-        "source_url": "https://www.notion.com/fr/customers/pleo",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/fr/customers/pleo",
         "evidence_title": ""
       },
       {
@@ -13217,138 +12884,6 @@
         "http_status": 200,
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/es/customers/ramp",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Ramp team collaboration",
-        "source_url": "https://www.notion.com/es-es/customers/ramp",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/es-es/customers/ramp",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Ramp team collaboration",
-        "source_url": "https://www.notion.com/en-gb/customers/ramp",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/en-gb/customers/ramp",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Ramp team collaboration",
-        "source_url": "https://www.notion.com/fr/customers/ramp",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/fr/customers/ramp",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Ramp team collaboration",
-        "source_url": "https://www.notion.com/pt/customers/ramp",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/pt/customers/ramp",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Ramp team collaboration",
-        "source_url": "https://www.notion.com/ko/customers/ramp",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ko/customers/ramp",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Ramp team collaboration",
-        "source_url": "https://www.notion.com/ja/customers/ramp",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ja/customers/ramp",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Ramp team collaboration",
-        "source_url": "https://www.notion.com/de/customers/ramp",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/de/customers/ramp",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Ramp team collaboration",
-        "source_url": "https://www.notion.com/vi/customers/ramp",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/vi/customers/ramp",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Ramp team collaboration",
-        "source_url": "https://www.notion.com/id/customers/ramp",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/id/customers/ramp",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Ramp team collaboration",
-        "source_url": "https://www.notion.com/th/customers/ramp",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/th/customers/ramp",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Ramp team collaboration",
-        "source_url": "https://www.notion.com/he/customers/ramp",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/he/customers/ramp",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Ramp team collaboration",
-        "source_url": "https://www.notion.com/ar/customers/ramp",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ar/customers/ramp",
         "evidence_title": ""
       },
       {
@@ -14284,17 +13819,6 @@
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://slack.com/intl/es-la/customer-stories/shipt-scales-delivery-ecosystem",
         "evidence_title": "Shipt escala su ecosistema de entrega para satisfacer la creciente demanda con Slack | Slack"
-      },
-      {
-        "name": "Slack",
-        "use_case": "Shipt Scales Delivery Ecosystem team collaboration",
-        "source_url": "https://slack.com/intl/es-es/customer-stories/shipt-scales-delivery-ecosystem",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://slack.com/intl/es-es/customer-stories/shipt-scales-delivery-ecosystem",
-        "evidence_title": "Shipt adapta su ecosistema de entrega de productos a la creciente demanda gracias a Slack | Slack"
       }
     ],
     "updated_at": "2026-02-22"
@@ -15351,6 +14875,21 @@
     "updated_at": "2026-02-22"
   },
   {
+    "company": "Swagelok",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "Swagelok이 SAP ERP를 도입해 재무·공급망·제조·유통 시스템 통합을 추진",
+        "source_url": "https://www.prnewswire.com/news-releases/swagelok-selects-sap-to-transform-business-systems-124702718.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
     "company": "Swc",
     "domain": "www.smartsheet.com",
     "industry": "Unknown",
@@ -16367,39 +15906,6 @@
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/en-gb/customers/toyota",
         "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Toyota team collaboration",
-        "source_url": "https://www.notion.com/vi/customers/toyota",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/vi/customers/toyota",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Toyota team collaboration",
-        "source_url": "https://www.notion.com/id/customers/toyota",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/id/customers/toyota",
-        "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Toyota team collaboration",
-        "source_url": "https://www.notion.com/th/customers/toyota",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/th/customers/toyota",
-        "evidence_title": ""
       }
     ],
     "updated_at": "2026-02-22"
@@ -17152,17 +16658,6 @@
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://www.notion.com/he/customers/vercel",
         "evidence_title": ""
-      },
-      {
-        "name": "Notion",
-        "use_case": "Vercel team collaboration",
-        "source_url": "https://www.notion.com/ar/customers/vercel",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://www.notion.com/ar/customers/vercel",
-        "evidence_title": ""
       }
     ],
     "updated_at": "2026-02-22"
@@ -17396,6 +16891,25 @@
     "updated_at": "2026-02-19"
   },
   {
+    "company": "Vodafone Hutchison Australia",
+    "domain": "vodafone.com.au",
+    "industry": "Telecommunications",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "Vodafone Australia uses Google Cloud for telecom services",
+        "source_url": "https://cloud.google.com/customers/vodafone/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/vodafone/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
     "company": "Voltalia",
     "domain": "www.airtable.com",
     "industry": "Unknown",
@@ -17453,6 +16967,25 @@
     "updated_at": "2026-02-22"
   },
   {
+    "company": "Walkley Foundation",
+    "domain": "walkley.com",
+    "industry": "Media",
+    "tools": [
+      {
+        "name": "Canva",
+        "use_case": "Canva helps streamline event marketing",
+        "source_url": "https://www.canva.com/case-studies/walkley-foundation/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.canva.com/case-studies/walkley-foundation/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
     "company": "Wallester",
     "domain": "clickup.com",
     "industry": "Unknown",
@@ -17470,6 +17003,44 @@
       }
     ],
     "updated_at": "2026-02-22"
+  },
+  {
+    "company": "Watershed",
+    "domain": "watershed.com",
+    "industry": "Sustainability",
+    "tools": [
+      {
+        "name": "Linear",
+        "use_case": "Uses Linear for product development",
+        "source_url": "https://linear.app/customers/watershed",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://linear.app/customers/watershed",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Wayfair",
+    "domain": "wayfair.com",
+    "industry": "E-commerce",
+    "tools": [
+      {
+        "name": "Jira",
+        "use_case": "Uses Jira for project management",
+        "source_url": "https://www.atlassian.com/software/jira",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.atlassian.com/software/jira",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
   },
   {
     "company": "We Are Era",
@@ -17662,6 +17233,25 @@
     "updated_at": "2026-02-22"
   },
   {
+    "company": "Wilderness Society",
+    "domain": "wilderness.org.au",
+    "industry": "Nonprofit",
+    "tools": [
+      {
+        "name": "Canva",
+        "use_case": "Canva empowers to create, engage and collaborate",
+        "source_url": "https://www.canva.com/case-studies/wilderness-society/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.canva.com/case-studies/wilderness-society/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
     "company": "Wildlife Conservation Society",
     "domain": "asana.com",
     "industry": "Unknown",
@@ -17812,6 +17402,25 @@
       }
     ],
     "updated_at": "2026-02-22"
+  },
+  {
+    "company": "Wondery",
+    "domain": "wondery.com",
+    "industry": "Media",
+    "tools": [
+      {
+        "name": "Airtable",
+        "use_case": "Unearth profitable insights in troves of podcasts",
+        "source_url": "https://www.airtable.com/customer-stories/wondery",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.airtable.com/customer-stories/wondery",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
   },
   {
     "company": "World Central Kitchen",
@@ -17985,6 +17594,25 @@
     "updated_at": "2026-02-22"
   },
   {
+    "company": "Yokohama Rubber Company",
+    "domain": "yokohamarubber.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 타이어 제조",
+        "source_url": "https://cloud.google.com/customers/yokohama-rubber",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/yokohama-rubber",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
     "company": "Yoshida Denkou",
     "domain": "www.smartsheet.com",
     "industry": "Unknown",
@@ -18099,6 +17727,25 @@
     "updated_at": "2026-02-22"
   },
   {
+    "company": "ZEISS Group",
+    "domain": "zeiss.com",
+    "industry": "Optics",
+    "tools": [
+      {
+        "name": "Smartsheet",
+        "use_case": "Brings optical clarity and velocity to a global team with Smartsheet",
+        "source_url": "https://www.smartsheet.com/customers/zeiss-group",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.smartsheet.com/customers/zeiss-group",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
     "company": "Zalaris",
     "domain": "www.smartsheet.com",
     "industry": "Unknown",
@@ -18156,6 +17803,25 @@
     "updated_at": "2026-02-22"
   },
   {
+    "company": "Zillow",
+    "domain": "zillow.com",
+    "industry": "Proptech",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "Zillow uses Google Cloud for real estate platform",
+        "source_url": "https://cloud.google.com/customers/zillow",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/zillow",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
     "company": "Zippo",
     "domain": "monday.com",
     "industry": "Unknown",
@@ -18169,28 +17835,6 @@
         "http_status": 200,
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://monday.com/lang/es/customers/zippo",
-        "evidence_title": ""
-      },
-      {
-        "name": "Monday.com",
-        "use_case": "Zippo team collaboration",
-        "source_url": "https://monday.com/lang/de/customers/zippo",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://monday.com/lang/de/customers/zippo",
-        "evidence_title": ""
-      },
-      {
-        "name": "Monday.com",
-        "use_case": "Zippo team collaboration",
-        "source_url": "https://monday.com/lang/fr/customers/zippo",
-        "source_type": "vendor_case_study",
-        "verified": true,
-        "http_status": 200,
-        "checked_at": "2026-02-22T04:12:57+00:00",
-        "final_url": "https://monday.com/lang/fr/customers/zippo",
         "evidence_title": ""
       }
     ],
@@ -18211,8 +17855,171 @@
         "checked_at": "2026-02-22T04:12:57+00:00",
         "final_url": "https://asana.com/case-study/zoom",
         "evidence_title": ""
+      },
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 비디오 회의",
+        "source_url": "https://cloud.google.com/customers/zoom",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/zoom",
+        "evidence_title": "<!-- \"> '> --><title>"
       }
     ],
     "updated_at": "2026-02-22"
+  },
+  {
+    "company": "eXp Realty",
+    "domain": "exprealty.com",
+    "industry": "Real Estate",
+    "tools": [
+      {
+        "name": "Canva",
+        "use_case": "Drives brand empowerment and accelerates go-to-market for 82K+ agents worldwide",
+        "source_url": "https://www.canva.com/case-studies/exp-realty/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.canva.com/case-studies/exp-realty/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "edX",
+    "domain": "edx.org",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 온라인 교육",
+        "source_url": "https://cloud.google.com/customers/edx",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/edx",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "iFood",
+    "domain": "ifood.com.br",
+    "industry": "Food Delivery",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "iFood uses Google Cloud for food delivery platform",
+        "source_url": "https://cloud.google.com/customers/ifood",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/ifood",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "가톨릭중앙의료원(CMC)",
+    "domain": "cmc.or.kr",
+    "industry": "의료/간호/제약",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "의료 현장의 디지털 혁신(DX) 및 협업",
+        "source_url": "https://naver.worksmobile.com/cases/cmc/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://naver.worksmobile.com/cases/cmc/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "대웅제약",
+    "domain": "daewong.co.kr",
+    "industry": "제약/헬스케어",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "글로벌 헬스케어 그룹 스마트워크 환경 구축, 전자결재 5분 내 처리, 그룹 기능 활용 협업, 통번역으로 외국인 대응 시간 4시간→10분 절감",
+        "source_url": "https://naver.worksmobile.com/cases/itdonga/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://naver.worksmobile.com/cases/itdonga/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "신지모루",
+    "domain": "sinjimoru.com",
+    "industry": "제조",
+    "tools": [
+      {
+        "name": "JANDI",
+        "use_case": "토픽 생성, 멘션 등 메신저 기능을 활용한 전사 업무 소통 및 협업",
+        "source_url": "https://blog.jandi.com/ko/2025/12/03/customercase-sinjimoru/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://blog.jandi.com/ko/2025/12/03/customercase-sinjimoru/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "이데일리",
+    "domain": "edaily.co.kr",
+    "industry": "미디어/언론",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "국내 대표 언론사, 인사 담당자 업무 효율성 향상, 메시지 스티커 및 읽음 기능으로 부드러운 커뮤니케이션, 모바일 앱 편리한 업무",
+        "source_url": "https://naver.worksmobile.com/cases/edaily/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://naver.worksmobile.com/cases/edaily/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "한국고무주식회사",
+    "domain": "korearubber.com",
+    "industry": "제조",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "업무용 메일과 드라이브를 기반한 소속감과 신뢰 향상 및 안전 협업 환경",
+        "source_url": "https://naver.worksmobile.com/cases/korearubber/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://naver.worksmobile.com/cases/korearubber/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
   }
 ]

@@ -1,0 +1,10 @@
+{
+  "target": 1000,
+  "start_total": 965,
+  "added": 0,
+  "considered_pairs": 835,
+  "verified_url_pool": 0,
+  "final_total": 965,
+  "backup": "data/companies.before_fill_to_1000.20260222_134255.json",
+  "data": "data/companies.json"
+}

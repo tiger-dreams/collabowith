@@ -1,0 +1,10 @@
+{
+  "input_main_verified": 320,
+  "input_researched_verified": 662,
+  "unique_verified_pool": 965,
+  "selected_entries": 965,
+  "selected_companies": 933,
+  "output_main": "data/companies.json",
+  "output_alt": "data/companies.verified1000.json",
+  "backup": "data/companies.before_final_1000.20260222_133204.json"
+}

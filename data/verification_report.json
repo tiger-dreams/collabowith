@@ -1,0 +1,62 @@
+{
+  "summary": {
+    "total_companies": 3493,
+    "verified_companies": 1601,
+    "high_quality_entries": 5778,
+    "total_tool_entries": 6434,
+    "verified_entries": 5778
+  },
+  "generated_at": "2026-02-20",
+  "target_tools": [
+    "Slack",
+    "Microsoft Teams",
+    "Zoom",
+    "Jira",
+    "Confluence",
+    "Notion",
+    "Figma",
+    "Miro",
+    "Monday.com",
+    "Asana"
+  ],
+  "industry_mapping": {
+    "Technology": [
+      "Slack",
+      "Jira",
+      "Confluence",
+      "Notion",
+      "Figma",
+      "Zoom"
+    ],
+    "Financial": [
+      "Microsoft Teams",
+      "Zoom",
+      "Confluence",
+      "Slack"
+    ],
+    "Healthcare": [
+      "Microsoft Teams",
+      "Zoom",
+      "Box"
+    ],
+    "Retail": [
+      "Slack",
+      "Microsoft Teams",
+      "Asana",
+      "Monday.com"
+    ],
+    "Manufacturing": [
+      "Microsoft Teams",
+      "Zoom",
+      "Asana"
+    ],
+    "Fortune 1000": [
+      "Slack",
+      "Microsoft Teams",
+      "Zoom",
+      "Jira",
+      "Confluence",
+      "Notion"
+    ]
+  }
+}

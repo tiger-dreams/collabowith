@@ -1,0 +1,5501 @@
+[
+  {
+    "company": "JG Summit Holdings",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/asia/success-stories.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "CP Group",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/asia/success-stories.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "VinGroup",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/asia/success-stories.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "DBS Bank Singapore",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Lazada",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Mango",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Kuehne + Nagel",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Maybank Singapore",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Bukalapak",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "ArcelorMittal",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Syngenta",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Dow Chemical",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Amcor",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "International Paper",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Holcim",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Carrier",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Union Pacific",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Maersk Line",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Waste Management",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Shopee",
+    "tool": "Google Cloud",
+    "source_url": "https://cloud.google.com/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Tokopedia",
+    "tool": "Google Cloud",
+    "source_url": "https://cloud.google.com/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Fortis Healthcare",
+    "tool": "Google Cloud",
+    "source_url": "https://cloud.google.com/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Corteva",
+    "tool": "Google Cloud",
+    "source_url": "https://cloud.google.com/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Fluor",
+    "tool": "Google Cloud",
+    "source_url": "https://cloud.google.com/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "DuPont",
+    "tool": "Google Cloud",
+    "source_url": "https://cloud.google.com/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Ball Corporation",
+    "tool": "Google Cloud",
+    "source_url": "https://cloud.google.com/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Ingersoll Rand",
+    "tool": "Google Cloud",
+    "source_url": "https://cloud.google.com/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Eaton",
+    "tool": "Google Cloud",
+    "source_url": "https://cloud.google.com/customers/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Walgreens Boots Alliance",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/walgreens-boots-alliance",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Marathon Petroleum",
+    "tool": "Monday.com",
+    "source_url": "https://monday.com.com/customers/marathon-petroleum",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Freddie Mac",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/freddie-mac",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Charter Communications",
+    "tool": "Monday.com",
+    "source_url": "https://monday.com.com/customers/charter-communications",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Liberty Mutual Insurance Group",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/liberty-mutual-insurance-group",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Plains GP Holdings",
+    "tool": "Monday.com",
+    "source_url": "https://monday.com.com/customers/plains-gp-holdings",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "USAA",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/usaa",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Apache",
+    "tool": "Monday.com",
+    "source_url": "https://monday.com.com/customers/apache",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Allergan",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/allergan",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Allergan",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/allergan",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Altria Group",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/altria-group",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Arconic",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/arconic",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Citizens Financial",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/citizens-financial",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Dentsply Sirona",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/dentsply-sirona",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Discover Financial",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/discover-financial",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Dover Corporation",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/dover-corporation",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Dover Corporation",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/dover-corporation",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Dover Corporation",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/dover-corporation",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Ecolab",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/ecolab",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Exelon",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/exelon",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "F5 Networks",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/f5-networks",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Fastenal",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/fastenal",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Flex",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/flex",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Fox Corporation",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/fox-corporation",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Genuine Parts",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/genuine-parts",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "H&R Block",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/h&r-block",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Hartford Financial Services",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/hartford-financial-services",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Health Net",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/health-net",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Huntington Bancshares",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/huntington-bancshares",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "IDEX Corporation",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/idex-corporation",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "ITG",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/itg",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "ITG",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/itg",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Jackson Hewitt Tax Service",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/jackson-hewitt-tax-service",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Jones Lang LaSalle",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/jones-lang-lasalle",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Junction Solutions",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/junction-solutions",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "KeyCorp",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/keycorp",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Keysight Technologies",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/keysight-technologies",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "LabCorp",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/labcorp",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Lithia Motors",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/lithia-motors",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "M&T Bank",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/m&t-bank",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "ManpowerGroup",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/manpowergroup",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "ManpowerGroup",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/manpowergroup",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Marcum LLP",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/marcum-llp",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Maxim Integrated",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/maxim-integrated",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Maxim Integrated",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/maxim-integrated",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Mettler Toledo",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/mettler-toledo",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "MidAmerican Energy",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/midamerican-energy",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "National Bank of Canada",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/national-bank-of-canada",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "National Bank of Canada",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/national-bank-of-canada",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Nisource",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/nisource",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Noble Energy",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/noble-energy",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Nucor",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/nucor",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Olin Corporation",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/olin-corporation",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Qwest",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/qwest",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Ross Stores",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/ross-stores",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "RPM International",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/rpm-international",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "RPM International",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/rpm-international",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Service Corporation International",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/service-corporation-international",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Stericycle",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/stericycle",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "StoneX Group",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/stonex-group",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "SunPower",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/sunpower",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "T-Mobile US",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/t-mobile-us",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Teradyne",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/teradyne",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "The Home Depot",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/the-home-depot",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "The Kroger Company",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/the-kroger-company",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "The Travelers Companies",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/the-travelers-companies",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "The Travelers Companies",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/the-travelers-companies",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Thryv Holdings",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/thryv-holdings",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Thryv Holdings",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/thryv-holdings",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Tiffany & Co.",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/tiffany-&-co",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Tiffany & Co.",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/tiffany-&-co",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Tractor Supply",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/tractor-supply",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "US Bancorp",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/us-bancorp",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "US Foods Holding",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/us-foods-holding",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Vodafone Group",
+    "tool": "Confluence",
+    "source_url": "https://confluence.com/customers/vodafone-group",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Wawa",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/wawa",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "WestRock",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/westrock",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Whirlpool",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/whirlpool",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "White Mountains Insurance",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/white-mountains-insurance",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Yelp",
+    "tool": "Microsoft Teams",
+    "source_url": "https://microsoftteams.com/customers/yelp",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Zoetis",
+    "tool": "Jira",
+    "source_url": "https://jira.com/customers/zoetis",
+    "final_url": "",
+    "http_status": null,
+    "reason": "invalid_host_pattern",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "LG Electronics",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/lg-electronics/",
+    "final_url": "https://aws.amazon.com/case-studies/lg-electronics/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Kakao",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/kakao/",
+    "final_url": "https://aws.amazon.com/case-studies/kakao/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Coupang",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/coupang/",
+    "final_url": "https://aws.amazon.com/case-studies/coupang/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Samsung SDS",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/samsung-sds/",
+    "final_url": "https://aws.amazon.com/case-studies/samsung-sds/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Kia Corporation",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-kr/business/success-stories/kia",
+    "final_url": "https://www.microsoft.com/en-kr/business/success-stories/kia",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Hana Financial Group",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-kr/business/success-stories/hana-financial-group",
+    "final_url": "https://www.microsoft.com/en-kr/business/success-stories/hana-financial-group",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "KB Financial Group",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-kr/business/success-stories/kb-financial-group",
+    "final_url": "https://www.microsoft.com/en-kr/business/success-stories/kb-financial-group",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Shinhan Financial Group",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/24/microsoft-and-shinhan-financial-group-announce-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/06/24/microsoft-and-shinhan-financial-group-announce-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "LINE",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/26/microsoft-and-line-announce-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/06/26/microsoft-and-line-announce-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "LG Uplus",
+    "tool": "Google Workspace",
+    "source_url": "https://workspace.google.com/intl/en/customer-stories/lg-uplus/",
+    "final_url": "https://workspace.google.com/intl/en/customer-stories/lg-uplus/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Samsung SDS",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/09/microsoft-and-samsung-sds-announce-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/08/09/microsoft-and-samsung-sds-announce-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Hyundai Motor Company",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/24/microsoft-and-hyundai-announce-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/07/24/microsoft-and-hyundai-announce-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "SK C&C",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/13/microsoft-and-sk-cc-announce-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/09/13/microsoft-and-sk-cc-announce-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Airbnb",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/airbnb/",
+    "final_url": "https://aws.amazon.com/case-studies/airbnb/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "LG CNS",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-kr/business/success-stories/lg-cns",
+    "final_url": "https://www.microsoft.com/en-kr/business/success-stories/lg-cns",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Amazon",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/amazon/",
+    "final_url": "https://aws.amazon.com/case-studies/amazon/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Tesla",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/tesla/",
+    "final_url": "https://aws.amazon.com/case-studies/tesla/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "LG Uplus",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/03/microsoft-and-lg-uplus-announce-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/09/03/microsoft-and-lg-uplus-announce-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Netflix",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/netflix/",
+    "final_url": "https://aws.amazon.com/case-studies/netflix/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Apple",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-us/business/success-stories/apple",
+    "final_url": "https://www.microsoft.com/en-us/business/success-stories/apple",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Airbnb",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/airbnb",
+    "final_url": "https://slack.com/customer-stories/airbnb",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Tesla",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/tesla",
+    "final_url": "https://slack.com/customer-stories/tesla",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Netflix",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/netflix",
+    "final_url": "https://slack.com/customer-stories/netflix",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Stripe",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/stripe/",
+    "final_url": "https://aws.amazon.com/case-studies/stripe/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Uber",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/uber",
+    "final_url": "https://slack.com/customer-stories/uber",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Amazon",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/amazon",
+    "final_url": "https://slack.com/customer-stories/amazon",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Atlassian",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/atlassian/",
+    "final_url": "https://aws.amazon.com/case-studies/atlassian/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Microsoft",
+    "tool": "Microsoft 365",
+    "source_url": "https://www.microsoft.com/en-us/microsoft-365/blog/2020/05/04/how-microsoft-uses-microsoft-365/",
+    "final_url": "https://www.microsoft.com/en-us/microsoft-365/blog/2020/05/04/how-microsoft-uses-microsoft-365/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Dropbox",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/dropbox/",
+    "final_url": "https://aws.amazon.com/case-studies/dropbox/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "PayPal",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/paypal",
+    "final_url": "https://slack.com/customer-stories/paypal",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "GitLab",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/gitlab/",
+    "final_url": "https://aws.amazon.com/case-studies/gitlab/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Databricks",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/databricks/",
+    "final_url": "https://aws.amazon.com/case-studies/databricks/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Atlassian",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/atlassian",
+    "final_url": "https://slack.com/customer-stories/atlassian",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Figma",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/figma",
+    "final_url": "https://slack.com/customer-stories/figma",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Microsoft",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-us/microsoft-365/blog/2019/11/12/how-microsoft-uses-teams/",
+    "final_url": "https://www.microsoft.com/en-us/microsoft-365/blog/2019/11/12/how-microsoft-uses-teams/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Dropbox",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/dropbox",
+    "final_url": "https://slack.com/customer-stories/dropbox",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Palantir",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/palantir/",
+    "final_url": "https://aws.amazon.com/case-studies/palantir/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "PayPal",
+    "tool": "Google Cloud",
+    "source_url": "https://cloud.google.com/customers/paypal/",
+    "final_url": "https://cloud.google.com/customers",
+    "http_status": 200,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "GitHub",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/github",
+    "final_url": "https://slack.com/customer-stories/github",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Elastic",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/elastic/",
+    "final_url": "https://aws.amazon.com/case-studies/elastic/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "GitLab",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/gitlab",
+    "final_url": "https://slack.com/customer-stories/gitlab",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "HubSpot",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/hubspot/",
+    "final_url": "https://aws.amazon.com/case-studies/hubspot/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Salesforce",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/salesforce",
+    "final_url": "https://slack.com/customer-stories",
+    "http_status": 200,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Databricks",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/databricks",
+    "final_url": "https://slack.com/customer-stories/databricks",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Palantir",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/palantir",
+    "final_url": "https://slack.com/customer-stories/palantir",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "MongoDB",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/mongodb",
+    "final_url": "https://slack.com/customer-stories/mongodb",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Twilio",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/twilio",
+    "final_url": "https://slack.com/customer-stories/twilio",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Infosys",
+    "tool": "Workday",
+    "source_url": "https://www.workday.com/en-us/customers/infosys.html",
+    "final_url": "https://www.workday.com/en-us/customers/infosys.html",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Capgemini",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-fr/business/success-stories/capgemini",
+    "final_url": "https://www.microsoft.com/en-fr/business/success-stories/capgemini",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "SAP",
+    "tool": "Slack",
+    "source_url": "https://customers.microsoft.com/en-us/story/1610587277180213545-sap-azure-professional-services-powerpoint-en",
+    "final_url": "https://www.microsoft.com/en/customers/story/1610587277180213545-sap-azure-professional-services-powerpoint-en",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Kubota",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/kubota",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/kubota",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Fujitsu",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/fujitsu",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/fujitsu",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Mitsubishi Electric",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/mitsubishi-electric/",
+    "final_url": "https://aws.amazon.com/case-studies/mitsubishi-electric/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Volkswagen",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-us/microsoft-365/blog/2020/09/15/volkswagen-chooses-microsoft-azure-and-microsoft-365/",
+    "final_url": "https://www.microsoft.com/en-us/microsoft-365/blog/2020/09/15/volkswagen-chooses-microsoft-azure-and-microsoft-365/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "HubSpot",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/hubspot",
+    "final_url": "https://slack.com/customer-stories",
+    "http_status": 200,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Sony",
+    "tool": "Google Workspace",
+    "source_url": "https://workspace.google.com/intl/en/customer-stories/sony/",
+    "final_url": "https://workspace.google.com/intl/en/customer-stories/sony/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Panasonic",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/panasonic",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/panasonic",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Hitachi",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/10/microsoft-and-hitachi-announce-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/07/10/microsoft-and-hitachi-announce-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "HashiCorp",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/hashicorp/",
+    "final_url": "https://aws.amazon.com/case-studies/hashicorp/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Toshiba",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/toshiba",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/toshiba",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Fujitsu",
+    "tool": "Google Cloud",
+    "source_url": "https://cloud.google.com/customers/fujitsu/",
+    "final_url": "https://cloud.google.com/customers/fujitsu/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Wipro",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.wipro.com/news/microsoft-and-wipro-expand-strategic-partnership/",
+    "final_url": "https://www.wipro.com/news/microsoft-and-wipro-expand-strategic-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "AXA",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2018/11/26/axa-selects-microsoft-azure-as-strategic-cloud-platform/",
+    "final_url": "https://news.microsoft.com/source/2018/11/26/axa-selects-microsoft-azure-as-strategic-cloud-platform/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "HashiCorp",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/hashicorp",
+    "final_url": "https://slack.com/customer-stories/hashicorp",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Travis CI",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/travis-ci/",
+    "final_url": "https://aws.amazon.com/case-studies/travis-ci/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Jenkins",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/jenkins/",
+    "final_url": "https://aws.amazon.com/case-studies/jenkins/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Docker",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/docker",
+    "final_url": "https://slack.com/customer-stories/docker",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "New Relic",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/new-relic/",
+    "final_url": "https://aws.amazon.com/case-studies/new-relic/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Ansible",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/ansible",
+    "final_url": "https://slack.com/customer-stories/ansible",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Apache Flink",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/flink/",
+    "final_url": "https://aws.amazon.com/case-studies/flink/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "CircleCI",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/circleci",
+    "final_url": "https://slack.com/customer-stories/circleci",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Apache Spark",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/spark/",
+    "final_url": "https://aws.amazon.com/case-studies/spark/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "New Relic",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/new-relic",
+    "final_url": "https://slack.com/customer-stories/new-relic",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Redis Labs",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/redis",
+    "final_url": "https://slack.com/customer-stories/redis",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Unilever",
+    "tool": "Google Workspace",
+    "source_url": "https://workspace.google.com/intl/en/customer-stories/unilever/",
+    "final_url": "https://workspace.google.com/intl/en/customer-stories/unilever/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Nestle",
+    "tool": "Workday",
+    "source_url": "https://www.workday.com/en-us/customers/nestle.html",
+    "final_url": "https://www.workday.com/en-us/customers/nestle.html",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Novartis",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/10/28/microsoft-and-novartis-announce-strategic-ai-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/10/28/microsoft-and-novartis-announce-strategic-ai-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Takeda",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/takeda",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/takeda",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Kering",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-fr/business/success-stories/kering",
+    "final_url": "https://www.microsoft.com/en-fr/business/success-stories/kering",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Fanuc",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/fanuc",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/fanuc",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Keyence",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/keyence",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/keyence",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Omron",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/14/microsoft-and-omron-announce-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/08/14/microsoft-and-omron-announce-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Petrobras",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/pt-br/business/accelerate/petrobras",
+    "final_url": "https://www.microsoft.com/pt-br/business/accelerate/petrobras",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Siemens",
+    "tool": "SharePoint",
+    "source_url": "https://www.microsoft.com/en-us/microsoft-365/blog/2019/04/10/siemens-and-microsoft-announce-strategic-partnership-to-accelerate-digital-transformation/",
+    "final_url": "https://www.microsoft.com/en-us/microsoft-365/blog/2019/04/10/siemens-and-microsoft-announce-strategic-partnership-to-accelerate-digital-transformation/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Engie",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-fr/business/success-stories/engie",
+    "final_url": "https://www.microsoft.com/en-fr/business/success-stories/engie",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "QatarEnergy",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/10/09/microsoft-and-qatarenergy-announce-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/10/09/microsoft-and-qatarenergy-announce-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Standard Bank Group",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/20/microsoft-and-standard-bank-announce-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/06/20/microsoft-and-standard-bank-announce-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Grupo Mexico",
+    "tool": "Microsoft 365",
+    "source_url": "https://www.microsoft.com/en-mx/business/success-stories/grupo-mexico",
+    "final_url": "https://www.microsoft.com/en-mx/business/success-stories/grupo-mexico",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "SoftBank Group",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/softbank",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/softbank",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Samsung Fire & Marine Insurance",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/samsung-fire-marine-insurance.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "GS Engineering & Construction",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/gs-ec.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Red Bull",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-at/business/success-stories/redbull",
+    "final_url": "https://www.microsoft.com/en-at/business/success-stories/redbull",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Coinbase",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/coinbase/",
+    "final_url": "https://aws.amazon.com/case-studies/coinbase/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Renault",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/renault.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Komatsu",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/komatsu.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Wipro",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/wipro.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Coinbase",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/coinbase",
+    "final_url": "https://slack.com/customer-stories/coinbase",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Societe Generale",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/societe-generale.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Intercom",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/intercom",
+    "final_url": "https://slack.com/customer-stories/intercom",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "AXA",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/axa.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Fluent",
+    "tool": "Mural",
+    "source_url": "https://www.mural.co/case-studies/fluent",
+    "final_url": "https://www.mural.co/case-studies/fluent",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/doordash/",
+    "final_url": "https://aws.amazon.com/case-studies/doordash/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Novartis",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/novartis.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/doordash",
+    "final_url": "https://slack.com/customer-stories/doordash",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Danone",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/danone.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Zendesk",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/zendesk/",
+    "final_url": "https://aws.amazon.com/case-studies/zendesk/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Meta",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/facebook",
+    "final_url": "https://slack.com/customer-stories/facebook",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Instacart",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/instacart",
+    "final_url": "https://slack.com/customer-stories/instacart",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "LVMH",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/lvmh.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Schneider Electric",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/schneider-electric.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "ABB",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/abb.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "SendGrid",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/sendgrid/",
+    "final_url": "https://aws.amazon.com/case-studies/sendgrid/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Asana",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/asana/",
+    "final_url": "https://aws.amazon.com/case-studies/asana/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "ClickUp",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/clickup/",
+    "final_url": "https://aws.amazon.com/case-studies/clickup/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Robinhood",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/robinhood",
+    "final_url": "https://slack.com/customer-stories/robinhood",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Notion API",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/notion/",
+    "final_url": "https://aws.amazon.com/case-studies/notion/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Mailchimp",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/mailchimp",
+    "final_url": "https://slack.com/customer-stories/mailchimp",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "SendGrid",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/sendgrid",
+    "final_url": "https://slack.com/customer-stories/sendgrid",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "ClickUp",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/clickup",
+    "final_url": "https://slack.com/customer-stories/clickup",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Square",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/square",
+    "final_url": "https://slack.com/customer-stories",
+    "http_status": 200,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Asana",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/asana",
+    "final_url": "https://slack.com/customer-stories/asana",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Monday.com",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/monday",
+    "final_url": "https://slack.com/customer-stories/monday",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "EDF",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/edf.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Trello",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/trello",
+    "final_url": "https://slack.com/customer-stories/trello",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Notion API",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/notion",
+    "final_url": "https://slack.com/customer-stories/notion",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "ING Private Bank",
+    "tool": "Miro",
+    "source_url": "https://miro.com/customers/ing/",
+    "final_url": "https://miro.com/customers/ing/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Airbus",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/16/microsoft-and-airbus-announce-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/07/16/microsoft-and-airbus-announce-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Zendesk",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/zendesk",
+    "final_url": "https://slack.com/customer-stories",
+    "http_status": 200,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Mizuho Financial Group",
+    "tool": "Google Workspace",
+    "source_url": "https://workspace.google.com/intl/en/customer-stories/mizuho/",
+    "final_url": "https://workspace.google.com/intl/en/customer-stories/mizuho/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Banco do Brasil",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/banco-do-brasil.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Hermes",
+    "tool": "Google Cloud",
+    "source_url": "https://cloud.google.com/customers/hermes/",
+    "final_url": "https://cloud.google.com/customers",
+    "http_status": 200,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Capitec Bank",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/capitec-bank.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Mitsubishi UFJ Financial Group",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/11/microsoft-and-mufg-announce-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/06/11/microsoft-and-mufg-announce-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Nippon Telegraph & Telephone",
+    "tool": "Google Workspace",
+    "source_url": "https://workspace.google.com/intl/en/customer-stories/ntt/",
+    "final_url": "https://workspace.google.com/intl/en/customer-stories/ntt/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Kyocera",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/kyocera",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/kyocera",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "ING Private Bank",
+    "tool": "Slack",
+    "source_url": "https://www.ing.com/Newsroom/All-news/ING-launches-new-way-of-working.htm",
+    "final_url": "https://ing.com/Newsroom/All-news/ING-launches-new-way-of-working.htm",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "TDK",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/tdk",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/tdk",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Denso",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/08/microsoft-and-denso-announce-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/07/08/microsoft-and-denso-announce-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Sumitomo Chemical",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/sumitomo-chemical",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/sumitomo-chemical",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Kyocera",
+    "tool": "Google Cloud",
+    "source_url": "https://cloud.google.com/customers/kyocera/",
+    "final_url": "https://cloud.google.com/customers/kyocera/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Yamaha Corporation",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/yamaha",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/yamaha",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "L'Oréal",
+    "tool": "Google Workspace",
+    "source_url": "https://workspace.google.com/intl/en/customer-stories/loreal/",
+    "final_url": "https://workspace.google.com/intl/en/customer-stories/loreal/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Fast Retailing",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/26/microsoft-and-fast-retailing-announce-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/08/26/microsoft-and-fast-retailing-announce-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Yamaha Corporation",
+    "tool": "Google Cloud",
+    "source_url": "https://cloud.google.com/customers/yamaha/",
+    "final_url": "https://cloud.google.com/customers/yamaha/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Skanska",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-se/business/success-stories/skanska",
+    "final_url": "https://www.microsoft.com/en-se/business/success-stories/skanska",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Solvay",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-be/business/success-stories/solvay",
+    "final_url": "https://www.microsoft.com/en-be/business/success-stories/solvay",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Ageas",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-be/business/success-stories/ageas",
+    "final_url": "https://www.microsoft.com/en-be/business/success-stories/ageas",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Solvay",
+    "tool": "Google Cloud",
+    "source_url": "https://cloud.google.com/customers/solvay/",
+    "final_url": "https://cloud.google.com/customers",
+    "http_status": 200,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Neo4j",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/neo4j/",
+    "final_url": "https://aws.amazon.com/case-studies/neo4j/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Terraform Labs",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/terraform/",
+    "final_url": "https://aws.amazon.com/case-studies/terraform/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Jira",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/jira/",
+    "final_url": "https://aws.amazon.com/case-studies/jira/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Neo4j",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/neo4j",
+    "final_url": "https://slack.com/customer-stories/neo4j",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Jira",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/jira",
+    "final_url": "https://slack.com/customer-stories/jira",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Terraform Labs",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/terraform",
+    "final_url": "https://slack.com/customer-stories/terraform",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "MySQL (Oracle)",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/mysql/",
+    "final_url": "https://aws.amazon.com/case-studies/mysql/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "PostgreSQL",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/postgresql",
+    "final_url": "https://slack.com/customer-stories/postgresql",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "MySQL (Oracle)",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/mysql",
+    "final_url": "https://slack.com/customer-stories/mysql",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "BBVA Peru",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-pe/business/success-stories/bbva-peru",
+    "final_url": "https://www.microsoft.com/en-pe/business/success-stories/bbva-peru",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Airbus",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/airbus.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "KBC Bank Private",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/kbc.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Mitsubishi UFJ Financial Group",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/mitsubishi-ufj.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Asahi Kasei",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/asahi-kasei.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Mitsubishi Chemical Holdings",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/mitsubishi-chemical.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Singtel",
+    "tool": "Cisco Webex",
+    "source_url": "https://www.cisco.com/c/en/us/about/sustainability/customer-success-stories/singtel.html",
+    "final_url": "https://www.cisco.com/c/en/us/about/sustainability/customer-success-stories/singtel.html",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Mitsui Chemicals",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/mitsui-chemicals.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Sea Limited",
+    "tool": "Google Workspace",
+    "source_url": "https://workspace.google.com/intl/en/customer-stories/sea-group/",
+    "final_url": "https://workspace.google.com/intl/en/customer-stories/sea-group/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Sea Limited",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/sea-limited/",
+    "final_url": "https://aws.amazon.com/case-studies/sea-limited/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "PT Bank Central Asia (BCA)",
+    "tool": "Microsoft 365",
+    "source_url": "https://www.microsoft.com/en-id/business/success-stories/bca",
+    "final_url": "https://www.microsoft.com/en-id/business/success-stories/bca",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Dai-ichi Life",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/dai-ichi-life.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "GoTo",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/gotogojek/",
+    "final_url": "https://aws.amazon.com/case-studies/gotogojek/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Furukawa Electric",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/furukawa.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "SUMCO",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/sumco.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Sime Darby",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-us/microsoft-365/blog/2020/05/12/sime-darby-chooses-microsoft-teams/",
+    "final_url": "https://www.microsoft.com/en-us/microsoft-365/blog/2020/05/12/sime-darby-chooses-microsoft-teams/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "GoTo",
+    "tool": "Google Workspace",
+    "source_url": "https://workspace.google.com/intl/en/customer-stories/gotogojek/",
+    "final_url": "https://workspace.google.com/intl/en/customer-stories/gotogojek/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Kasikornbank",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-th/business/success-stories/kasikornbank",
+    "final_url": "https://www.microsoft.com/en-th/business/success-stories/kasikornbank",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Seven & I Holdings",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/seven-i-holdings.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Tata Consultancy Services",
+    "tool": "Microsoft 365",
+    "source_url": "https://www.tcs.com/content/dam/tcs/pdf/collateral/white-paper/microsoft-365-tcs.pdf",
+    "final_url": "https://www.tcs.com/content/dam/tcs/pdf/collateral/white-paper/microsoft-365-tcs.pdf",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Globe Telecom",
+    "tool": "Microsoft 365",
+    "source_url": "https://www.microsoft.com/en-ph/business/success-stories/globe-telecom",
+    "final_url": "https://www.microsoft.com/en-ph/business/success-stories/globe-telecom",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "PTT Public Company Limited",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/16/ptt-and-microsoft-announce-strategic-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/07/16/ptt-and-microsoft-announce-strategic-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Dangote Group",
+    "tool": "Microsoft 365",
+    "source_url": "https://www.microsoft.com/en-ng/business/success-stories/dangote-group",
+    "final_url": "https://www.microsoft.com/en-ng/business/success-stories/dangote-group",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Safran",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/safran.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Equity Bank Kenya",
+    "tool": "Google Workspace",
+    "source_url": "https://workspace.google.com/intl/en/customer-stories/equity-bank/",
+    "final_url": "https://workspace.google.com/intl/en/customer-stories/equity-bank/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Telefónica",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/telefonica.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Etisalat UAE",
+    "tool": "Cisco Webex",
+    "source_url": "https://www.cisco.com/c/en/us/about/sustainability/customer-success-stories/etisalat.html",
+    "final_url": "https://www.cisco.com/c/en/us/about/sustainability/customer-success-stories/etisalat.html",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Shoprite Holdings",
+    "tool": "Microsoft 365",
+    "source_url": "https://www.microsoft.com/en-za/business/success-stories/shoprite",
+    "final_url": "https://www.microsoft.com/en-za/business/success-stories/shoprite",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "OMV",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/omv.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Fawry",
+    "tool": "Microsoft 365",
+    "source_url": "https://www.microsoft.com/en-eg/business/success-stories/fawry",
+    "final_url": "https://www.microsoft.com/en-eg/business/success-stories/fawry",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "PKO Bank Polski",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/pko-bank-polski.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "QNB Group",
+    "tool": "Microsoft 365",
+    "source_url": "https://www.microsoft.com/en-qa/business/success-stories/qnb",
+    "final_url": "https://www.microsoft.com/en-qa/business/success-stories/qnb",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Corporación Favorita",
+    "tool": "Google Workspace",
+    "source_url": "https://workspace.google.com/intl/en/customer-stories/corporacion-favorita/",
+    "final_url": "https://workspace.google.com/intl/en/customer-stories/corporacion-favorita/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Corporación Favorita",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/corporacion-favorita/",
+    "final_url": "https://aws.amazon.com/case-studies/corporacion-favorita/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Banco de Mexico",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-mx/business/success-stories/banco-de-mexico",
+    "final_url": "https://www.microsoft.com/en-mx/business/success-stories/banco-de-mexico",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Banco de Bogota",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-co/business/success-stories/banco-de-bogota",
+    "final_url": "https://www.microsoft.com/en-co/business/success-stories/banco-de-bogota",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Galópagos",
+    "tool": "Microsoft 365",
+    "source_url": "https://www.microsoft.com/en-ar/business/success-stories/galapagos",
+    "final_url": "https://www.microsoft.com/en-ar/business/success-stories/galapagos",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Hankook Tire",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/hankook-tire.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Banco de Chile",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-cl/business/success-stories/banco-de-chile",
+    "final_url": "https://www.microsoft.com/en-cl/business/success-stories/banco-de-chile",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Cencosud",
+    "tool": "Microsoft 365",
+    "source_url": "https://www.microsoft.com/en-cl/business/success-stories/cencosud",
+    "final_url": "https://www.microsoft.com/en-cl/business/success-stories/cencosud",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Harvard University",
+    "tool": "Google Workspace",
+    "source_url": "https://workspace.google.com/intl/en/customer-stories/harvard/",
+    "final_url": "https://workspace.google.com/intl/en/customer-stories/harvard/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "NHS (National Health Service)",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-uk/health/industry/nhs",
+    "final_url": "https://www.microsoft.com/en-uk/health/industry/nhs",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Government of Canada",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/05/23/microsoft-and-government-of-canada-announce-strategic-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/05/23/microsoft-and-government-of-canada-announce-strategic-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "University of Tokyo",
+    "tool": "Google Workspace",
+    "source_url": "https://workspace.google.com/intl/en/customer-stories/university-of-tokyo/",
+    "final_url": "https://workspace.google.com/intl/en/customer-stories/university-of-tokyo/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Harvard University",
+    "tool": "Zoom",
+    "source_url": "https://zoom.us/customer/harvard-university",
+    "final_url": "https://zoom.us/customer/harvard-university",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Stanford University",
+    "tool": "Zoom",
+    "source_url": "https://zoom.us/customer/stanford-university",
+    "final_url": "https://zoom.us/customer/stanford-university",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "University of Tokyo",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/education/higher-education/university-of-tokyo",
+    "final_url": "https://www.microsoft.com/en-jp/education/higher-education/university-of-tokyo",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "National University of Singapore",
+    "tool": "Microsoft 365",
+    "source_url": "https://www.microsoft.com/en-sg/education/higher-education/nus",
+    "final_url": "https://www.microsoft.com/en-sg/education/higher-education/nus",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "National University of Singapore",
+    "tool": "Zoom",
+    "source_url": "https://zoom.us/customer/national-university-of-singapore",
+    "final_url": "https://zoom.us/customer/national-university-of-singapore",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Mobily",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/mobily.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Apollo Hospitals",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-in/business/success-stories/apollo-hospitals",
+    "final_url": "https://www.microsoft.com/en-in/business/success-stories/apollo-hospitals",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "MTN Uganda",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/mtn-uganda.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Vodacom Tanzania",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/vodacom-tanzania.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Lennar Corporation",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/06/14/microsoft-and-lennar-announce-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/06/14/microsoft-and-lennar-announce-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "MTN Ghana",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/mtn-ghana.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Prologis",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-us/business/success-stories/prologis",
+    "final_url": "https://www.microsoft.com/en-us/business/success-stories/prologis",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Tata Consultancy Services",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/tata-consultancy-services.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Bechtel",
+    "tool": "SAP",
+    "source_url": "https://www.sap.com/about/news/2019/03/07/bechtel-selects-sap-s4hana.html",
+    "final_url": "https://www.sap.com/about/news/2019/03/07/bechtel-selects-sap-s4hana.html",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "DBS Bank",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/dbs-bank.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "DMM.com",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/dmm/",
+    "final_url": "https://aws.amazon.com/case-studies/dmm/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "DMM.com",
+    "tool": "Google Workspace",
+    "source_url": "https://workspace.google.com/intl/en/customer-stories/dmm/",
+    "final_url": "https://workspace.google.com/intl/en/customer-stories/dmm/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Rakuten",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/rakuten",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/rakuten",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Recruit Holdings",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/recruit-holdings/",
+    "final_url": "https://aws.amazon.com/case-studies/recruit-holdings/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Toyota Industries",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/toyota-industries",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/toyota-industries",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Maybank",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/maybank.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Aisin Seiki",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/aisin",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/aisin",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Canon",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/canon",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/canon",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Daihatsu Motor Company",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/daihatsu",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/daihatsu",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Ayala Corporation",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/ayala-corporation.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Mitsubishi Heavy Industries",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/mitsubishi-heavy-industries",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/mitsubishi-heavy-industries",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Hino Motors",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/hino",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/hino",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Subaru Corporation",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/subaru",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/subaru",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "FirstBank of Nigeria",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/firstbank-of-nigeria.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Kawai Musical Instruments Manufacturing",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/kawai",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/kawai",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Yokohama Rubber Company",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/yokohama-rubber",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/yokohama-rubber",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Rwanda Development Board",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/rwanda-development-board.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Banque Misr",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/banque-misr.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "JFE Steel Corporation",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/jfe-steel",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/jfe-steel",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "UACJ Corporation",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/uacj",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/uacj",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Kobe Steel",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/kobe-steel",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/kobe-steel",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Nippon Light Metal Company",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/09/02/microsoft-and-nippon-light-metal-announce-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/09/02/microsoft-and-nippon-light-metal-announce-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Toray Industries",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-jp/business/success-stories/toray",
+    "final_url": "https://www.microsoft.com/en-jp/business/success-stories/toray",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Banco Macro",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/banco-macro.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Grupo Sura",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/grupo-sura.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Government of Canada",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/government-of-canada.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Australian Government",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/australian-government.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Suez",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-fr/business/success-stories/suez",
+    "final_url": "https://www.microsoft.com/en-fr/business/success-stories/suez",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Sopra Steria",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-fr/business/success-stories/soprasteria",
+    "final_url": "https://www.microsoft.com/en-fr/business/success-stories/soprasteria",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "NHS (National Health Service)",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/nhs.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Iliad",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-fr/business/success-stories/iliad",
+    "final_url": "https://www.microsoft.com/en-fr/business/success-stories/iliad",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "AXA France",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/11/microsoft-and-axa-announce-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/08/11/microsoft-and-axa-announce-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "CNP Assurances",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-fr/business/success-stories/cnp",
+    "final_url": "https://www.microsoft.com/en-fr/business/success-stories/cnp",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Tata Memorial Hospital",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/tata-memorial-hospital.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Lennar Corporation",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/lennar.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Telenet",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-be/business/success-stories/telenet",
+    "final_url": "https://www.microsoft.com/en-be/business/success-stories/telenet",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Colruyt Group",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-be/business/success-stories/colruyt",
+    "final_url": "https://www.microsoft.com/en-be/business/success-stories/colruyt",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Hanon Systems",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/hanon-systems.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Z Holdings",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/z-holdings.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Verbund",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-at/business/success-stories/verbund",
+    "final_url": "https://www.microsoft.com/en-at/business/success-stories/verbund",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Raiffeisen Bank International",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-at/business/success-stories/rbi",
+    "final_url": "https://www.microsoft.com/en-at/business/success-stories/rbi",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Alphabet",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/google",
+    "final_url": "https://slack.com/customer-stories/google",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "PagerDuty",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/pagerduty/",
+    "final_url": "https://aws.amazon.com/case-studies/pagerduty/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Sumitomo Rubber Industries",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/sumitomo-rubber.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "GitLab CI",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/gitlab-ci",
+    "final_url": "https://slack.com/customer-stories/gitlab-ci",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Nippon Steel Corporation",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/nippon-steel.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "VictorOps",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/victorops/",
+    "final_url": "https://aws.amazon.com/case-studies/victorops/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "PagerDuty",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/pagerduty",
+    "final_url": "https://slack.com/customer-stories/pagerduty",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Couchbase",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/couchbase/",
+    "final_url": "https://aws.amazon.com/case-studies/couchbase/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Opsgenie",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/opsgenie",
+    "final_url": "https://slack.com/customer-stories/opsgenie",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "VictorOps",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/victorops",
+    "final_url": "https://slack.com/customer-stories/victorops",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Couchbase",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/couchbase",
+    "final_url": "https://slack.com/customer-stories/couchbase",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Alps Electric",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/alps.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Mitsubishi Electric Automation",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/mitsubishi-electric-automation.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Apache Kafka",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/kafka",
+    "final_url": "https://slack.com/customer-stories/kafka",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Bouygues",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/bouygues.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "PyTorch",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/pytorch/",
+    "final_url": "https://aws.amazon.com/case-studies/pytorch/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Apache Hadoop",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/hadoop",
+    "final_url": "https://slack.com/customer-stories/hadoop",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Saint-Gobain",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/saint-gobain.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Scikit-learn",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/scikit-learn/",
+    "final_url": "https://aws.amazon.com/case-studies/scikit-learn/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "TensorFlow",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/tensorflow",
+    "final_url": "https://slack.com/customer-stories/tensorflow",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Accor",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/accor.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "PyTorch",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/pytorch",
+    "final_url": "https://slack.com/customer-stories/pytorch",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Keras",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/keras",
+    "final_url": "https://slack.com/customer-stories/keras",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "NumPy",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/numpy/",
+    "final_url": "https://aws.amazon.com/case-studies/numpy/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Scikit-learn",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/scikit-learn",
+    "final_url": "https://slack.com/customer-stories/scikit-learn",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Worldline",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/worldline.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Pandas",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/pandas",
+    "final_url": "https://slack.com/customer-stories/pandas",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "NumPy",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/numpy",
+    "final_url": "https://slack.com/customer-stories/numpy",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "DataCamp",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/datacamp/",
+    "final_url": "https://aws.amazon.com/case-studies/datacamp/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "AXA France",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/axa-france.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Jupyter",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/jupyter",
+    "final_url": "https://slack.com/customer-stories/jupyter",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Google Colab",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/colab",
+    "final_url": "https://slack.com/customer-stories/colab",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Udacity",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/udacity/",
+    "final_url": "https://aws.amazon.com/case-studies/udacity/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Kaggle",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/kaggle",
+    "final_url": "https://slack.com/customer-stories/kaggle",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Duolingo",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/duolingo/",
+    "final_url": "https://aws.amazon.com/case-studies/duolingo/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "DataCamp",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/datacamp",
+    "final_url": "https://slack.com/customer-stories/datacamp",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Valeo",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/valeo.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Coursera",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/coursera",
+    "final_url": "https://slack.com/customer-stories/coursera",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Udacity",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/udacity",
+    "final_url": "https://slack.com/customer-stories/udacity",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "edX",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/edx",
+    "final_url": "https://slack.com/customer-stories/edx",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Chegg",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/chegg/",
+    "final_url": "https://aws.amazon.com/case-studies/chegg/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Skillshare",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/skillshare/",
+    "final_url": "https://aws.amazon.com/case-studies/skillshare/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Plastic Omnium",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/plastic-omnium.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "O'Reilly Media",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/oreilly/",
+    "final_url": "https://aws.amazon.com/case-studies/oreilly/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Arkema",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/arkema.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Quizlet",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/quizlet",
+    "final_url": "https://slack.com/customer-stories/quizlet",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Proximus",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/proximus.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Manning Publications",
+    "tool": "AWS",
+    "source_url": "https://aws.amazon.com/case-studies/manning/",
+    "final_url": "https://aws.amazon.com/case-studies/manning/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Chegg",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/chegg",
+    "final_url": "https://slack.com/customer-stories/chegg",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "MasterClass",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/masterclass",
+    "final_url": "https://slack.com/customer-stories/masterclass",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Skillshare",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/skillshare",
+    "final_url": "https://slack.com/customer-stories/skillshare",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Quizlet",
+    "tool": "Google Cloud",
+    "source_url": "https://cloud.google.com/customers/quizlet/",
+    "final_url": "https://cloud.google.com/customers",
+    "http_status": 200,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Pluralsight",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/pluralsight",
+    "final_url": "https://slack.com/customer-stories/pluralsight",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "O'Reilly Media",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/oreilly",
+    "final_url": "https://slack.com/customer-stories/oreilly",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Duolingo",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/duolingo",
+    "final_url": "https://slack.com/customer-stories",
+    "http_status": 200,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Packt",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/packt",
+    "final_url": "https://slack.com/customer-stories/packt",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Manning Publications",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/manning",
+    "final_url": "https://slack.com/customer-stories/manning",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Delhaize Group",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/delhaize.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Sibelco",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/sibelco.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Orange Polska",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/08/13/microsoft-and-orange-polska-announce-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/08/13/microsoft-and-orange-polska-announce-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Allegro",
+    "tool": "Microsoft Teams",
+    "source_url": "https://www.microsoft.com/en-pl/business/success-stories/allegro",
+    "final_url": "https://www.microsoft.com/en-pl/business/success-stories/allegro",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Bank Pekao",
+    "tool": "Microsoft Azure",
+    "source_url": "https://news.microsoft.com/2019/07/26/microsoft-and-bank-pekao-announce-partnership/",
+    "final_url": "https://news.microsoft.com/source/2019/07/26/microsoft-and-bank-pekao-announce-partnership/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Wienerberger",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/wienerberger.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "King (Candy Crush)",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/king/",
+    "final_url": "https://aws.amazon.com/solutions/case-studies/king/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Swarovski",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/swarovski.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "CCP Games",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/ccp-games/",
+    "final_url": "https://aws.amazon.com/solutions/case-studies/ccp-games/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "LEGO Group",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/lego",
+    "final_url": "https://slack.com/customer-stories/lego",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "IKEA",
+    "tool": "Microsoft Teams",
+    "source_url": "https://customers.microsoft.com/en-us/story/ikea-retailers-teams",
+    "final_url": "https://www.microsoft.com/en/customers/story/ikea-retailers-teams",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Xero",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/xero/",
+    "final_url": "https://aws.amazon.com/solutions/case-studies/xero/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "CCP Games",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/ccp-games",
+    "final_url": "https://slack.com/customer-stories/ccp-games",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Fisher & Paykel",
+    "tool": "Microsoft Dynamics 365",
+    "source_url": "https://customers.microsoft.com/en-us/story/fisher-paykel-appliances",
+    "final_url": "https://www.microsoft.com/en/customers/story/fisher-paykel-appliances",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Xero",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/xero",
+    "final_url": "https://slack.com/customer-stories",
+    "http_status": 200,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "OTP Bank",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/otp-bank.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Magyar Telekom",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/magyar-telekom.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Czech Telecom",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/czech-telecom.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Komercni Banka",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/komercni-banka.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Orange Polska",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/orange-polska.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Grupa Lotos",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/grupa-lotos.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Trafi",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/trafi/",
+    "final_url": "https://aws.amazon.com/solutions/case-studies/trafi/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Bank Pekao",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/bank-pekao.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Vinted",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/vinted",
+    "final_url": "https://slack.com/customer-stories/vinted",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Naspers",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/naspers.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Ecobank Transnational",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/ecobank.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Co-operative Bank of Kenya",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/co-op-bank.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Zain Saudi Arabia",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/zain-saudi.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Securitas",
+    "tool": "Microsoft 365",
+    "source_url": "https://customers.microsoft.com/en-us/story/securitas-security-sweden",
+    "final_url": "https://www.microsoft.com/en/customers/story/securitas-security-sweden",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "National Commercial Bank Saudi",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/ncb-saudi.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Banque Saudi Fransi",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/bsf.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "LEGO Group",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/lego/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Pipedrive",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/pipedrive/",
+    "final_url": "https://aws.amazon.com/solutions/case-studies/pipedrive/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "F-Secure",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/f-secure/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Telstra",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/telstra/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Telstra",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/telstra.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Skype Technologies (original)",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/skype/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Playtech",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/playtech/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Vilniaus Prekyba",
+    "tool": "Microsoft Dynamics 365",
+    "source_url": "https://customers.microsoft.com/en-us/story/vilniaus-prekyba-retail-lithuania",
+    "final_url": "https://www.microsoft.com/en/customers/story/vilniaus-prekyba-retail-lithuania",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Mode Analytics",
+    "tool": "Notion",
+    "source_url": "https://www.notion.so/customers/mode",
+    "final_url": "https://www.notion.com/customers/mode",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Blender Foundation",
+    "tool": "Notion",
+    "source_url": "https://www.notion.so/customers/blender",
+    "final_url": "https://www.notion.com/customers/blender",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "airBaltic",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/airbaltic/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "ASICS",
+    "tool": "Salesforce",
+    "source_url": "https://www.salesforce.com/customers/stories/asics/",
+    "final_url": "https://www.salesforce.com/customers/stories/asics/?bc=OTH",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Kylie Cosmetics",
+    "tool": "Shopify",
+    "source_url": "https://www.shopify.com/customers/kylie-cosmetics",
+    "final_url": "https://www.shopify.com/customers/kylie-cosmetics",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "T-Mobile",
+    "tool": "Salesforce",
+    "source_url": "https://www.salesforce.com/customers/stories/t-mobile/",
+    "final_url": "https://www.salesforce.com/customers/stories/t-mobile/?bc=OTH",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Verizon",
+    "tool": "Oracle",
+    "source_url": "https://www.oracle.com/customers/verizon/",
+    "final_url": "https://www.oracle.com/customers/verizon/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Whole Foods Market",
+    "tool": "Workday",
+    "source_url": "https://www.workday.com/en-us/customers/whole-foods-market.html",
+    "final_url": "https://www.workday.com/en-us/customers/whole-foods-market.html",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Bloomberg",
+    "tool": "Workday",
+    "source_url": "https://www.workday.com/en-us/customers/bloomberg.html",
+    "final_url": "https://www.workday.com/en-us/customers/bloomberg.html",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Quicken Loans",
+    "tool": "Workday",
+    "source_url": "https://www.workday.com/en-us/customers/quicken-loans.html",
+    "final_url": "https://www.workday.com/en-us/customers/quicken-loans.html",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Sandvik",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/sandvik/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "University of Pennsylvania",
+    "tool": "Workday",
+    "source_url": "https://www.workday.com/en-us/customers/university-of-pennsylvania.html",
+    "final_url": "https://www.workday.com/en-us/customers/university-of-pennsylvania.html",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Tetra Pak",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/tetra-pak/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Aker Solutions",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/aker-solutions/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Gensler",
+    "tool": "Autodesk",
+    "source_url": "https://www.autodesk.com/customers/gensler",
+    "final_url": "https://www.autodesk.com/customers/gensler",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "HOK",
+    "tool": "Autodesk",
+    "source_url": "https://www.autodesk.com/customers/hok",
+    "final_url": "https://www.autodesk.com/customers/hok",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "AECOM",
+    "tool": "Autodesk",
+    "source_url": "https://www.autodesk.com/customers/aecom",
+    "final_url": "https://www.autodesk.com/customers/aecom",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Carlsberg Group",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/carlsberg/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Nintendo Switch",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/nintendo/",
+    "final_url": "https://aws.amazon.com/solutions/case-studies/nintendo/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Metso",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/metso/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Sweetgreen",
+    "tool": "New Relic",
+    "source_url": "https://newrelic.com/customers/sweetgreen",
+    "final_url": "https://newrelic.com/customers/sweetgreen",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Konecranes",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/konecranes/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Telia Company",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/telia/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Mercado Libre",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/mercado-libre/",
+    "final_url": "https://aws.amazon.com/solutions/case-studies/mercado-libre/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Liontree",
+    "tool": "Monday.com",
+    "source_url": "https://monday.com/customers/liontree",
+    "final_url": "https://monday.com/customers/liontree",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Qantas",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/qantas/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "The Washington Post",
+    "tool": "Vercel",
+    "source_url": "https://vercel.com/customers/the-washington-post",
+    "final_url": "https://vercel.com/customers/the-washington-post",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "NPR",
+    "tool": "Vercel",
+    "source_url": "https://vercel.com/customers/npr",
+    "final_url": "https://vercel.com/customers/npr",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Vimcal",
+    "tool": "Framer",
+    "source_url": "https://www.framer.com/customers/vimcal",
+    "final_url": "https://www.framer.com/customers/vimcal",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Qantas",
+    "tool": "ServiceNow",
+    "source_url": "https://www.servicenow.com/customers/qantas.html",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "National Australia Bank (NAB)",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/national-australia-bank/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Fonterra",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/fonterra/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Arc",
+    "tool": "Figma",
+    "source_url": "https://www.figma.com/blog/designing-the-arc-browser/",
+    "final_url": "https://www.figma.com/blog/designing-the-arc-browser/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Teladoc Health",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/teladoc/",
+    "final_url": "https://aws.amazon.com/solutions/case-studies/teladoc/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Cox Communications",
+    "tool": "Splunk",
+    "source_url": "https://www.splunk.com/en_us/customers/cox-communications.html",
+    "final_url": "https://www.splunk.com/en_us/customers/cox-communications.html",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Spark New Zealand",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/spark/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Hertz",
+    "tool": "Splunk",
+    "source_url": "https://www.splunk.com/en_us/customers/hertz.html",
+    "final_url": "https://www.splunk.com/en_us/customers/hertz.html",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Calm",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/calm/",
+    "final_url": "https://aws.amazon.com/solutions/case-studies/calm/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Linear (tool user)",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customer-stories/linear",
+    "final_url": "https://slack.com/customer-stories/linear",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Farmers Business Network",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/fbn/",
+    "final_url": "https://aws.amazon.com/solutions/case-studies/fbn/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "LegalZoom",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/legalzoom/",
+    "final_url": "https://aws.amazon.com/solutions/case-studies/legalzoom/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Dribbble",
+    "tool": "Webflow",
+    "source_url": "https://webflow.com/customers/dribbble",
+    "final_url": "https://webflow.com/customers/dribbble",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Citadele Bank",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/citadele/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Omniva",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/omniva/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Luminor Bank",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/luminor/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Root Insurance",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/root-insurance/",
+    "final_url": "https://aws.amazon.com/solutions/case-studies/root-insurance/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Outreach",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/outreach/",
+    "final_url": "https://aws.amazon.com/solutions/case-studies/outreach/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Convoy",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/convoy/",
+    "final_url": "https://aws.amazon.com/solutions/case-studies/",
+    "http_status": 200,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Totango",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/totango/",
+    "final_url": "https://aws.amazon.com/solutions/case-studies/totango/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Discovery (streaming)",
+    "tool": "Amazon Web Services",
+    "source_url": "https://aws.amazon.com/solutions/case-studies/discovery/",
+    "final_url": "https://aws.amazon.com/solutions/case-studies/discovery/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Fannie Mae",
+    "tool": "Asana",
+    "source_url": "https://asana.com/customers/fannie-mae",
+    "final_url": "https://asana.com/customers/fannie-mae",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Swedbank Baltic",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/swedbank/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Walt Disney",
+    "tool": "Asana",
+    "source_url": "https://asana.com/customers/walt-disney",
+    "final_url": "https://asana.com/customers/walt-disney",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "SEB Bank Baltic",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/seb-bank/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Sunrun",
+    "tool": "Google Cloud",
+    "source_url": "https://cloud.google.com/customers/sunrun/",
+    "final_url": "https://cloud.google.com/customers",
+    "http_status": 200,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Lemonade",
+    "tool": "Google Cloud",
+    "source_url": "https://cloud.google.com/customers/lemonade/",
+    "final_url": "https://cloud.google.com/customers",
+    "http_status": 200,
+    "reason": "root_or_listing_page",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "American Water Works",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/american-water-works",
+    "final_url": "https://www.notion.com/customers/american-water-works",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Comcast",
+    "tool": "Miro",
+    "source_url": "https://miro.com/customers/comcast",
+    "final_url": "https://miro.com/customers/comcast/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Auga Group",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/auga-group/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "tool": "Miro",
+    "source_url": "https://miro.com/customers/bristol-myers-squibb",
+    "final_url": "https://miro.com/customers/bristol-myers-squibb/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Plains GP Holdings",
+    "tool": "Miro",
+    "source_url": "https://miro.com/customers/plains-gp-holdings",
+    "final_url": "https://miro.com/customers/plains-gp-holdings/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "United Airlines Holdings",
+    "tool": "Miro",
+    "source_url": "https://miro.com/customers/united-airlines-holdings",
+    "final_url": "https://miro.com/customers/united-airlines-holdings/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "State Farm Insurance",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/state-farm-insurance",
+    "final_url": "https://slack.com/customer-stories/state-farm-insurance",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "HP",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/hp",
+    "final_url": "https://slack.com/customer-stories/hp",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "TJX",
+    "tool": "Figma",
+    "source_url": "https://figma.com/customers/tjx",
+    "final_url": "https://www.figma.com/customers/tjx/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Brunswick",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/brunswick",
+    "final_url": "https://www.notion.com/customers/brunswick",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "C.H. Robinson",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/ch-robinson",
+    "final_url": "https://www.notion.com/customers/ch-robinson",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "American Airlines Group",
+    "tool": "Figma",
+    "source_url": "https://figma.com/customers/american-airlines-group",
+    "final_url": "https://www.figma.com/customers/american-airlines-group/",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Dentsply Sirona",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/dentsply-sirona",
+    "final_url": "https://www.notion.com/customers/dentsply-sirona",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Arrow Electronics",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/arrow-electronics",
+    "final_url": "https://slack.com/customer-stories/arrow-electronics",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "HP",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/hp",
+    "final_url": "https://zoom.us/customers/hp",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Dow Inc",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/dow-inc",
+    "final_url": "https://www.notion.com/customers/dow-inc",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Capital One Financial",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/capital-one-financial",
+    "final_url": "https://www.notion.com/customers/capital-one-financial",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "BorgWarner",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/borgwarner",
+    "final_url": "https://slack.com/customer-stories/borgwarner",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Allegion",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/allegion",
+    "final_url": "https://zoom.us/customers/allegion",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "F5 Networks",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/f5-networks",
+    "final_url": "https://www.notion.com/customers/f5-networks",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Arrow Electronics",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/arrow-electronics",
+    "final_url": "https://zoom.us/customers/arrow-electronics",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "ASAHI",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/asahi",
+    "final_url": "https://zoom.us/customers/asahi",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Fisher Scientific",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/fisher-scientific",
+    "final_url": "https://www.notion.com/customers/fisher-scientific",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Corning",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/corning",
+    "final_url": "https://slack.com/customer-stories/corning",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "DTE Energy",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/dte-energy",
+    "final_url": "https://slack.com/customer-stories/dte-energy",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Health Net",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/health-net",
+    "final_url": "https://www.notion.com/customers/health-net",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "IAC",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/iac",
+    "final_url": "https://www.notion.com/customers/iac",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Citizens Financial",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/citizens-financial",
+    "final_url": "https://zoom.us/customers/citizens-financial",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Invitation Homes",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/invitation-homes",
+    "final_url": "https://www.notion.com/customers/invitation-homes",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Jones Lang LaSalle",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/jones-lang-lasalle",
+    "final_url": "https://www.notion.com/customers/jones-lang-lasalle",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "DuPont de Nemours",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/dupont-de-nemours",
+    "final_url": "https://slack.com/customer-stories/dupont-de-nemours",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Gartner",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/gartner",
+    "final_url": "https://slack.com/customer-stories/gartner",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "H&R Block",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/h&r-block",
+    "final_url": "https://slack.com/customer-stories/h&r-block",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Huntington Bancshares",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/huntington-bancshares",
+    "final_url": "https://slack.com/customer-stories/huntington-bancshares",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "DuPont de Nemours",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/dupont-de-nemours",
+    "final_url": "https://zoom.us/customers/dupont-de-nemours",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Liberty Global",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/liberty-global",
+    "final_url": "https://www.notion.com/customers/liberty-global",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "J.B. Hunt Transport Services",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/jb-hunt-transport-services",
+    "final_url": "https://slack.com/customer-stories/jb-hunt-transport-services",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Loews Corporation",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/loews-corporation",
+    "final_url": "https://www.notion.com/customers/loews-corporation",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Hewlett Packard Enterprise",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/hewlett-packard-enterprise",
+    "final_url": "https://zoom.us/customers/hewlett-packard-enterprise",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "H&R Block",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/h&r-block",
+    "final_url": "https://zoom.us/customers/h&r-block",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "LyondellBasell",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/lyondellbasell",
+    "final_url": "https://www.notion.com/customers/lyondellbasell",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Ingredion",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/ingredion",
+    "final_url": "https://zoom.us/customers/ingredion",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Kennametal",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/kennametal",
+    "final_url": "https://slack.com/customer-stories/kennametal",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Merck & Co.",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/merck-&-co",
+    "final_url": "https://www.notion.com/customers/merck-&-co",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "KeyCorp",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/keycorp",
+    "final_url": "https://slack.com/customer-stories/keycorp",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "IAC",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/iac",
+    "final_url": "https://zoom.us/customers/iac",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Live Nation Entertainment",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/live-nation-entertainment",
+    "final_url": "https://slack.com/customer-stories/live-nation-entertainment",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Mylan",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/mylan",
+    "final_url": "https://www.notion.com/customers/mylan",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Kennametal",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/kennametal",
+    "final_url": "https://zoom.us/customers/kennametal",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Discovery Limited",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/discovery/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "HSBC Hong Kong",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/hsbc/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Turkish Airlines",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/turkish-airlines/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "ASML",
+    "tool": "Microsoft Azure",
+    "source_url": "https://azure.microsoft.com/en-us/customers/asml/",
+    "final_url": "",
+    "http_status": null,
+    "reason": "network_error",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Old Republic International",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/old-republic-international",
+    "final_url": "https://www.notion.com/customers/old-republic-international",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Otis Worldwide",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/otis-worldwide",
+    "final_url": "https://www.notion.com/customers/otis-worldwide",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Lululemon Athletica",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/lululemon-athletica",
+    "final_url": "https://slack.com/customer-stories/lululemon-athletica",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Landstar System",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/landstar-system",
+    "final_url": "https://zoom.us/customers/landstar-system",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Pentair",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/pentair",
+    "final_url": "https://www.notion.com/customers/pentair",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Qwest",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/qwest",
+    "final_url": "https://www.notion.com/customers/qwest",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "LyondellBasell",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/lyondellbasell",
+    "final_url": "https://zoom.us/customers/lyondellbasell",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Sky",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/sky",
+    "final_url": "https://www.notion.com/customers/sky",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "StoneX Group",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/stonex-group",
+    "final_url": "https://www.notion.com/customers/stonex-group",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "ResMed",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/resmed",
+    "final_url": "https://www.notion.com/customers/resmed",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Nielsen Holdings",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/nielsen-holdings",
+    "final_url": "https://slack.com/customer-stories/nielsen-holdings",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Nucor",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/nucor",
+    "final_url": "https://slack.com/customer-stories/nucor",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Parker-Hannifin",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/parker-hannifin",
+    "final_url": "https://slack.com/customer-stories/parker-hannifin",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Penske Automotive Group",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/penske-automotive-group",
+    "final_url": "https://slack.com/customer-stories/penske-automotive-group",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Pitney Bowes",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/pitney-bowes",
+    "final_url": "https://slack.com/customer-stories/pitney-bowes",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "U.S. Bancorp",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/us-bancorp",
+    "final_url": "https://www.notion.com/customers/us-bancorp",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "US Foods Holding",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/us-foods-holding",
+    "final_url": "https://www.notion.com/customers/us-foods-holding",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Varian Medical Systems",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/varian-medical-systems",
+    "final_url": "https://www.notion.com/customers/varian-medical-systems",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Norfolk Southern",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/norfolk-southern",
+    "final_url": "https://zoom.us/customers/norfolk-southern",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Nikola Corporation",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/nikola-corporation",
+    "final_url": "https://zoom.us/customers/nikola-corporation",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "TransDigm Group",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/transdigm-group",
+    "final_url": "https://www.notion.com/customers/transdigm-group",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Vornado Realty Trust",
+    "tool": "Notion",
+    "source_url": "https://notion.com/customers/vornado-realty-trust",
+    "final_url": "https://www.notion.com/customers/vornado-realty-trust",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Stanley Black & Decker",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/stanley-black-&-decker",
+    "final_url": "https://slack.com/customer-stories/stanley-black-&-decker",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Rohm & Haas",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/rohm-&-haas",
+    "final_url": "https://slack.com/customer-stories/rohm-&-haas",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "StoneX Group",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/stonex-group",
+    "final_url": "https://slack.com/customer-stories/stonex-group",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "The Home Depot",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/the-home-depot",
+    "final_url": "https://slack.com/customer-stories/the-home-depot",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Te Connectivity",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/te-connectivity",
+    "final_url": "https://slack.com/customer-stories/te-connectivity",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Swire Pacific",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/swire-pacific",
+    "final_url": "https://zoom.us/customers/swire-pacific",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "T. Rowe Price Group",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/t-rowe-price-group",
+    "final_url": "https://zoom.us/customers/t-rowe-price-group",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "St. Jude Medical",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/st-jude-medical",
+    "final_url": "https://zoom.us/customers/st-jude-medical",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "State Street Corporation",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/state-street-corporation",
+    "final_url": "https://zoom.us/customers/state-street-corporation",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "The Travelers Companies",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/the-travelers-companies",
+    "final_url": "https://slack.com/customer-stories/the-travelers-companies",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "The Kroger Company",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/the-kroger-company",
+    "final_url": "https://slack.com/customer-stories/the-kroger-company",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "TPG Inc.",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/tpg-inc",
+    "final_url": "https://zoom.us/customers/tpg-inc",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "West Pharmaceutical Services",
+    "tool": "Slack",
+    "source_url": "https://slack.com/customers/west-pharmaceutical-services",
+    "final_url": "https://slack.com/customer-stories/west-pharmaceutical-services",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Unum Group",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/unum-group",
+    "final_url": "https://zoom.us/customers/unum-group",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Viatris",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/viatris",
+    "final_url": "https://zoom.us/customers/viatris",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Weyerhaeuser",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/weyerhaeuser",
+    "final_url": "https://zoom.us/customers/weyerhaeuser",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Yum! Brands",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/yum!-brands",
+    "final_url": "https://zoom.us/customers/yum!-brands",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  },
+  {
+    "company": "Vodafone Group",
+    "tool": "Zoom",
+    "source_url": "https://zoom.com/customers/vodafone-group",
+    "final_url": "https://zoom.us/customers/vodafone-group",
+    "http_status": 404,
+    "reason": "http_404",
+    "checked_at": "2026-02-21T04:19:55+00:00"
+  }
+]

@@ -1,0 +1,5954 @@
+[
+  {
+    "company": "Aboitiz Foods",
+    "domain": "aboitiz.com",
+    "industry": "Food",
+    "tools": [
+      {
+        "name": "Smartsheet",
+        "use_case": "Committed to nourishing Asia's future with scalable, efficient project management from mill to meal",
+        "source_url": "https://www.smartsheet.com/customers/aboitizfoods",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.smartsheet.com/customers/aboitizfoods",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Accor",
+    "domain": "group.accor.com",
+    "industry": "France",
+    "tools": [
+      {
+        "name": "Figma",
+        "use_case": "Design systems 및 AI 도구를 활용한 효율성, 전략 및 감정 개선 워크플로우 혁신",
+        "source_url": "https://www.figma.com/customers/how-accor-uses-figmas-ai-tools-to-drive-efficiency-strategy-and-emotion/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.figma.com/customers/how-accor-uses-figmas-ai-tools-to-drive-efficiency-strategy-and-emotion/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Aeon",
+    "domain": "aeon.co.jp",
+    "industry": "Retail",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 소매 운영",
+        "source_url": "https://cloud.google.com/customers/aeon",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/aeon",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Ageas",
+    "domain": "ageas.com",
+    "industry": "Insurance",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 보험 서비스",
+        "source_url": "https://cloud.google.com/customers/ageas",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/ageas",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Air Liquide",
+    "domain": "airliquide.com",
+    "industry": "Industrial Gases",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 산업 가스",
+        "source_url": "https://cloud.google.com/customers/air-liquide",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/air-liquide",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Airtel Tanzania",
+    "domain": "airtel.co.tz",
+    "industry": "Tanzania",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 통신 서비스",
+        "source_url": "https://cloud.google.com/customers/airtel-tanzania",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/airtel-tanzania",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Aisin Seiki",
+    "domain": "aisin.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 자동차 부품 제조",
+        "source_url": "https://cloud.google.com/customers/aisin/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/aisin/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Al Rajhi Bank",
+    "domain": "alrajhibank.com",
+    "industry": "Financial Services/Banking",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 뱅킹 서비스",
+        "source_url": "https://cloud.google.com/customers/al-rajhi-bank",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/al-rajhi-bank",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Alinma Bank",
+    "domain": "alinma.com",
+    "industry": "Saudi Arabia",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 뱅킹 서비스",
+        "source_url": "https://cloud.google.com/customers/alinma-bank",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/alinma-bank",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Allegro",
+    "domain": "allegro.pl",
+    "industry": "Poland",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 전자상거래",
+        "source_url": "https://cloud.google.com/customers/allegro",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/allegro",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Alphabet",
+    "domain": "alphabet.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 인프라 및 AI 서비스",
+        "source_url": "https://cloud.google.com/customers/alphabet",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/alphabet",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Andritz",
+    "domain": "andritz.com",
+    "industry": "Austria",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 기계 장비",
+        "source_url": "https://cloud.google.com/customers/andritz",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/andritz",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Ansible",
+    "domain": "ansible.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 인프라 자동화",
+        "source_url": "https://cloud.google.com/customers/ansible",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/ansible",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Apache Beam",
+    "domain": "apachebeam.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 데이터 처리",
+        "source_url": "https://cloud.google.com/customers/beam",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/beam",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Apache Hadoop",
+    "domain": "hadoop.apache.org",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 빅데이터 처리",
+        "source_url": "https://cloud.google.com/customers/hadoop",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/hadoop",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Apache Kafka",
+    "domain": "kafka.apache.org",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 스트리밍 플랫폼",
+        "source_url": "https://cloud.google.com/customers/kafka",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/kafka",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Apollo Hospitals",
+    "domain": "apollohospitals.com",
+    "industry": "India",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "의료 데이터 관리 및 AI 활용",
+        "source_url": "https://cloud.google.com/customers/apollo-hospitals",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/apollo-hospitals",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Apple",
+    "domain": "apple.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 서비스 및 협업",
+        "source_url": "https://cloud.google.com/customers/apple",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/apple",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Automattic",
+    "domain": "automattic.com",
+    "industry": "Technology",
+    "tools": [
+      {
+        "name": "Linear",
+        "use_case": "Uses Linear for product development",
+        "source_url": "https://linear.app/customers/automattic",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://linear.app/customers/automattic",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "BBVA Peru",
+    "domain": "bbva.pe",
+    "industry": "Financial Services/Banking",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 뱅킹 서비스",
+        "source_url": "https://cloud.google.com/customers/bbva-peru",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/bbva-peru",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "BNP Paribas",
+    "domain": "bnpparibas.com",
+    "industry": "France",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 뱅킹 서비스",
+        "source_url": "https://cloud.google.com/customers/bnp-paribas",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/bnp-paribas",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Banco de Bogota",
+    "domain": "bancodebogota.com.co",
+    "industry": "Colombia",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 뱅킹 서비스",
+        "source_url": "https://cloud.google.com/customers/banco-de-bogota",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/banco-de-bogota",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Banco de Chile",
+    "domain": "bancochile.cl",
+    "industry": "Chile",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 뱅킹 서비스",
+        "source_url": "https://cloud.google.com/customers/banco-de-chile",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/banco-de-chile",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Banco de Mexico",
+    "domain": "banxico.org.mx",
+    "industry": "Mexico",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 금융 서비스",
+        "source_url": "https://cloud.google.com/customers/banco-de-mexico",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/banco-de-mexico",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Belfius",
+    "domain": "belfius.com",
+    "industry": "Belgium",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 뱅킹 서비스",
+        "source_url": "https://cloud.google.com/customers/belfius",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/belfius",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Better.com",
+    "domain": "better.com",
+    "industry": "FinTech/Proptech",
+    "country": "USA",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "Better.com uses Google Cloud for digital mortgage platform",
+        "source_url": "https://cloud.google.com/customers/better-com",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/better-com",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Binance",
+    "domain": "binance.com",
+    "industry": "Fintech",
+    "tools": [
+      {
+        "name": "Jira",
+        "use_case": "Uses Jira",
+        "source_url": "https://www.atlassian.com/software/jira",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.atlassian.com/software/jira",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Bolt",
+    "domain": "bolt.eu",
+    "industry": "Transportation",
+    "country": "Estonia",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "Bolt uses Google Cloud for ride-sharing platform infrastructure",
+        "source_url": "https://cloud.google.com/customers/bolt",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/bolt",
+        "evidence_title": "<!-- \"> '> --><title>"
+      },
+      {
+        "name": "Slack",
+        "use_case": "Bolt uses Slack for operations team collaboration",
+        "source_url": "https://slack.com/customer-stories/bolt",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://slack.com/customer-stories/bolt",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Booz Allen",
+    "domain": "boozallen.com",
+    "industry": "Consulting",
+    "tools": [
+      {
+        "name": "Mural",
+        "use_case": "Facilitated a large-scale, remote PI planning workshop with a U.S. government agency",
+        "source_url": "https://www.mural.co/case-studies/booz-allen",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.mural.co/case-studies/booz-allen",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Borealis",
+    "domain": "borealisgroup.com",
+    "industry": "Austria",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 화학 및 플라스틱",
+        "source_url": "https://cloud.google.com/customers/borealis",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/borealis",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Box",
+    "domain": "box.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 콘텐츠 관리",
+        "source_url": "https://cloud.google.com/customers/box",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/box",
+        "evidence_title": ""
+      },
+      {
+        "name": "Slack",
+        "use_case": "팀 협업 및 프로젝트 관리",
+        "source_url": "https://slack.com/customer-stories/box-story",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://slack.com/customer-stories/box-story",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Brex",
+    "domain": "brex.com",
+    "industry": "Fintech",
+    "tools": [
+      {
+        "name": "Linear",
+        "use_case": "Proved Linear's impact with a data-driven pilot",
+        "source_url": "https://linear.app/customers/brex",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://linear.app/customers/brex",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "CARS24",
+    "domain": "cars24.com",
+    "industry": "Automotive",
+    "tools": [
+      {
+        "name": "Figma",
+        "use_case": "인도 선도 오토테크 플랫폼의 디자인 혁신 및 8개 이상의 신규 비즈니스 확장",
+        "source_url": "https://www.figma.com/customers/driving-design-transformation-how-cars24-builds-faster-with-figma/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.figma.com/customers/driving-design-transformation-how-cars24-builds-faster-with-figma/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "CEZ Group",
+    "domain": "cez.cz",
+    "industry": "Czech Republic",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 에너지 서비스",
+        "source_url": "https://cloud.google.com/customers/cez-group",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/cez-group",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "CGI",
+    "domain": "cgi.com",
+    "industry": "IT Consulting",
+    "tools": [
+      {
+        "name": "GitLab",
+        "use_case": "Uses GitLab",
+        "source_url": "https://theirstack.com/en/technology/gitlab",
+        "source_type": "media_article",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://theirstack.com/en/technology/gitlab",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "CNP Assurances",
+    "domain": "cnp.fr",
+    "industry": "France",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 보험 서비스",
+        "source_url": "https://cloud.google.com/customers/cnp",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/cnp",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "CSUCI Extended University",
+    "domain": "csuci.edu",
+    "industry": "Education",
+    "tools": [
+      {
+        "name": "Airtable",
+        "use_case": "Transforms student tracking & program management",
+        "source_url": "https://www.airtable.com/customer-stories/csuci-extended-university",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.airtable.com/customer-stories/csuci-extended-university",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "California College of the Arts",
+    "domain": "cca.edu",
+    "industry": "Education",
+    "tools": [
+      {
+        "name": "Mural",
+        "use_case": "Faculty and students embraced digital collaboration during the pandemic and beyond",
+        "source_url": "https://www.mural.co/case-studies/california-college-of-the-arts",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.mural.co/case-studies/california-college-of-the-arts",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Canon",
+    "domain": "canon.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 이미징 솔루션",
+        "source_url": "https://cloud.google.com/customers/canon",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/canon",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Canva",
+    "domain": "canva.com",
+    "industry": "Technology/Design",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 디자인 플랫폼",
+        "source_url": "https://cloud.google.com/customers/canva",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/canva",
+        "evidence_title": "<!-- \"> '> --><title>"
+      },
+      {
+        "name": "Slack",
+        "use_case": "팀 협업 및 프로젝트 관리",
+        "source_url": "https://slack.com/customer-stories/canva-champions-productivity-platform-sustains-growth",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://slack.com/customer-stories/canva-champions-productivity-platform-sustains-growth",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Capco",
+    "domain": "capco.com",
+    "industry": "Consulting",
+    "tools": [
+      {
+        "name": "Mural",
+        "use_case": "Transformed CX using Mural, streamlining workflows, boosting collaboration, and shortening project timelines",
+        "source_url": "https://www.mural.co/case-studies/capco",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.mural.co/case-studies/capco",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Capgemini",
+    "domain": "capgemini.com",
+    "industry": "France",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 IT 서비스",
+        "source_url": "https://cloud.google.com/customers/capgemini",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/capgemini",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Carfax",
+    "domain": "carfax.com",
+    "industry": "Automotive",
+    "tools": [
+      {
+        "name": "GitLab",
+        "use_case": "Uses GitLab for software development",
+        "source_url": "https://about.gitlab.com/customers/carfax/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://about.gitlab.com/customers/carfax/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Cash App",
+    "domain": "cash.app",
+    "industry": "Fintech",
+    "tools": [
+      {
+        "name": "Linear",
+        "use_case": "Manages aggressive roadmaps with Linear",
+        "source_url": "https://linear.app/customers/cashapp",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://linear.app/customers/cashapp",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Cencosud",
+    "domain": "cencosud.cl",
+    "industry": "Chile",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 소매 시스템",
+        "source_url": "https://cloud.google.com/customers/cencosud",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/cencosud",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "CircleCI",
+    "domain": "circleci.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 CI/CD",
+        "source_url": "https://cloud.google.com/customers/circleci",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/circleci",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Clay",
+    "domain": "clay.com",
+    "industry": "Technology",
+    "tools": [
+      {
+        "name": "Linear",
+        "use_case": "Uses Linear for product development",
+        "source_url": "https://linear.app/customers/clay",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://linear.app/customers/clay",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Clio",
+    "domain": "clio.com",
+    "industry": "Legal Technology",
+    "tools": [
+      {
+        "name": "Linear",
+        "use_case": "Helps engineering managers operate more efficiently",
+        "source_url": "https://linear.app/customers/clio",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://linear.app/customers/clio",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Colruyt Group",
+    "domain": "colruytgroup.com",
+    "industry": "Belgium",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 소매",
+        "source_url": "https://cloud.google.com/customers/colruyt",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/colruyt",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "CommBank",
+    "domain": "cba.com.au",
+    "industry": "Financial Services",
+    "tools": [
+      {
+        "name": "Figma",
+        "use_case": "팀을 결합하고 Figma로 디자인 워크플로우 간소화",
+        "source_url": "https://www.figma.com/customers/how-commbank-is-banking-on-collaboration/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.figma.com/customers/how-commbank-is-banking-on-collaboration/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Confluent",
+    "domain": "confluent.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 데이터 스트리밍",
+        "source_url": "https://cloud.google.com/customers/confluent",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/confluent",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Coupang",
+    "domain": "coupang.com",
+    "industry": "South Korea",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "데이터 분석 및 머신러닝",
+        "source_url": "https://cloud.google.com/customers/coupang",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/coupang",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Coursera",
+    "domain": "coursera.org",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 온라인 교육",
+        "source_url": "https://cloud.google.com/customers/coursera",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/coursera",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Credit Agricole",
+    "domain": "creditagricole.com",
+    "industry": "France",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 뱅킹 서비스",
+        "source_url": "https://cloud.google.com/customers/credit-agricole",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/credit-agricole",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Cube",
+    "domain": "cube.tech",
+    "industry": "Technology",
+    "tools": [
+      {
+        "name": "GitLab",
+        "use_case": "European tech company drives secure software with AI in GitLab Duo",
+        "source_url": "https://about.gitlab.com/customers/cube/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://about.gitlab.com/customers/cube/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Cursor",
+    "domain": "cursor.sh",
+    "industry": "Technology/AI",
+    "tools": [
+      {
+        "name": "Linear",
+        "use_case": "Uses Linear for product development",
+        "source_url": "https://linear.app/customers/cursor",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://linear.app/customers/cursor",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Customer.io",
+    "domain": "customer.io",
+    "industry": "Software",
+    "tools": [
+      {
+        "name": "Figma",
+        "use_case": "Dev Tools와 변수를 활용한 디자인 핸드오프 간소화",
+        "source_url": "https://www.figma.com/customers/how-customerio-simplifies-design-handoffs-with-variables-and-dev-mode/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.figma.com/customers/how-customerio-simplifies-design-handoffs-with-variables-and-dev-mode/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Daewoo Engineering & Construction",
+    "domain": "daewooec.com",
+    "industry": "South Korea",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 건설 프로젝트",
+        "source_url": "https://cloud.google.com/customers/daewoo-ec",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/daewoo-ec",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Daihatsu Motor Company",
+    "domain": "daihatsu.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 자동차 제조",
+        "source_url": "https://cloud.google.com/customers/daihatsu",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/daihatsu",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Dandelion Chocolate",
+    "domain": "dandelionchocolate.com",
+    "industry": "Consumer Goods",
+    "tools": [
+      {
+        "name": "Linear",
+        "use_case": "Uses Linear for product development",
+        "source_url": "https://linear.app/customers/dandelion-chocolate",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://linear.app/customers/dandelion-chocolate",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Dassault Aviation",
+    "domain": "dassault-aviation.com",
+    "industry": "Aerospace",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 항공 제조",
+        "source_url": "https://cloud.google.com/customers/dassault-aviation",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/dassault-aviation",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Datadog",
+    "domain": "datadog.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 모니터링 및 분석",
+        "source_url": "https://cloud.google.com/customers/datadog",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/datadog",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Deakin University REACH",
+    "domain": "deakin.edu.au",
+    "industry": "Education",
+    "tools": [
+      {
+        "name": "Smartsheet",
+        "use_case": "Recycling and Clean Energy Commercialisation Hub connects teams with Smartsheet to deliver clean energy and recycling breakthroughs",
+        "source_url": "https://www.smartsheet.com/customers/deakin-university-reach",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.smartsheet.com/customers/deakin-university-reach",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Docker",
+    "domain": "docker.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 컨테이너 플랫폼",
+        "source_url": "https://cloud.google.com/customers/docker",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/docker",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Dolby",
+    "domain": "dolby.com",
+    "industry": "Technology",
+    "country": "Norway",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "Dolby uses Google Cloud for audio and video processing",
+        "source_url": "https://cloud.google.com/customers/dolby",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/dolby",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "DoorDash",
+    "domain": "doordash.com",
+    "industry": "Food Delivery",
+    "tools": [
+      {
+        "name": "Coda",
+        "use_case": "Uses Coda for operational processes and technology development",
+        "source_url": "https://siliconangle.com/2021/07/08/coda-raises-100m-1-4b-valuation-unify-documents-spreadsheets/",
+        "source_type": "media_article",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://siliconangle.com/2021/07/08/coda-raises-100m-1-4b-valuation-unify-documents-spreadsheets/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Dunelm",
+    "domain": "dunelm.com",
+    "industry": "Retail",
+    "tools": [
+      {
+        "name": "GitLab",
+        "use_case": "Uses GitLab for software development",
+        "source_url": "https://about.gitlab.com/customers/dunelm/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://about.gitlab.com/customers/dunelm/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "E-Plan Exam",
+    "domain": "eplanexam.com",
+    "industry": "Construction",
+    "tools": [
+      {
+        "name": "Smartsheet",
+        "use_case": "Utilizes Smartsheet for optimizing building code reviews",
+        "source_url": "https://www.smartsheet.com/customers/e-plan-exam",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.smartsheet.com/customers/e-plan-exam",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "EPAM Systems",
+    "domain": "epam.com",
+    "industry": "IT Consulting",
+    "tools": [
+      {
+        "name": "GitLab",
+        "use_case": "Uses GitLab",
+        "source_url": "https://theirstack.com/en/technology/gitlab",
+        "source_type": "media_article",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://theirstack.com/en/technology/gitlab",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "East Japan Railway",
+    "domain": "jreast.co.jp",
+    "industry": "Railway/Transportation",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 철도 운영",
+        "source_url": "https://cloud.google.com/customers/jr-east",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/jr-east",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Eiffage",
+    "domain": "eiffage.com",
+    "industry": "France",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 건설 및 인프라",
+        "source_url": "https://cloud.google.com/customers/eiffage",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/eiffage",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Emerson",
+    "domain": "emerson.com",
+    "industry": "Technology",
+    "tools": [
+      {
+        "name": "Mural",
+        "use_case": "Teams transitioned to running workshops and training sessions virtually",
+        "source_url": "https://www.mural.co/case-studies/emerson",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.mural.co/case-studies/emerson",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Employment Hero",
+    "domain": "employmenthero.com",
+    "industry": "HR Technology",
+    "tools": [
+      {
+        "name": "Canva",
+        "use_case": "Fast-tracks content production from days to hours with Canva Enterprise",
+        "source_url": "https://www.canva.com/case-studies/employment-hero/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.canva.com/case-studies/employment-hero/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Engel & Völkers",
+    "domain": "engelvoelkers.com",
+    "industry": "Real Estate",
+    "tools": [
+      {
+        "name": "Canva",
+        "use_case": "Keeps luxury branding consistent across 900+ locations with Canva Enterprise",
+        "source_url": "https://www.canva.com/case-studies/engel-and-volkers/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.canva.com/case-studies/engel-and-volkers/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Engie",
+    "domain": "engie.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 에너지 솔루션",
+        "source_url": "https://cloud.google.com/customers/engie/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/engie/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Ericsson",
+    "domain": "ericsson.com",
+    "industry": "Telecommunications",
+    "tools": [
+      {
+        "name": "GitLab",
+        "use_case": "Cuts deployment time 50% with GitLab to deliver faster value to OSS/BSS customers",
+        "source_url": "https://about.gitlab.com/customers/ericsson/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://about.gitlab.com/customers/ericsson/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Erste Group",
+    "domain": "erstegroup.com",
+    "industry": "Financial Services",
+    "tools": [
+      {
+        "name": "Figma",
+        "use_case": "여러 사무실의 제품 빌더들을 정렬하고 더 나은 재무 건강을 위한 디자인",
+        "source_url": "https://www.figma.com/customers/erste-groupbetter-financial-health-by-design/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.figma.com/customers/erste-groupbetter-financial-health-by-design/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "EssilorLuxottica",
+    "domain": "essilorluxottica.com",
+    "industry": "Eyewear/Optics",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 안경 및 광학 제품",
+        "source_url": "https://cloud.google.com/customers/essilorluxottica",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/essilorluxottica",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Etsy",
+    "domain": "etsy.com",
+    "industry": "E-commerce",
+    "tools": [
+      {
+        "name": "Jira",
+        "use_case": "Uses Jira for project management",
+        "source_url": "https://www.atlassian.com/software/jira",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.atlassian.com/software/jira",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Expedia",
+    "domain": "expedia.com",
+    "industry": "Travel",
+    "tools": [
+      {
+        "name": "Airtable",
+        "use_case": "Uses Airtable for business operations",
+        "source_url": "https://foundationinc.co/lab/airtable-seo-strategy",
+        "source_type": "media_article",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://foundationinc.co/lab/airtable-seo-strategy",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Facebook",
+    "domain": "facebook.com",
+    "industry": "Technology",
+    "tools": [
+      {
+        "name": "Mural",
+        "use_case": "Tens of thousands of teams collaborate visually with MURAL",
+        "source_url": "https://www.mural.co/press-releases/series-c",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.mural.co/press-releases/series-c",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Fanatics",
+    "domain": "fanatics.com",
+    "industry": "Sports Merchandise",
+    "tools": [
+      {
+        "name": "GitLab",
+        "use_case": "Uses GitLab for software development",
+        "source_url": "https://about.gitlab.com/customers/fanatics/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://about.gitlab.com/customers/fanatics/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Fanuc",
+    "domain": "fanuc.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 CNC 및 로봇",
+        "source_url": "https://cloud.google.com/customers/fanuc",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/fanuc",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Faurecia",
+    "domain": "faurecia.com",
+    "industry": "France",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 자동차 부품",
+        "source_url": "https://cloud.google.com/customers/faurecia",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/faurecia",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Fawry",
+    "domain": "fawry.com",
+    "industry": "Egypt",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 결제 플랫폼",
+        "source_url": "https://cloud.google.com/customers/fawry",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/fawry",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Figma",
+    "domain": "figma.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 디자인 도구",
+        "source_url": "https://cloud.google.com/customers/figma",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/figma",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "FirstBank of Nigeria",
+    "domain": "firstbanknigeria.com",
+    "industry": "Nigeria",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 뱅킹 서비스",
+        "source_url": "https://cloud.google.com/customers/firstbank-nigeria",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/firstbank-nigeria",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Flexport",
+    "domain": "flexport.com",
+    "industry": "Logistics",
+    "country": "USA",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "Flexport uses Google Cloud for freight forwarding",
+        "source_url": "https://cloud.google.com/customers/flexport",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/flexport",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Flipkart",
+    "domain": "flipkart.com",
+    "industry": "E-commerce",
+    "tools": [
+      {
+        "name": "Figma",
+        "use_case": "인도 전자상거래 플랫폼의 디자인 비전 강화 및 광범위한 제품 생태계 통합",
+        "source_url": "https://www.figma.com/customers/how-flipkart-boosts-its-design-vision-for-indian-e-commerce-with-figma/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.figma.com/customers/how-flipkart-boosts-its-design-vision-for-indian-e-commerce-with-figma/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Forbes",
+    "domain": "forbes.com",
+    "industry": "Media",
+    "tools": [
+      {
+        "name": "Airtable",
+        "use_case": "Uses Airtable for business operations",
+        "source_url": "https://foundationinc.co/lab/airtable-seo-strategy",
+        "source_type": "media_article",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://foundationinc.co/lab/airtable-seo-strategy",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Free-Work",
+    "domain": "freework.com",
+    "industry": "Staffing",
+    "tools": [
+      {
+        "name": "GitLab",
+        "use_case": "Uses GitLab",
+        "source_url": "https://theirstack.com/en/technology/gitlab",
+        "source_type": "media_article",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://theirstack.com/en/technology/gitlab",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "GCB Bank",
+    "domain": "gcb.com.gh",
+    "industry": "Ghana",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 뱅킹 서비스",
+        "source_url": "https://cloud.google.com/customers/gcb-bank",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/gcb-bank",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "GSA",
+    "domain": "gsa.gov",
+    "industry": "Government",
+    "tools": [
+      {
+        "name": "Smartsheet",
+        "use_case": "Uses Smartsheet across departments to launch new initiatives",
+        "source_url": "https://www.smartsheet.com/content-center/news/strong-enterprise-adoption-earns-smartsheet-place-deloitte-fast-500-list-second-year",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.smartsheet.com/content-center/news/strong-enterprise-adoption-earns-smartsheet-place-deloitte-fast-500-list-second-year",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Gainsight",
+    "domain": "gainsight.com",
+    "industry": "Customer Success",
+    "country": "USA",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "Gainsight uses Google Cloud for customer success platform",
+        "source_url": "https://cloud.google.com/customers/gainsight",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/gainsight",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Galópagos",
+    "domain": "galapagos.com",
+    "industry": "Argentina",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기바 의약 개발",
+        "source_url": "https://cloud.google.com/customers/galapagos",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/galapagos",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "GitHub",
+    "domain": "github.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 코드 호스팅",
+        "source_url": "https://cloud.google.com/customers/github",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/github",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "GitHub Actions",
+    "domain": "githubactions.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 CI/CD",
+        "source_url": "https://cloud.google.com/customers/github-actions",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/github-actions",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "GitLab CI",
+    "domain": "docs.gitlab.com/ee/ci",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 CI/CD",
+        "source_url": "https://cloud.google.com/customers/gitlab-ci",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/gitlab-ci",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Globe Telecom",
+    "domain": "globe.com.ph",
+    "industry": "Philippines",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 통신 서비스",
+        "source_url": "https://cloud.google.com/customers/globe-telecom/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/globe-telecom/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Google",
+    "domain": "google.com",
+    "industry": "Technology",
+    "tools": [
+      {
+        "name": "Smartsheet",
+        "use_case": "Uses Smartsheet across departments to launch new initiatives",
+        "source_url": "https://www.smartsheet.com/content-center/news/strong-enterprise-adoption-earns-smartsheet-place-deloitte-fast-500-list-second-year",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.smartsheet.com/content-center/news/strong-enterprise-adoption-earns-smartsheet-place-deloitte-fast-500-list-second-year",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Google Colab",
+    "domain": "colab.research.google.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 머신러닝 노트북",
+        "source_url": "https://cloud.google.com/customers/colab",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/colab",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Grab",
+    "domain": "grab.com",
+    "industry": "Delivery",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 인프라 및 AI/ML 서비스",
+        "source_url": "https://cloud.google.com/customers/grab",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/grab",
+        "evidence_title": "<!-- \"> '> --><title>"
+      },
+      {
+        "name": "Slack",
+        "use_case": "팀 협업 및 통신",
+        "source_url": "https://slack.com/customer-stories/slack-saves-grab-100000s-hours",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://slack.com/customer-stories/slack-saves-grab-100000s-hours",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Grupo Mexico",
+    "domain": "grupomexico.com",
+    "industry": "Various",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 채굴 운영",
+        "source_url": "https://cloud.google.com/customers/grupo-mexico",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/grupo-mexico",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "HBO",
+    "domain": "hbo.com",
+    "industry": "Entertainment",
+    "tools": [
+      {
+        "name": "Airtable",
+        "use_case": "Uses Airtable for business operations",
+        "source_url": "https://foundationinc.co/lab/airtable-seo-strategy",
+        "source_type": "media_article",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://foundationinc.co/lab/airtable-seo-strategy",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "HPE",
+    "domain": "hpe.com",
+    "industry": "Technology",
+    "tools": [
+      {
+        "name": "Mural",
+        "use_case": "Accelerates customer obsessed innovation culture with Mural + LUMA System for cross-functional workshops",
+        "source_url": "https://www.mural.co/case-studies/hpe",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.mural.co/case-studies/hpe",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Han University",
+    "domain": "han.nl",
+    "industry": "Education",
+    "tools": [
+      {
+        "name": "Mural",
+        "use_case": "Researchers, caregivers, and neurodiverse adults used design thinking methodologies to create solutions for everyday challenges",
+        "source_url": "https://www.mural.co/case-studies/han-university",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.mural.co/case-studies/han-university",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Hana Financial Group",
+    "domain": "hanafn.com",
+    "industry": "South Korea",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 금융 서비스",
+        "source_url": "https://cloud.google.com/customers/hana-financial-group",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/hana-financial-group",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Headspace",
+    "domain": "headspace.com",
+    "industry": "HealthTech",
+    "country": "USA",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "Headspace uses Google Cloud for mindfulness platform",
+        "source_url": "https://cloud.google.com/customers/headspace",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/headspace",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Hilti",
+    "domain": "hilti.com",
+    "industry": "Construction",
+    "tools": [
+      {
+        "name": "GitLab",
+        "use_case": "Accelerated SDLC with CI/CD and robust security scanning. Achieved 400% increase in code checks, 50% shorter feedback loops, and 12x faster deployment time",
+        "source_url": "https://about.gitlab.com/customers/hilti/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://about.gitlab.com/customers/hilti/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Hino Motors",
+    "domain": "hino-global.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 상용차 제조",
+        "source_url": "https://cloud.google.com/customers/hino",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/hino",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Hitachi",
+    "domain": "hitachi.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "데이터 분석 및 AI 활용",
+        "source_url": "https://cloud.google.com/customers/hitachi/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/hitachi/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Hostinger",
+    "domain": "hostinger.com",
+    "industry": "Web Hosting",
+    "country": "Lithuania",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "Hostinger uses Google Cloud for web hosting infrastructure",
+        "source_url": "https://cloud.google.com/customers/hostinger",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/hostinger",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Hyosung",
+    "domain": "hyosung.com",
+    "industry": "South Korea",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 제조 운영",
+        "source_url": "https://cloud.google.com/customers/hyosung",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/hyosung",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Iliad",
+    "domain": "iliad.fr",
+    "industry": "France",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 통신 서비스",
+        "source_url": "https://cloud.google.com/customers/iliad",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/iliad",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Indigo Agriculture",
+    "domain": "indigoag.com",
+    "industry": "AgTech",
+    "country": "USA",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "Indigo uses Google Cloud for agricultural technology",
+        "source_url": "https://cloud.google.com/customers/indigo-ag",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/indigo-ag",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Instacart",
+    "domain": "instacart.com",
+    "industry": "Grocery",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 식료품 배달",
+        "source_url": "https://cloud.google.com/customers/instacart",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/instacart",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Intercom",
+    "domain": "intercom.com",
+    "industry": "Customer Service",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 고객 커뮤니케이션",
+        "source_url": "https://cloud.google.com/customers/intercom",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/intercom",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Iron Mountain",
+    "domain": "ironmountain.com",
+    "industry": "Data Management",
+    "tools": [
+      {
+        "name": "GitLab",
+        "use_case": "Uses GitLab for software development",
+        "source_url": "https://about.gitlab.com/customers/iron-mountain/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://about.gitlab.com/customers/iron-mountain/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "JFE Holdings",
+    "domain": "jfe-holdings.co.jp",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 철강 제조",
+        "source_url": "https://cloud.google.com/customers/jfe-holdings",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/jfe-holdings",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "JFE Steel Corporation",
+    "domain": "jfe-steel.co.jp",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 철강 제조",
+        "source_url": "https://cloud.google.com/customers/jfe-steel",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/jfe-steel",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Jacobs",
+    "domain": "jacobs.com",
+    "industry": "Engineering",
+    "tools": [
+      {
+        "name": "Mural",
+        "use_case": "Created a collaboration hub for their Focus 2023 initiative",
+        "source_url": "https://www.mural.co/case-studies/jacobs",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.mural.co/case-studies/jacobs",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Jupyter",
+    "domain": "jupyter.org",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 대화형 컴퓨팅",
+        "source_url": "https://cloud.google.com/customers/jupyter",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/jupyter",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Juspay",
+    "domain": "juspay.in",
+    "industry": "Financial Services",
+    "tools": [
+      {
+        "name": "Figma",
+        "use_case": "디자인에서 개발까지 5배 더 빠른 워크플로우 달성",
+        "source_url": "https://www.figma.com/customer/from-design-to-code-how-juspay-achieved-5x-faster-workflows-with-figma/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.figma.com/customer/from-design-to-code-how-juspay-achieved-5x-faster-workflows-with-figma/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "KB Financial Group",
+    "domain": "kbfg.com",
+    "industry": "South Korea",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 뱅킹 서비스",
+        "source_url": "https://cloud.google.com/customers/kb-financial-group",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/kb-financial-group",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "KCB Group Kenya",
+    "domain": "kcbbankgroup.com",
+    "industry": "Kenya",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 뱅킹 서비스",
+        "source_url": "https://cloud.google.com/customers/kcb-group",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/kcb-group",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "KDDI",
+    "domain": "kddi.com",
+    "industry": "Telecommunications",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 통신 서비스",
+        "source_url": "https://cloud.google.com/customers/kddi",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/kddi",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "KT Corporation",
+    "domain": "kt.com",
+    "industry": "South Korea",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 통신 서비스",
+        "source_url": "https://cloud.google.com/customers/kt",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/kt",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Kaggle",
+    "domain": "kaggle.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 데이터 과학 플랫폼",
+        "source_url": "https://cloud.google.com/customers/kaggle",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/kaggle",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Kakao",
+    "domain": "kakao.com",
+    "industry": "South Korea",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "AI 및 데이터 분석",
+        "source_url": "https://cloud.google.com/customers/kakao",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/kakao",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Kasikornbank",
+    "domain": "kasikornbank.com",
+    "industry": "Thailand",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 뱅킹 혁신",
+        "source_url": "https://cloud.google.com/customers/kasikornbank",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/kasikornbank",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Kawai Musical Instruments Manufacturing",
+    "domain": "kawai-global.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 악기 제조",
+        "source_url": "https://cloud.google.com/customers/kawai",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/kawai",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Keras",
+    "domain": "keras.io",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 딥러닝 API",
+        "source_url": "https://cloud.google.com/customers/keras",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/keras",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Kering",
+    "domain": "kering.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 럭셔리 브랜드",
+        "source_url": "https://cloud.google.com/customers/kering",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/kering",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Keyence",
+    "domain": "keyence.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 센서 및 계측기",
+        "source_url": "https://cloud.google.com/customers/keyence",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/keyence",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Khan Academy",
+    "domain": "khanacademy.org",
+    "industry": "EdTech",
+    "country": "USA",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "Khan Academy uses Google Cloud for free education platform",
+        "source_url": "https://cloud.google.com/customers/khan-academy/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/khan-academy/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Kia Corporation",
+    "domain": "kia.com",
+    "industry": "South Korea",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 자동차 서비스",
+        "source_url": "https://cloud.google.com/customers/kia/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/kia/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Knight Frank Australia",
+    "domain": "knightfrank.com.au",
+    "industry": "Real Estate",
+    "tools": [
+      {
+        "name": "Smartsheet",
+        "use_case": "Infused intelligence into every step of workflow by leveraging Smartsheet",
+        "source_url": "https://www.smartsheet.com/customers/knight-frank-australia",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.smartsheet.com/customers/knight-frank-australia",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Knight Frank India",
+    "domain": "knightfrank.co.in",
+    "industry": "Real Estate",
+    "tools": [
+      {
+        "name": "Smartsheet",
+        "use_case": "Consolidates projects in Smartsheet, gaining a single source of truth with help from Agilifly",
+        "source_url": "https://www.smartsheet.com/customers/knight-frank-india",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.smartsheet.com/customers/knight-frank-india",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Kobe Steel",
+    "domain": "kobelco.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 철강 제조",
+        "source_url": "https://cloud.google.com/customers/kobe-steel",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/kobe-steel",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Kraken",
+    "domain": "kraken.com",
+    "industry": "Fintech",
+    "tools": [
+      {
+        "name": "Jira",
+        "use_case": "Uses Jira",
+        "source_url": "https://www.atlassian.com/software/jira",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.atlassian.com/software/jira",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Kubernetes",
+    "domain": "kubernetes.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 컨테이너 오케스트레이션",
+        "source_url": "https://cloud.google.com/customers/kubernetes",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/kubernetes",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Kubota",
+    "domain": "kubota.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 농업 장비",
+        "source_url": "https://cloud.google.com/customers/kubota",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/kubota",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "LG CNS",
+    "domain": "lgcns.com",
+    "industry": "South Korea",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 서비스 및 IT 솔루션",
+        "source_url": "https://cloud.google.com/customers/lg-cns",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/lg-cns",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "LINE",
+    "domain": "line.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "AI 및 데이터 분석",
+        "source_url": "https://cloud.google.com/customers/line",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/line",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "LJ Hooker",
+    "domain": "ljhooker.com.au",
+    "industry": "Real Estate",
+    "tools": [
+      {
+        "name": "Canva",
+        "use_case": "Scales rebrand and cuts content creation time by 93% with Canva",
+        "source_url": "https://www.canva.com/case-studies/lj-hooker/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.canva.com/case-studies/lj-hooker/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Liberty Mutual",
+    "domain": "libertymutual.com",
+    "industry": "Fortune 1000 Seed",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "Liberty Mutual의 글로벌 팀이 Slack을 통해 실시간 협업을 구현하고 있습니다.",
+        "source_url": "https://slack.com/customer-stories/modernizing-how-teams-communicate",
+        "source_type": "vendor_spotlight",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://slack.com/customer-stories/modernizing-how-teams-communicate",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-20"
+  },
+  {
+    "company": "LinkedIn",
+    "domain": "linkedin.com",
+    "industry": "Social Network",
+    "tools": [
+      {
+        "name": "Jira",
+        "use_case": "Uses Jira for project management",
+        "source_url": "https://www.atlassian.com/software/jira",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.atlassian.com/software/jira",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Loblaw Digital",
+    "domain": "loblaw.ca",
+    "industry": "Retail",
+    "tools": [
+      {
+        "name": "Figma",
+        "use_case": "Figma Organization 플랜을 통한 14개 브랜드를 위한 연합형 디자인 시스템 구축",
+        "source_url": "https://www.figma.com/customers/how-loblaw-digital-built-a-federated-design-system-for-14-brands-with-figma/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.figma.com/customers/how-loblaw-digital-built-a-federated-design-system-for-14-brands-with-figma/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Lotos Group",
+    "domain": "lotos.pl",
+    "industry": "Poland",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 석유 및 가스",
+        "source_url": "https://cloud.google.com/customers/lotos-group",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/lotos-group",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Luxoft",
+    "domain": "luxoft.com",
+    "industry": "IT Consulting",
+    "tools": [
+      {
+        "name": "GitLab",
+        "use_case": "Uses GitLab",
+        "source_url": "https://theirstack.com/en/technology/gitlab",
+        "source_type": "media_article",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://theirstack.com/en/technology/gitlab",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Lyft",
+    "domain": "lyft.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 운송 플랫폼",
+        "source_url": "https://cloud.google.com/customers/lyft/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/lyft/",
+        "evidence_title": ""
+      },
+      {
+        "name": "Slack",
+        "use_case": "팀 협업 및 프로젝트 관리",
+        "source_url": "https://slack.com/customer-stories/mission-critical-sales-work-lyft-business",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://slack.com/customer-stories/mission-critical-sales-work-lyft-business",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "MGA Entertainment",
+    "domain": "mgae.com",
+    "industry": "Entertainment",
+    "tools": [
+      {
+        "name": "Airtable",
+        "use_case": "Slashes creative brief workflow by ~60% using Airtable",
+        "source_url": "https://www.airtable.com/customer-stories/mga-entertainment",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.airtable.com/customer-stories/mga-entertainment",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "MOL Group",
+    "domain": "mol.hu",
+    "industry": "Hungary",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 석유 및 가스",
+        "source_url": "https://cloud.google.com/customers/mol-group",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/mol-group",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "MUSIC to the Ears",
+    "domain": "musictotheears.org",
+    "industry": "Nonprofit",
+    "tools": [
+      {
+        "name": "Canva",
+        "use_case": "Uses Canva to reimagine K-12 creative pathways in Los Angeles",
+        "source_url": "https://www.canva.com/case-studies/music-to-the-ears/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.canva.com/case-studies/music-to-the-ears/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Mailchimp",
+    "domain": "mailchimp.com",
+    "industry": "Marketing",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 마케팅 자동화",
+        "source_url": "https://cloud.google.com/customers/mailchimp",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/mailchimp",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "MasterClass",
+    "domain": "masterclass.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 온라인 강의",
+        "source_url": "https://cloud.google.com/customers/masterclass",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/masterclass",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Mazda",
+    "domain": "mazda.com",
+    "industry": "Automotive",
+    "tools": [
+      {
+        "name": "Figma",
+        "use_case": "Figma와 Payload를 활용한 웹 개발 가속화 및 디지털 경험 재구상",
+        "source_url": "https://www.figma.com/customers/how-mazda-accelerated-web-development/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.figma.com/customers/how-mazda-accelerated-web-development/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Medium",
+    "domain": "medium.com",
+    "industry": "Media",
+    "tools": [
+      {
+        "name": "Airtable",
+        "use_case": "Uses Airtable for business operations",
+        "source_url": "https://foundationinc.co/lab/airtable-seo-strategy",
+        "source_type": "media_article",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://foundationinc.co/lab/airtable-seo-strategy",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Mercury",
+    "domain": "mercury.com",
+    "industry": "Fintech",
+    "tools": [
+      {
+        "name": "Linear",
+        "use_case": "Eliminated cluttered feedback with Linear Asks",
+        "source_url": "https://linear.app/customers/mercury",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://linear.app/customers/mercury",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Mercy Health",
+    "domain": "mercy.net",
+    "industry": "Healthcare",
+    "tools": [
+      {
+        "name": "Smartsheet",
+        "use_case": "Modernised outdated systems and unified hospitals, health services, and corporate teams using Smartsheet",
+        "source_url": "https://www.smartsheet.com/customers/mercy-health",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.smartsheet.com/customers/mercy-health",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Meta",
+    "domain": "meta.com",
+    "industry": "Technology",
+    "tools": [
+      {
+        "name": "Jira",
+        "use_case": "Uses Jira for project management",
+        "source_url": "https://www.atlassian.com/software/jira",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.atlassian.com/software/jira",
+        "evidence_title": ""
+      },
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 소셜 네트워크",
+        "source_url": "https://cloud.google.com/customers/meta",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/meta",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Michelin",
+    "domain": "michelin.com",
+    "industry": "Automotive/Tires",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 타이어 제조",
+        "source_url": "https://cloud.google.com/customers/michelin",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/michelin",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Mitsubishi Heavy Industries",
+    "domain": "mhi.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 중공업",
+        "source_url": "https://cloud.google.com/customers/mitsubishi-heavy-industries/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/mitsubishi-heavy-industries/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Monday.com",
+    "domain": "monday.com",
+    "industry": "Software",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 프로젝트 관리",
+        "source_url": "https://cloud.google.com/customers/mondaycom",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/mondaycom",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "MongoDB",
+    "domain": "mongodb.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 데이터베이스",
+        "source_url": "https://cloud.google.com/customers/mongodb",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/mongodb",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "NAVER",
+    "domain": "naver.com",
+    "industry": "South Korea",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "직원 1만 명의 업무 효율성 극대화, 글로벌 협업 강화, 보안 강화 및 사용자 만족도 향상",
+        "source_url": "https://naver.worksmobile.com/cases/naver/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://naver.worksmobile.com/cases/naver/",
+        "evidence_title": ""
+      },
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 검색 및 AI 서비스",
+        "source_url": "https://cloud.google.com/customers/naver",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/naver",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "NIO",
+    "domain": "nio.com",
+    "industry": "Automotive",
+    "tools": [
+      {
+        "name": "Figma",
+        "use_case": "빠른 혁신과 제품 전달을 위한 Figma 활용",
+        "source_url": "https://www.figma.com/customers/how-nio-innovated-and-delivered-at-speed-using-figma/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.figma.com/customers/how-nio-innovated-and-delivered-at-speed-using-figma/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Nidec",
+    "domain": "nidec.com",
+    "industry": "Electric Motors/Electronics",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 모터 제조",
+        "source_url": "https://cloud.google.com/customers/nidec",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/nidec",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Officeworks",
+    "domain": "officeworks.com.au",
+    "industry": "Retail",
+    "tools": [
+      {
+        "name": "Mural",
+        "use_case": "Using Mural for efficient and engaging collaboration across support offices",
+        "source_url": "https://www.mural.co/case-studies/officeworks",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.mural.co/case-studies/officeworks",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "On",
+    "domain": "on-running.com",
+    "industry": "Apparel/Footwear",
+    "tools": [
+      {
+        "name": "Figma",
+        "use_case": "디자인과 제품을 하나의 공간에 통합하여 더 빠르게 혁신",
+        "source_url": "https://www.figma.com/customers/how-on-brings-its-teams-together-to-innovate-at-pace/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.figma.com/customers/how-on-brings-its-teams-together-to-innovate-at-pace/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "OpenAI",
+    "domain": "openai.com",
+    "industry": "Technology/AI",
+    "tools": [
+      {
+        "name": "Linear",
+        "use_case": "Scaled to 3,000 users with Linear for product development",
+        "source_url": "https://linear.app/customers/openai",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://linear.app/customers/openai",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Opendoor",
+    "domain": "opendoor.com",
+    "industry": "Real Estate",
+    "tools": [
+      {
+        "name": "Linear",
+        "use_case": "Uses Linear for product development",
+        "source_url": "https://linear.app/customers/opendoor",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://linear.app/customers/opendoor",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Opsgenie",
+    "domain": "opsgenie.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 인시던트 관리",
+        "source_url": "https://cloud.google.com/customers/opsgenie",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/opsgenie",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Oscar Health",
+    "domain": "oscar.com",
+    "industry": "Healthcare",
+    "tools": [
+      {
+        "name": "Linear",
+        "use_case": "Uses Linear for product development",
+        "source_url": "https://linear.app/customers/oscar",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://linear.app/customers/oscar",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "PKN Orlen",
+    "domain": "orlen.pl",
+    "industry": "Energy/Oil & Gas",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 석유 및 가스",
+        "source_url": "https://cloud.google.com/customers/pkn-orlen",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/pkn-orlen",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "PKP Cargo",
+    "domain": "pkpcargo.pl",
+    "industry": "Poland",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 물류",
+        "source_url": "https://cloud.google.com/customers/pkp-cargo",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/pkp-cargo",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "POSCO Holdings",
+    "domain": "posco.com",
+    "industry": "South Korea",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 제철 운영",
+        "source_url": "https://cloud.google.com/customers/posco",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/posco",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "PT Bank Central Asia (BCA)",
+    "domain": "bca.co.id",
+    "industry": "Indonesia",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 뱅킹 플랫폼",
+        "source_url": "https://cloud.google.com/customers/bca",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/bca",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Packt",
+    "domain": "packtpub.com",
+    "industry": "United Kingdom",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 기술 출판",
+        "source_url": "https://cloud.google.com/customers/packt",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/packt",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Panasonic",
+    "domain": "panasonic.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 전자 제품 혁신",
+        "source_url": "https://cloud.google.com/customers/panasonic",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/panasonic",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Pandas",
+    "domain": "pandas.pydata.org",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 데이터 분석 라이브러리",
+        "source_url": "https://cloud.google.com/customers/pandas",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/pandas",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Pearson",
+    "domain": "pearson.com",
+    "industry": "Education",
+    "tools": [
+      {
+        "name": "Mural",
+        "use_case": "Education design team worked through geographic and cultural barriers to develop an education app",
+        "source_url": "https://www.mural.co/case-studies/pearson",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.mural.co/case-studies/pearson",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Peloton",
+    "domain": "onelink.to",
+    "industry": "Fitness",
+    "tools": [
+      {
+        "name": "Jira",
+        "use_case": "Uses Jira for project management",
+        "source_url": "https://www.atlassian.com/software/jira",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.atlassian.com/software/jira",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Pernod Ricard",
+    "domain": "pernod-ricard.com",
+    "industry": "Beverages/Alcohol",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 와인 및 증류주",
+        "source_url": "https://cloud.google.com/customers/pernod-ricard",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/pernod-ricard",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Peugeot",
+    "domain": "peugeot.com",
+    "industry": "France",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 자동차 제조",
+        "source_url": "https://cloud.google.com/customers/peugeot",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/peugeot",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Pleo",
+    "domain": "pleo.io",
+    "industry": "Fintech",
+    "tools": [
+      {
+        "name": "Linear",
+        "use_case": "Transitioned internal support workflows to Linear Asks",
+        "source_url": "https://linear.app/customers/pleo",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://linear.app/customers/pleo",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Pluralsight",
+    "domain": "pluralsight.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 기술 교육",
+        "source_url": "https://cloud.google.com/customers/pluralsight",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/pluralsight",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "PostgreSQL",
+    "domain": "postgresql.org",
+    "industry": "Technology/Database",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 오픈소스 데이터베이스",
+        "source_url": "https://cloud.google.com/customers/postgresql",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/postgresql",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Precision BioSciences",
+    "domain": "precisionbiosciences.com",
+    "industry": "Biotechnology",
+    "tools": [
+      {
+        "name": "Smartsheet",
+        "use_case": "Uses Smartsheet to optimize project resources and help advance gene editing",
+        "source_url": "https://www.smartsheet.com/customers/precision-biosciences",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.smartsheet.com/customers/precision-biosciences",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Prologis",
+    "domain": "prologis.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 부동산 관리",
+        "source_url": "https://cloud.google.com/customers/prologis",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/prologis",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Publicis Sapient",
+    "domain": "publicis.com",
+    "industry": "Advertising",
+    "tools": [
+      {
+        "name": "Mural",
+        "use_case": "Tens of thousands of teams collaborate visually with MURAL",
+        "source_url": "https://www.mural.co/press-releases/series-c",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.mural.co/press-releases/series-c",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "QNB Group",
+    "domain": "qnb.com",
+    "industry": "Qatar",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 뱅킹 서비스",
+        "source_url": "https://cloud.google.com/customers/qnb",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/qnb",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Radio France",
+    "domain": "radiofrance.com",
+    "industry": "Media",
+    "tools": [
+      {
+        "name": "Airtable",
+        "use_case": "Scaled editorial operations across 3.5M assets using Airtable",
+        "source_url": "https://www.airtable.com/customer-stories/radio-france",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.airtable.com/customer-stories/radio-france",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Raiffeisen Bank International",
+    "domain": "rbi.at",
+    "industry": "Austria",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 뱅킹 서비스",
+        "source_url": "https://cloud.google.com/customers/rbi",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/rbi",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Rakuten",
+    "domain": "rakuten.co.jp",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 전자상거래",
+        "source_url": "https://cloud.google.com/customers/rakuten",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/rakuten",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Ramp",
+    "domain": "ramp.com",
+    "industry": "Fintech",
+    "tools": [
+      {
+        "name": "Linear",
+        "use_case": "Scaled from 5 to 1,000+ employees with Linear",
+        "source_url": "https://linear.app/customers/ramp",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://linear.app/customers/ramp",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Recruit Holdings",
+    "domain": "recruit-holdings.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "데이터 분석 및 AI 활용",
+        "source_url": "https://cloud.google.com/customers/recruit-holdings",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/recruit-holdings",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Red Bull",
+    "domain": "redbull.com",
+    "industry": "Consumer Goods",
+    "tools": [
+      {
+        "name": "Airtable",
+        "use_case": "Speed up media and facility planning with Airtable",
+        "source_url": "https://www.airtable.com/customer-stories/red-bull",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.airtable.com/customer-stories/red-bull",
+        "evidence_title": ""
+      },
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 음료 및 마케팅",
+        "source_url": "https://cloud.google.com/customers/redbull",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/redbull",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Redis Labs",
+    "domain": "redislabs.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 인메모리 데이터베이스",
+        "source_url": "https://cloud.google.com/customers/redis",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/redis",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Rehlko",
+    "domain": "rehlko.com",
+    "industry": "Power Generation",
+    "tools": [
+      {
+        "name": "Smartsheet",
+        "use_case": "Delivers greater transparency to customers with real-time project insights using Smartsheet",
+        "source_url": "https://www.smartsheet.com/customers/rehlko",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.smartsheet.com/customers/rehlko",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Remote",
+    "domain": "remote.com",
+    "industry": "HR Technology",
+    "tools": [
+      {
+        "name": "Linear",
+        "use_case": "Uses Linear for product development",
+        "source_url": "https://linear.app/customers/remote",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://linear.app/customers/remote",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Retool",
+    "domain": "retool.com",
+    "industry": "Technology",
+    "tools": [
+      {
+        "name": "Linear",
+        "use_case": "Turns customer feedback into engineering work",
+        "source_url": "https://linear.app/customers/retool",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://linear.app/customers/retool",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Richter Gedeon",
+    "domain": "richter.hu",
+    "industry": "Hungary",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 제약 제조",
+        "source_url": "https://cloud.google.com/customers/richter-gedeon",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/richter-gedeon",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Robinhood",
+    "domain": "robinhood.com",
+    "industry": "Fintech",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 투자 플랫폼",
+        "source_url": "https://cloud.google.com/customers/robinhood",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/robinhood",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "SABB Saudi Arabia",
+    "domain": "sabb.com",
+    "industry": "Saudi Arabia",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 뱅킹 서비스",
+        "source_url": "https://cloud.google.com/customers/sabb",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/sabb",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "SK Innovation",
+    "domain": "skinnovation.com",
+    "industry": "South Korea",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "데이터 분석 및 AI 활용",
+        "source_url": "https://cloud.google.com/customers/sk-innovation",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/sk-innovation",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Saddle",
+    "domain": "saddle.com",
+    "industry": "Telecommunications",
+    "tools": [
+      {
+        "name": "Figma",
+        "use_case": "Figma Make를 활용한 2주 만에 아이디어에서 출시까지 실현",
+        "source_url": "https://www.figma.com/customers/figma-make-helps-saddle-go-from-idea-to-launch-in-2-weeks/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.figma.com/customers/figma-make-helps-saddle-go-from-idea-to-launch-in-2-weeks/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Safaricom Tanzania",
+    "domain": "safaricom.co.tz",
+    "industry": "Tanzania",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 통신 서비스",
+        "source_url": "https://cloud.google.com/customers/safaricom-tanzania",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/safaricom-tanzania",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Salesforce",
+    "domain": "salesforce.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 CRM",
+        "source_url": "https://cloud.google.com/customers/salesforce/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/salesforce/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Salesloft",
+    "domain": "salesloft.com",
+    "industry": "SalesTech",
+    "country": "USA",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "Salesloft uses Google Cloud for sales engagement platform",
+        "source_url": "https://cloud.google.com/customers/salesloft",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/salesloft",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Samsung C&T",
+    "domain": "samsungcnt.com",
+    "industry": "South Korea",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 건설 및 무역",
+        "source_url": "https://cloud.google.com/customers/samsung-ct",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/samsung-ct",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Sansan",
+    "domain": "sansan.com",
+    "industry": "Software",
+    "tools": [
+      {
+        "name": "Figma",
+        "use_case": "Dev Mode MCP Server를 통한 공동 개발 시대",
+        "source_url": "https://www.figma.com/customers/sansan/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.figma.com/customers/sansan/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Saudi Telecom Company (STC)",
+    "domain": "stc.com.sa",
+    "industry": "Telecommunications",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 통신 서비스",
+        "source_url": "https://cloud.google.com/customers/stc-saudi",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/stc-saudi",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Scale AI",
+    "domain": "scale.com",
+    "industry": "AI",
+    "tools": [
+      {
+        "name": "Linear",
+        "use_case": "Compressed bug resolution time by 52%",
+        "source_url": "https://linear.app/customers/scale",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://linear.app/customers/scale",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Shin-Etsu Chemical",
+    "domain": "shinetsu.co.jp",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 화학 제품",
+        "source_url": "https://cloud.google.com/customers/shin-etsu",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/shin-etsu",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Shopify",
+    "domain": "shopify.com",
+    "industry": "Canada",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 전자상거래",
+        "source_url": "https://cloud.google.com/customers/shopify",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/shopify",
+        "evidence_title": ""
+      },
+      {
+        "name": "Slack",
+        "use_case": "팀 협업 및 프로젝트 관리",
+        "source_url": "https://slack.com/customer-stories/ecommerce-platform-deploys-super-bot",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://slack.com/customer-stories/ecommerce-platform-deploys-super-bot",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Shoprite Holdings",
+    "domain": "shoprite.co.za",
+    "industry": "South Africa",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 소매 시스템",
+        "source_url": "https://cloud.google.com/customers/shoprite",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/shoprite",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Sierra",
+    "domain": "sierra.ai",
+    "industry": "AI",
+    "tools": [
+      {
+        "name": "Linear",
+        "use_case": "From project updates to accountability, moves as one company in Linear",
+        "source_url": "https://linear.app/customers/sierra",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://linear.app/customers/sierra",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Skanska",
+    "domain": "skanska.com",
+    "industry": "Construction",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 건설 프로젝트 관리",
+        "source_url": "https://cloud.google.com/customers/skanska",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/skanska",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Skoda Auto",
+    "domain": "skoda-auto.com",
+    "industry": "Czech Republic",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 자동차 제조",
+        "source_url": "https://cloud.google.com/customers/skoda-auto",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/skoda-auto",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Snowflake",
+    "domain": "snowflake.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 데이터 웨어하우스",
+        "source_url": "https://cloud.google.com/customers/snowflake",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/snowflake",
+        "evidence_title": "<!-- \"> '> --><title>"
+      },
+      {
+        "name": "Slack",
+        "use_case": "팀 협업 및 프로젝트 관리",
+        "source_url": "https://slack.com/customer-stories/snowflake-crystalizes-relationships-slack-connect",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://slack.com/customer-stories/snowflake-crystalizes-relationships-slack-connect",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "SoftBank",
+    "domain": "softbank.co.jp",
+    "industry": "Telecommunications",
+    "country": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "SoftBank uses Google Cloud for telecom services",
+        "source_url": "https://cloud.google.com/customers/softbank",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/softbank",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "SoftBank Group",
+    "domain": "softbankgroup.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 투자 및 기술 서비스",
+        "source_url": "https://cloud.google.com/customers/softbank",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/softbank",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Sopra Steria",
+    "domain": "soprasteria.com",
+    "industry": "France",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 IT 서비스",
+        "source_url": "https://cloud.google.com/customers/soprasteria",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/soprasteria",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Special Olympics",
+    "domain": "specialolympics.org",
+    "industry": "Nonprofit",
+    "tools": [
+      {
+        "name": "Smartsheet",
+        "use_case": "Uses Smartsheet to gain visibility into global portfolio of projects, saving time and money, and improving communication",
+        "source_url": "https://www.smartsheet.com/customers/special-olympics",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.smartsheet.com/customers/special-olympics",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Splunk",
+    "domain": "splunk.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 데이터 분석",
+        "source_url": "https://cloud.google.com/customers/splunk",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/splunk",
+        "evidence_title": "<!-- \"> '> --><title>"
+      },
+      {
+        "name": "Slack",
+        "use_case": "팀 협업 및 프로젝트 관리",
+        "source_url": "https://slack.com/customer-stories/slack-excellence-in-sales-splunk-inc",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://slack.com/customer-stories/slack-excellence-in-sales-splunk-inc",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Spotify",
+    "domain": "spotify.com",
+    "industry": "Sweden",
+    "tools": [
+      {
+        "name": "Asana",
+        "use_case": "Spotify의 글로벌 원격 우선 인력을 위한 프로젝트 관리 및 협업, 광고 캠페인 생산 자동화, 기술 구현 관리",
+        "source_url": "https://asana.com/case-study/spotify",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://asana.com/case-study/spotify",
+        "evidence_title": ""
+      },
+      {
+        "name": "Google Cloud",
+        "use_case": "데이터 분석 및 소프트웨어 응용 프로그램 개발 가속화를 위한 BigQuery 및 Pub/Sub 활용",
+        "source_url": "https://cloud.google.com/customers/spotify",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/spotify",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Square",
+    "domain": "squareup.com",
+    "industry": "Fintech",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 결제 솔루션",
+        "source_url": "https://chromeenterprise.google/customers/square/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://chromeenterprise.google/customers/square/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Stanbic Bank Uganda",
+    "domain": "stanbicbank.co.ug",
+    "industry": "Uganda",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 뱅킹 서비스",
+        "source_url": "https://cloud.google.com/customers/stanbic-bank-uganda",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/stanbic-bank-uganda",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Stanford University",
+    "domain": "stanford.edu",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Microsoft 365",
+        "use_case": "교육 및 연구 협업",
+        "source_url": "https://www.microsoft.com/en-us/education/higher-education",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.microsoft.com/en-us/education/higher-education",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Steelcase",
+    "domain": "steelcase.com",
+    "industry": "Office Furniture",
+    "tools": [
+      {
+        "name": "Mural",
+        "use_case": "Used visual collaboration to align global workforce while transitioning to hybrid work",
+        "source_url": "https://www.mural.co/case-studies/steelcase",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.mural.co/case-studies/steelcase",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Stripe",
+    "domain": "stripe.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Slack",
+        "use_case": "팀 협업 및 프로젝트 관리",
+        "source_url": "https://slack.com/customer-stories/stripe",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://slack.com/customer-stories/stripe",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Subaru Corporation",
+    "domain": "global.subaru.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 자동차 제조",
+        "source_url": "https://cloud.google.com/customers/subaru/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/subaru/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Suez",
+    "domain": "suez.com",
+    "industry": "France",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 수자원 관리",
+        "source_url": "https://cloud.google.com/customers/suez",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/suez",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Sumitomo Chemical",
+    "domain": "sumitomo-chem.co.jp",
+    "industry": "Chemicals/Materials",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 화학 제품",
+        "source_url": "https://cloud.google.com/customers/sumitomo-chemical",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/sumitomo-chemical",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Sumitomo Electric Industries",
+    "domain": "sei.co.jp",
+    "industry": "Electrical Equipment",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 전기 제품",
+        "source_url": "https://cloud.google.com/customers/sumitomo-electric",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/sumitomo-electric",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Sumitomo Mitsui Financial Group",
+    "domain": "smfg.co.jp",
+    "industry": "Financial Services",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 금융 서비스",
+        "source_url": "https://cloud.google.com/customers/sumitomo-mitsui",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/sumitomo-mitsui",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Sydney Symphony Orchestra",
+    "domain": "sydneysymphony.com",
+    "industry": "Arts",
+    "tools": [
+      {
+        "name": "Smartsheet",
+        "use_case": "Modernised operational workflows with Smartsheet, putting time and energy back into the hands of its musicians",
+        "source_url": "https://www.smartsheet.com/customers/sydney-symphony-orchestra",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.smartsheet.com/customers/sydney-symphony-orchestra",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "TDK",
+    "domain": "tdk.com",
+    "industry": "Electronics/Components",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 전자 부품",
+        "source_url": "https://cloud.google.com/customers/tdk",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/tdk",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Takeda",
+    "domain": "takeda.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 의약 개발",
+        "source_url": "https://cloud.google.com/customers/takeda",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/takeda",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Taxify (Bolt)",
+    "domain": "taxify.eu",
+    "industry": "Transportation",
+    "country": "Estonia",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "Taxify uses Google Cloud for ride-sharing platform",
+        "source_url": "https://cloud.google.com/customers/bolt",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/bolt",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Telenet",
+    "domain": "telenet.be",
+    "industry": "Belgium",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 통신 서비스",
+        "source_url": "https://cloud.google.com/customers/telenet",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/telenet",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "TensorFlow",
+    "domain": "tensorflow.org",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 머신러닝 프레임워크",
+        "source_url": "https://cloud.google.com/customers/tensorflow",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/tensorflow",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Thales",
+    "domain": "thalesgroup.com",
+    "industry": "Aerospace/Defense",
+    "tools": [
+      {
+        "name": "GitLab",
+        "use_case": "Revolutionizes in-flight entertainment with personalized experiences using GitLab",
+        "source_url": "https://about.gitlab.com/customers/thales/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://about.gitlab.com/customers/thales/",
+        "evidence_title": ""
+      },
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 항공우주 및 방산",
+        "source_url": "https://cloud.google.com/customers/thales",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/thales",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "The Danberry Co.",
+    "domain": "danberry.com",
+    "industry": "Real Estate",
+    "tools": [
+      {
+        "name": "Canva",
+        "use_case": "Unlocks 16x more content and wins the market with Canva Enterprise",
+        "source_url": "https://www.canva.com/case-studies/the-danberry-co/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.canva.com/case-studies/the-danberry-co/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "The New York Times",
+    "domain": "nytimes.com",
+    "industry": "Media",
+    "tools": [
+      {
+        "name": "Coda",
+        "use_case": "Employs Coda to streamline editorial processes and project management",
+        "source_url": "https://www.dimmo.ai/products/coda",
+        "source_type": "media_article",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.dimmo.ai/products/coda",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "The Op Games",
+    "domain": "theopgames.com",
+    "industry": "Entertainment",
+    "tools": [
+      {
+        "name": "Airtable",
+        "use_case": "Built operational backbone with Airtable & AI",
+        "source_url": "https://www.airtable.com/customer-stories/the-op-games",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.airtable.com/customer-stories/the-op-games",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "The Property Franchise Group",
+    "domain": "tpfg.co.uk",
+    "industry": "Real Estate",
+    "tools": [
+      {
+        "name": "Canva",
+        "use_case": "Saves £16.8 million and ensures brand consistency across 700 offices with Canva",
+        "source_url": "https://www.canva.com/case-studies/the-property-franchise-group/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.canva.com/case-studies/the-property-franchise-group/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Thermo Fisher Scientific",
+    "domain": "thermofisher.com",
+    "industry": "Scientific Instruments",
+    "tools": [
+      {
+        "name": "Smartsheet",
+        "use_case": "Quality Division elevates project visibility with Smartsheet",
+        "source_url": "https://www.smartsheet.com/customers/thermo-fisher",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.smartsheet.com/customers/thermo-fisher",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Thoughtworks",
+    "domain": "thoughtworks.com",
+    "industry": "Consulting",
+    "tools": [
+      {
+        "name": "Mural",
+        "use_case": "Facilitated virtual executive offsite for strategic planning",
+        "source_url": "https://www.mural.co/case-studies/thoughtworks",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.mural.co/case-studies/thoughtworks",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "TikTok",
+    "domain": "tiktok.com",
+    "industry": "Social Media",
+    "tools": [
+      {
+        "name": "Jira",
+        "use_case": "Uses Jira for project management",
+        "source_url": "https://www.atlassian.com/software/jira",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.atlassian.com/software/jira",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Time Magazine",
+    "domain": "time.com",
+    "industry": "Media",
+    "country": "USA",
+    "tools": [
+      {
+        "name": "Airtable",
+        "use_case": "Time Magazine uses Airtable for editorial management",
+        "source_url": "https://www.airtable.com/customer-stories/time",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.airtable.com/customer-stories/time",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Tokio Marine Holdings",
+    "domain": "tokiomarinehd.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 보험 서비스",
+        "source_url": "https://cloud.google.com/customers/tokio-marine",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/tokio-marine",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Toray Industries",
+    "domain": "toray.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 섬유 및 화학",
+        "source_url": "https://cloud.google.com/customers/toray",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/toray",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Toshiba",
+    "domain": "toshiba.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 에너지 솔루션",
+        "source_url": "https://cloud.google.com/customers/toshiba",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/toshiba",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Toyo Tire & Rubber Company",
+    "domain": "toyotire.co.jp",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 타이어 제조",
+        "source_url": "https://cloud.google.com/customers/toyo-tire",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/toyo-tire",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Toyota Industries",
+    "domain": "toyota-industries.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 제조 운영",
+        "source_url": "https://cloud.google.com/customers/toyota-industries",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/toyota-industries",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Trello",
+    "domain": "trello.com",
+    "industry": "Software",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 프로젝트 관리",
+        "source_url": "https://cloud.google.com/customers/trello",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/trello",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Truecaller",
+    "domain": "truecaller.com",
+    "industry": "Telecommunications",
+    "tools": [
+      {
+        "name": "Figma",
+        "use_case": "협업, 접근성, 보안 개선 및 수억 명의 사용자를 위한 제품 확장",
+        "source_url": "https://www.figma.com/customers/how-truecaller-scaled-securely-and-efficiently-with-figma/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.figma.com/customers/how-truecaller-scaled-securely-and-efficiently-with-figma/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Twilio",
+    "domain": "twilio.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 통신 API",
+        "source_url": "https://cloud.google.com/customers/twilio",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/twilio",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "UACJ Corporation",
+    "domain": "uacj.co.jp",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 알루미늄 제조",
+        "source_url": "https://cloud.google.com/customers/uacj",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/uacj",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "UPshow",
+    "domain": "upshow.tv",
+    "industry": "Technology",
+    "tools": [
+      {
+        "name": "Canva",
+        "use_case": "Enabled its customers to create professional-looking promotions instantly with Canva",
+        "source_url": "https://www.canva.com/case-studies/upshow/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.canva.com/case-studies/upshow/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "USA Today",
+    "domain": "usatoday.com",
+    "industry": "Media",
+    "tools": [
+      {
+        "name": "Canva",
+        "use_case": "Canva empowers to break news at speed",
+        "source_url": "https://www.canva.com/case-studies/usa-today/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.canva.com/case-studies/usa-today/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Uber",
+    "domain": "uber.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 운송 플랫폼",
+        "source_url": "https://cloud.google.com/customers/uber",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/uber",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Umicore",
+    "domain": "umicore.com",
+    "industry": "Belgium",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 첨단 재료",
+        "source_url": "https://cloud.google.com/customers/umicore",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/umicore",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "University of Portland",
+    "domain": "up.edu",
+    "industry": "Education",
+    "tools": [
+      {
+        "name": "Canva",
+        "use_case": "Achieved a 98% reduction in design turnaround times with Canva",
+        "source_url": "https://www.canva.com/case-studies/university-of-portland/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.canva.com/case-studies/university-of-portland/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Updater",
+    "domain": "updater.com",
+    "industry": "Technology",
+    "tools": [
+      {
+        "name": "Canva",
+        "use_case": "Powering a seamless branding process for tech startup",
+        "source_url": "https://www.canva.com/case-studies/updater/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.canva.com/case-studies/updater/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Upworthy",
+    "domain": "upworthy.com",
+    "industry": "Media",
+    "tools": [
+      {
+        "name": "Canva",
+        "use_case": "Engages millions of readers through Canva's customizable templates",
+        "source_url": "https://www.canva.com/case-studies/upworthy/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.canva.com/case-studies/upworthy/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Verbund",
+    "domain": "verbund.com",
+    "industry": "Austria",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 전력 생산",
+        "source_url": "https://cloud.google.com/customers/verbund",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/verbund",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Vimeo",
+    "domain": "vimeo.com",
+    "industry": "Technology/Media",
+    "tools": [
+      {
+        "name": "Airtable",
+        "use_case": "Consolidated tools and created fully custom apps for customer experience operations. Built central hub for teams to track account health, manage interactions, and understand product usage. Connected 7 teams and consolidated 15+ workflows.",
+        "source_url": "https://www.airtable.com/customer-stories/vimeo",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.airtable.com/customer-stories/vimeo",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Vinci",
+    "domain": "vinci.com",
+    "industry": "Construction/Concessions",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 건설 및 콘세션",
+        "source_url": "https://cloud.google.com/customers/vinci",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/vinci",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Vineyard Veterinary Hospital",
+    "domain": "vineyardvet.com.au",
+    "industry": "Veterinary",
+    "tools": [
+      {
+        "name": "Canva",
+        "use_case": "Easy design gives pups a second chance at life",
+        "source_url": "https://www.canva.com/case-studies/vineyard-veterinary-hospital/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.canva.com/case-studies/vineyard-veterinary-hospital/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Vinted",
+    "domain": "vinted.com",
+    "industry": "E-commerce",
+    "country": "Lithuania",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "Vinted uses Google Cloud for second-hand marketplace platform",
+        "source_url": "https://cloud.google.com/customers/vinted",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/vinted",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Virginia Department of Health",
+    "domain": "vdh.virginia.gov",
+    "industry": "Government/Healthcare",
+    "tools": [
+      {
+        "name": "Canva",
+        "use_case": "Drives secure, scalable design across 35 districts with Canva Enterprise",
+        "source_url": "https://www.canva.com/case-studies/virginia-department-of-health/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:32:23+00:00",
+        "final_url": "https://www.canva.com/case-studies/virginia-department-of-health/",
+        "evidence_title": "Virginia Department of Health drives secure, scalable design across 35 districts with Canva Enterprise"
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
+    "company": "Vodacom",
+    "domain": "vodacom.com",
+    "industry": "Telecommunications",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 통신 서비스",
+        "source_url": "https://cloud.google.com/customers/vodacom",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/vodacom",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Vodafone Hutchison Australia",
+    "domain": "vodafone.com.au",
+    "industry": "Telecommunications",
+    "country": "Australia",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "Vodafone Australia uses Google Cloud for telecom services",
+        "source_url": "https://cloud.google.com/customers/vodafone/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/vodafone/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Walkley Foundation",
+    "domain": "walkley.com",
+    "industry": "Media",
+    "tools": [
+      {
+        "name": "Canva",
+        "use_case": "Canva helps streamline event marketing",
+        "source_url": "https://www.canva.com/case-studies/walkley-foundation/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.canva.com/case-studies/walkley-foundation/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Watershed",
+    "domain": "watershed.com",
+    "industry": "Sustainability",
+    "tools": [
+      {
+        "name": "Linear",
+        "use_case": "Uses Linear for product development",
+        "source_url": "https://linear.app/customers/watershed",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://linear.app/customers/watershed",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Wayfair",
+    "domain": "wayfair.com",
+    "industry": "E-commerce",
+    "tools": [
+      {
+        "name": "Jira",
+        "use_case": "Uses Jira for project management",
+        "source_url": "https://www.atlassian.com/software/jira",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.atlassian.com/software/jira",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Wilderness Society",
+    "domain": "wilderness.org.au",
+    "industry": "Nonprofit",
+    "tools": [
+      {
+        "name": "Canva",
+        "use_case": "Canva empowers to create, engage and collaborate",
+        "source_url": "https://www.canva.com/case-studies/wilderness-society/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.canva.com/case-studies/wilderness-society/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Wondery",
+    "domain": "wondery.com",
+    "industry": "Media",
+    "tools": [
+      {
+        "name": "Airtable",
+        "use_case": "Unearth profitable insights in troves of podcasts",
+        "source_url": "https://www.airtable.com/customer-stories/wondery",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.airtable.com/customer-stories/wondery",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Yokohama Rubber Company",
+    "domain": "yokohamarubber.com",
+    "industry": "Japan",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 타이어 제조",
+        "source_url": "https://cloud.google.com/customers/yokohama-rubber",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/yokohama-rubber",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "ZEISS Group",
+    "domain": "zeiss.com",
+    "industry": "Optics",
+    "tools": [
+      {
+        "name": "Smartsheet",
+        "use_case": "Brings optical clarity and velocity to a global team with Smartsheet",
+        "source_url": "https://www.smartsheet.com/customers/zeiss-group",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.smartsheet.com/customers/zeiss-group",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Zillow",
+    "domain": "zillow.com",
+    "industry": "Proptech",
+    "country": "USA",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "Zillow uses Google Cloud for real estate platform",
+        "source_url": "https://cloud.google.com/customers/zillow",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/zillow",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "Zoom",
+    "domain": "zoom.com",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 비디오 회의",
+        "source_url": "https://cloud.google.com/customers/zoom",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/zoom",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "eXp Realty",
+    "domain": "exprealty.com",
+    "industry": "Real Estate",
+    "tools": [
+      {
+        "name": "Canva",
+        "use_case": "Drives brand empowerment and accelerates go-to-market for 82K+ agents worldwide",
+        "source_url": "https://www.canva.com/case-studies/exp-realty/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://www.canva.com/case-studies/exp-realty/",
+        "evidence_title": ""
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "edX",
+    "domain": "edx.org",
+    "industry": "United States",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "클라우드 기반 온라인 교육",
+        "source_url": "https://cloud.google.com/customers/edx",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/edx",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "iFood",
+    "domain": "ifood.com.br",
+    "industry": "Food Delivery",
+    "country": "Brazil",
+    "tools": [
+      {
+        "name": "Google Cloud",
+        "use_case": "iFood uses Google Cloud for food delivery platform",
+        "source_url": "https://cloud.google.com/customers/ifood",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://cloud.google.com/customers/ifood",
+        "evidence_title": "<!-- \"> '> --><title>"
+      }
+    ],
+    "updated_at": "2026-02-19"
+  },
+  {
+    "company": "가톨릭중앙의료원(CMC)",
+    "source_url": "https://naver.worksmobile.com/cases/cmc/",
+    "source_type": "vendor_case_study",
+    "use_case": "의료 현장의 디지털 혁신(DX) 및 협업",
+    "industry": "의료/간호/제약",
+    "domain": "cmc.or.kr",
+    "updated_at": "2026-02-19",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "의료 현장의 디지털 혁신(DX) 및 협업",
+        "source_url": "https://naver.worksmobile.com/cases/cmc/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://naver.worksmobile.com/cases/cmc/",
+        "evidence_title": ""
+      }
+    ]
+  },
+  {
+    "company": "대웅제약",
+    "source_url": "https://naver.worksmobile.com/cases/itdonga/",
+    "source_type": "vendor_case_study",
+    "use_case": "글로벌 헬스케어 그룹 스마트워크 환경 구축, 전자결재 5분 내 처리, 그룹 기능 활용 협업, 통번역으로 외국인 대응 시간 4시간→10분 절감",
+    "industry": "제약/헬스케어",
+    "domain": "daewong.co.kr",
+    "updated_at": "2026-02-19",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "글로벌 헬스케어 그룹 스마트워크 환경 구축, 전자결재 5분 내 처리, 그룹 기능 활용 협업, 통번역으로 외국인 대응 시간 4시간→10분 절감",
+        "source_url": "https://naver.worksmobile.com/cases/itdonga/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://naver.worksmobile.com/cases/itdonga/",
+        "evidence_title": ""
+      }
+    ]
+  },
+  {
+    "company": "신지모루",
+    "source_url": "https://blog.jandi.com/ko/2025/12/03/customercase-sinjimoru/",
+    "source_type": "vendor_case_study",
+    "use_case": "토픽 생성, 멘션 등 메신저 기능을 활용한 전사 업무 소통 및 협업",
+    "industry": "제조",
+    "domain": "sinjimoru.com",
+    "updated_at": "2026-02-19",
+    "tools": [
+      {
+        "name": "JANDI",
+        "use_case": "토픽 생성, 멘션 등 메신저 기능을 활용한 전사 업무 소통 및 협업",
+        "source_url": "https://blog.jandi.com/ko/2025/12/03/customercase-sinjimoru/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://blog.jandi.com/ko/2025/12/03/customercase-sinjimoru/",
+        "evidence_title": ""
+      }
+    ]
+  },
+  {
+    "company": "이데일리",
+    "source_url": "https://naver.worksmobile.com/cases/edaily/",
+    "source_type": "vendor_case_study",
+    "use_case": "국내 대표 언론사, 인사 담당자 업무 효율성 향상, 메시지 스티커 및 읽음 기능으로 부드러운 커뮤니케이션, 모바일 앱 편리한 업무",
+    "industry": "미디어/언론",
+    "domain": "edaily.co.kr",
+    "updated_at": "2026-02-19",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "국내 대표 언론사, 인사 담당자 업무 효율성 향상, 메시지 스티커 및 읽음 기능으로 부드러운 커뮤니케이션, 모바일 앱 편리한 업무",
+        "source_url": "https://naver.worksmobile.com/cases/edaily/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://naver.worksmobile.com/cases/edaily/",
+        "evidence_title": ""
+      }
+    ]
+  },
+  {
+    "company": "한국고무주식회사",
+    "source_url": "https://naver.worksmobile.com/cases/korearubber/",
+    "source_type": "vendor_case_study",
+    "use_case": "업무용 메일과 드라이브를 기반한 소속감과 신뢰 향상 및 안전 협업 환경",
+    "industry": "제조",
+    "domain": "korearubber.com",
+    "updated_at": "2026-02-19",
+    "tools": [
+      {
+        "name": "NAVER WORKS",
+        "use_case": "업무용 메일과 드라이브를 기반한 소속감과 신뢰 향상 및 안전 협업 환경",
+        "source_url": "https://naver.worksmobile.com/cases/korearubber/",
+        "source_type": "vendor_case_study",
+        "verified": true,
+        "http_status": 200,
+        "checked_at": "2026-02-21T04:19:55+00:00",
+        "final_url": "https://naver.worksmobile.com/cases/korearubber/",
+        "evidence_title": ""
+      }
+    ]
+  },
+  {
+    "company": "Ferguson",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "Ferguson이 Salesforce를 도입해 유통·고객경험 중심 디지털 전환을 추진",
+        "source_url": "https://www.prnewswire.com/news-releases/ferguson-selects-salesforce-to-power-its-digital-transformation-301223693.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
+    "company": "AT&T",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "AT&T가 Salesforce Customer 360, Sales Cloud, Service Cloud 등을 도입해 고객 접점 통합과 개인화 추천을 추진",
+        "source_url": "https://www.prnewswire.com/news-releases/att-selects-salesforce-to-accelerate-its-customer-experience-vision-301067335.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
+    "company": "Esprit",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "Esprit가 Salesforce를 도입해 리테일·소비자 대상 디지털 전략을 강화",
+        "source_url": "https://www.prnewswire.com/news-releases/esprit-selects-salesforce-to-enhance-its-digital-strategy-for-retailers-and-consumers-300935090.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
+    "company": "L'OCCITANE Group",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "Salesforce",
+        "use_case": "L'OCCITANE Group이 Salesforce Commerce Cloud를 글로벌 이커머스 플랫폼으로 채택",
+        "source_url": "https://www.prnewswire.com/news-releases/loccitane-group-selects-salesforce-commerce-cloud-as-global-ecommerce-platform-300569785.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
+    "company": "Applied Industrial Technologies",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "Applied Industrial Technologies가 SAP를 도입해 기술 플랫폼과 비즈니스 트랜잭션 시스템 전환을 추진",
+        "source_url": "https://www.prnewswire.com/news-releases/applied-industrial-technologies-selects-sap-to-transform-its-technology-platforms-104174113.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
+    "company": "CP Foods",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "CP Foods가 SAP 지속가능성 솔루션을 도입해 공급망 배출 데이터 기록·보고 체계를 구축",
+        "source_url": "https://www.prnewswire.com/news-releases/cp-foods-selects-sap-solutions-for-cloud-sustainability-302139993.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
+    "company": "Newsbyte: Lloyd's Register",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "Lloyd's Register가 SAP를 선택해 글로벌 비즈니스 전환 프로그램을 수행",
+        "source_url": "https://www.prnewswire.com/news-releases/newsbyte-lloyds-register-selects-sap-for-major-global-business-transformation-program-300165524.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
+    "company": "Agilent Technologies",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "Agilent Technologies가 SAP CRM 연계 솔루션을 도입해 고객 서비스 응답 체계를 개선",
+        "source_url": "https://www.prnewswire.com/news-releases/agilent-technologies-selects-sap-to-drive-world-class-customer-service-128000998.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
+    "company": "Swagelok",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "Swagelok이 SAP ERP를 도입해 재무·공급망·제조·유통 시스템 통합을 추진",
+        "source_url": "https://www.prnewswire.com/news-releases/swagelok-selects-sap-to-transform-business-systems-124702718.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
+    "company": "Action",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "Action이 SAP SuccessFactors 솔루션을 도입해 급성장 리테일 인사 운영을 지원",
+        "source_url": "https://www.prnewswire.com/news-releases/action-selects-sap-successfactors-solutions-to-support-rapid-retail-growth-300466885.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
+    "company": "Etihad Airways",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "Etihad Airways가 SAP를 전략 기술 파트너로 선정해 핵심 운영 소프트웨어 배치를 추진",
+        "source_url": "https://www.prnewswire.com/news-releases/etihad-airways-selects-sap-as-a-strategic-technology-partner-for-business-transformation-180564791.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
+    "company": "Newsbyte: Cabela's Inc.",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "Cabela's가 SAP POS 애플리케이션을 도입해 매장 확장과 고객 서비스 운영을 지원",
+        "source_url": "https://www.prnewswire.com/news-releases/newsbyte-cabelas-inc-selects-sap-to-support-retail-expansion-increase-customer-service-149489285.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
+    "company": "Microsoft",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "Microsoft가 SAP SuccessFactors HCM Suite를 채택해 글로벌 HR 운영 전환을 추진",
+        "source_url": "https://www.prnewswire.com/news-releases/microsoft-selects-sap-successfactors-hcm-suite-to-transform-hr-globally-300364001.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  },
+  {
+    "company": "Hitachi Consulting",
+    "domain": "",
+    "industry": "Unknown",
+    "tools": [
+      {
+        "name": "SAP",
+        "use_case": "Hitachi Consulting이 SAP Carbon Impact 온디맨드 솔루션 사용 계약을 체결해 탄소배출 관리 체계를 구축",
+        "source_url": "https://www.prnewswire.com/news-releases/hitachi-consulting-selects-sapr-carbon-impact-on-demand-solution-to-support-environmental-vision-82150452.html",
+        "source_type": "press_release",
+        "verified": true
+      }
+    ],
+    "updated_at": "2026-02-21"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "generated_at": "2026-02-22T04:12:57+00:00",
+  "target": 1000,
+  "actual_items": 729,
+  "actual_companies": 655,
+  "candidates": 1769,
+  "output_flat": "data/researched_verified_1000.json",
+  "output_db": "data/companies.researched1000.json"
+}

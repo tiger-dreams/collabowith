@@ -1,0 +1,17 @@
+{
+  "checked_at": "2026-02-21T04:19:55+00:00",
+  "total_companies": 730,
+  "total_unique_urls": 1099,
+  "total_tool_entries": 1141,
+  "cleaned_entries": 305,
+  "quarantined_entries": 611,
+  "retry_entries": 225,
+  "reasons": {
+    "root_or_listing_page": 41,
+    "invalid_host_pattern": 81,
+    "http_403": 109,
+    "http_404": 380,
+    "http_429": 116,
+    "network_error": 109
+  }
+}

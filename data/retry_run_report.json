@@ -1,0 +1,14 @@
+{
+  "checked_at": "2026-02-22T03:49:43+00:00",
+  "attempts": 3,
+  "timeout": 8,
+  "workers": 24,
+  "input_retry_items": 224,
+  "resolved_items": 0,
+  "remaining_items": 224,
+  "before_backup": "data/companies.before_retry.20260222_125014.json",
+  "backup_source": "data/companies.validonly.bak.20260221_132407.json",
+  "resolved_path": "data/retry_queue_resolved.json",
+  "retry_queue_path": "data/retry_queue.json",
+  "data_path": "data/companies.json"
+}
